@@ -1,0 +1,99 @@
+@import "base/normalize";
+@import "base/base";
+
+@import "bootstrap-compass";
+@import "bootstrap";
+
+@import "modules/navbar";
+
+@import "compass/css3/border-radius";
+
+.home-full-screen {
+  background: url(image-path("ops.jpg")) 50% 100% / cover no-repeat scroll rgb(41, 44, 51);
+  min-height: 100%;
+  width: 100%;
+  padding: 50px 0 0;
+}
+
+.banner {
+  margin-top: 20%;
+  text-align: center;
+  color: #fff;
+}
+
+.brand-header {
+  margin-top: 30px;
+  font-size: 3em;
+}
+
+.tag-line {
+  font-size: 1.25em;
+  color: #9E9E9E;
+}
+
+.submit-talk {
+  margin: 2em 0;
+  a {
+    padding: 0.5em 1em;
+    font-size: 1.25em;
+    color: rgb(255, 71, 25);
+    border: 2px solid rgb(255, 71, 25);
+    @include border-radius(0.5em);
+  }
+}
+
+.register {
+  margin: 2em 0;
+  font-size: 1.25em;
+}
+
+.event-logo {
+  @media (max-width: 992px) {
+    width: 50%;
+    margin: 30px auto;
+  }
+}
+
+.home-row {
+  text-align: center;
+  padding-bottom: 2em;
+  h1 {
+    margin: 1em auto;
+  }
+}
+
+#venue {
+  background-color: #F0F0F0;
+  .address {
+    line-height: 1em;
+    text-align: left;
+  }
+  .map-overlay {
+    background: transparent;
+    position: relative;
+    width: 100%;
+    height: 400px;
+    top: 400px;
+    margin-top: -400px;
+  }
+}
+
+#contact-us {
+  background-color: #4C5D66;
+  color: #fff;
+}
+
+.contact-details {
+  font-size: 1.25em;
+  line-height: 1.5em;
+}
+
+footer {
+  text-align: center;
+  font-size: 0.8em;
+  color: #9E9E9E;
+  background-color: #292C33;
+  p {
+    margin: 1em auto;
+  }
+}

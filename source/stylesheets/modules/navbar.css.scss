@@ -1,0 +1,46 @@
+#devopsdays-menu.navbar-default {
+  background-color: transparent;
+  border-width: 0px;
+  border-radius: 0px;
+  color: #fff;
+  .navbar-nav > {
+    li > a {
+      color: rgba(227, 227, 227, 1);
+      background-color: transparent;
+      &:hover, &:focus {
+		 color: rgba(255, 255, 255, 1);
+	       }
+    }
+    .active > a {
+      color: rgba(255, 255, 255, 1);
+    }
+  }
+  .navbar-toggle {
+    border-color: #ddd;
+    .icon-bar {
+      background-color: #888;
+    }
+    &:hover, &:focus {
+	       background-color: #ddd;
+	     }
+    &:hover .icon-bar, &:focus .icon-bar {
+			 background-color: #3b3838;
+		       }
+  }
+
+  &.scrolled {
+    background-color: rgba(41, 44, 51, 0.75);
+  }
+
+  .navbar-header {
+    background-color: rgba(0, 0, 0, 0);
+  }
+
+  @media (max-width: 768px) {
+    .navbar-collapse {
+      background-color: rgba(56, 56, 56, 0.50);
+      border: none;
+      text-align: right;
+    }
+  }
+}

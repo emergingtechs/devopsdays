@@ -1,0 +1,54 @@
+%section.home-full-screen
+  .container
+    .row.banner
+      .col-md-4.event-logo
+        = image_tag "devops.png"
+      .col-md-8
+        .brand-header
+          DevOpsDays India 2015
+        .tag-line
+          September 12th, 13th | Bangalore
+        .submit-talk
+          = link_to "Submit a Proposal", "http://cfp-devopsdays.herokuapp.com/events/devopsdays-2015"
+        .register
+          Registrations will open on 1st June
+
+%section#venue.home-row
+  .container
+    .row
+      .span-12
+        %h1 Venue
+      .col-md-8
+        .map-overlay
+        %iframe{frameborder: "0", width: "100%", height: "400",
+                style: "pointer-event:none;",
+                src: "https://www.google.com/maps/embed/v1/place?q=Hotel%20Royal%20Orchid%2C%20Bengaluru&key=AIzaSyBd59PEx8Xebd_fsXf5Re5K4HA5MrwCpTU"}
+      .col-md-4.address
+        %h3 Hotel Royal Orchid
+        %p
+          1, Golf Avenue,
+        %p
+          Adjoining KGA Golf Course,
+        %p
+          Old Airport Rd
+        %p
+          Bengaluru, Karnataka 560008, India
+
+%section#contact-us.home-row
+  .container
+    .row
+      %h1 Get in touch
+    .row.contact-details
+      .span-4
+      .span-4
+        %i{class: "fa fa-envelope-o"}
+        email:
+        = mail_to "team@devopsdaysindia.org", "team@devopsdaysindia.org"
+      .span-4
+      .span-4
+        %i{class: "fa fa-phone"}
+        Niranjan Paranjape - +91.9538.998.499
+      .span-4
+      .span-4
+        %i{class: "fa fa-phone"}
+        Ajey Gore - +91.9958.413.789

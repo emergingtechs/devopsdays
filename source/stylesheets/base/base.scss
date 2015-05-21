@@ -1,0 +1,15 @@
+html, body {
+  height: 100%;
+}
+
+body {
+  padding: 0;
+  -webkit-box-sizing: border-box; /* Safari/Chrome, other WebKit */
+  -moz-box-sizing: border-box;    /* Firefox, other Gecko */
+  box-sizing: border-box;         /* Opera/IE 8+ */
+  font-size: 16px;
+}
+
+img {
+  max-width: 100%;
+}

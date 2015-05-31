@@ -31,20 +31,31 @@
   color: #9E9E9E;
 }
 
+@mixin link-to-button($color: rgb(51, 122, 183)) {
+  padding: 0.5em 1em;
+  font-size: 1.25em;
+  color: $color;
+  border: 2px solid $color;
+  @include border-radius(0.5em);
+  text-decoration: none;
+  &:hover {
+    color: lighten($color, 10);
+    border-color: lighten($color, 10);
+  };
+}
+
 .submit-talk {
   margin: 2em 0;
   a {
-    padding: 0.5em 1em;
-    font-size: 1.25em;
-    color: rgb(255, 71, 25);
-    border: 2px solid rgb(255, 71, 25);
-    @include border-radius(0.5em);
+    @include link-to-button(rgb(255, 71, 25));
   }
 }
 
 .register {
   margin: 2em 0;
-  font-size: 1.25em;
+  a {
+    @include link-to-button;
+  }
 }
 
 .event-logo {

@@ -16,7 +16,7 @@ end
 
 # Build-specific configuration
 configure :build do
-  activate :asset_hash
+  activate :asset_hash, :ignore => [/^t-shirt.jpg/]
 end
 
 activate :deploy do |deploy|

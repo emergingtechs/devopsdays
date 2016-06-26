@@ -1,0 +1,40 @@
+/* line 1, /Users/wallydrag/workspace/devopsdays/source/stylesheets/modules/navbar.css.scss */
+#devopsdays-menu.navbar-default {
+  background-color: transparent;
+  border-width: 0px;
+  border-radius: 0px;
+  color: #fff; }
+  /* line 7, /Users/wallydrag/workspace/devopsdays/source/stylesheets/modules/navbar.css.scss */
+  #devopsdays-menu.navbar-default .navbar-nav > li > a {
+    color: #e3e3e3;
+    background-color: transparent; }
+    /* line 10, /Users/wallydrag/workspace/devopsdays/source/stylesheets/modules/navbar.css.scss */
+    #devopsdays-menu.navbar-default .navbar-nav > li > a:hover, #devopsdays-menu.navbar-default .navbar-nav > li > a:focus {
+      color: white; }
+  /* line 14, /Users/wallydrag/workspace/devopsdays/source/stylesheets/modules/navbar.css.scss */
+  #devopsdays-menu.navbar-default .navbar-nav > .active > a {
+    color: white; }
+  /* line 18, /Users/wallydrag/workspace/devopsdays/source/stylesheets/modules/navbar.css.scss */
+  #devopsdays-menu.navbar-default .navbar-toggle {
+    border-color: #ddd; }
+    /* line 20, /Users/wallydrag/workspace/devopsdays/source/stylesheets/modules/navbar.css.scss */
+    #devopsdays-menu.navbar-default .navbar-toggle .icon-bar {
+      background-color: #888; }
+    /* line 23, /Users/wallydrag/workspace/devopsdays/source/stylesheets/modules/navbar.css.scss */
+    #devopsdays-menu.navbar-default .navbar-toggle:hover, #devopsdays-menu.navbar-default .navbar-toggle:focus {
+      background-color: #ddd; }
+    /* line 26, /Users/wallydrag/workspace/devopsdays/source/stylesheets/modules/navbar.css.scss */
+    #devopsdays-menu.navbar-default .navbar-toggle:hover .icon-bar, #devopsdays-menu.navbar-default .navbar-toggle:focus .icon-bar {
+      background-color: #3b3838; }
+  /* line 31, /Users/wallydrag/workspace/devopsdays/source/stylesheets/modules/navbar.css.scss */
+  #devopsdays-menu.navbar-default.scrolled {
+    background-color: rgba(41, 44, 51, 0.75); }
+  /* line 35, /Users/wallydrag/workspace/devopsdays/source/stylesheets/modules/navbar.css.scss */
+  #devopsdays-menu.navbar-default .navbar-header {
+    background-color: transparent; }
+  @media (max-width: 768px) {
+    /* line 40, /Users/wallydrag/workspace/devopsdays/source/stylesheets/modules/navbar.css.scss */
+    #devopsdays-menu.navbar-default .navbar-collapse {
+      background-color: rgba(56, 56, 56, 0.5);
+      border: none;
+      text-align: right; } }

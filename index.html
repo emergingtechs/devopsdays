@@ -1,816 +1,158 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />	
-    <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1"/>
-
-    <!-- FAVICON -->
-    <link rel="shortcut icon" href="favicon.ico" type="image/x-icon">
-    <link rel="icon" href="favicon.ico" type="image/x-icon">
-
-    <!-- TITLE -->
-    <title>DevOpsDays India - 2015, 12th 13th Septmber, Bengaluru</title>
-
-    <!-- DESCRIPTION -->		
-    <meta name="description" content="DevOpsDays India 2015 - 12th and 13th September, Bengaluru" />
-    <meta name="keywords"  content="DevOps, Containers, India, DevOpsDays, Automation, cloud, infrastructure, scaling, performance" />
-
-    <!-- GOOGLE FONTS -->
-    <link href='http://fonts.googleapis.com/css?family=Raleway:400,700,600,500,300,200,100,800,900' rel='stylesheet' type='text/css'> 
-
-    <!-- STYLESHEETS -->
-    <link href="assets/css/bootstrap.css" rel="stylesheet">
-    <link href="assets/css/font-awesome.min.css" rel="stylesheet" type="text/css" />
-    <link href="assets/css/flexslider.css" rel="stylesheet" >
-    <link href="assets/css/animate.css" rel="stylesheet">
-    <link href="assets/css/schedule.css" rel="stylesheet">
-    <link href="assets/css/venobox.css" rel="stylesheet" type="text/css"/>
-    <link href="assets/css/panel.css" rel="stylesheet" type="text/css" />
-    <link href="assets/css/styles.css" rel="stylesheet"/>
-    <link href="assets/css/queries.css" rel="stylesheet"/>
-
-    <!--[if lt IE 9]>
-    <script src="https://oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js"></script>
-    <script src="https://oss.maxcdn.com/libs/respond.js/1.4.2/respond.min.js"></script>
-    <![endif]-->
-
+    <title>DevOpsDays India</title>
+    <meta charset='utf-8'>
+    <meta content='DevOpsDays India 2016' name='description'>
+    <meta content='on' http-equiv='cleartype'>
+    <meta content='IE=edge,chrome=1' http-equiv='X-UA-Compatible'>
+    <meta content='width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0' name='viewport'>
+    <link href="/stylesheets/style-be051083.css" rel="stylesheet" type="text/css" />
+    <link href="//maxcdn.bootstrapcdn.com/font-awesome/4.3.0/css/font-awesome.min.css" rel="stylesheet" type="text/css" />
   </head>
-
-  <body id="top" data-spy="scroll" data-target=".header" data-offset="80">
-
-    <!--PRELOADER-->
-    <div class="preloader">
-      <div class="status"></div>
-    </div>
-    <!--/PRELOADER-->
-
-    <!--HEADER-->
-    <div class="header header-hide">
+  <body>
+    <nav class="navbar navbar-default navbar-fixed-top" role="navigation" id="devopsdays-menu">
       <div class="container">
-        <nav class="navbar navbar-default" role="navigation">
-          <div class="navbar-header">
-            <button type="button" class="navbar-toggle" data-toggle="collapse" 
-              data-target="#example-navbar-collapse">
-              <span class="sr-only">Toggle navigation</span>
-              <span class="icon-bar"></span>
-              <span class="icon-bar"></span>
-              <span class="icon-bar"></span>
-            </button>
-            <a class="navbar-brand" data-scroll href="#sec_1"><img src="assets/img/logo.png" width="80" alt="DevOpsDays"/></a>
-          </div>
-          <div class="collapse navbar-collapse" id="example-navbar-collapse">
-            <ul class="nav navbar-nav">
-              <li><a data-scroll href="#intro">About</a></li>
-              <li><a data-scroll href="#responsive">Schedule</a></li>
-              <li><a data-scroll href="#team">Speakers</a></li>
-              <li><a data-scroll href="#sponsers">Sponsors</a></li>
-              <li><a data-scroll href="#contact">Contact</a></li>
-              <li class="hidden"><a href="#sec_1">Home</a></li>
-            </ul>
-          </div>
-        </nav>
-      </div>
+      <div class="navbar-header">
+      <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#navbar-collapsable">
+        <span class="sr-only">Toggle navigation</span>
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+      </button>
+      
+      
     </div>
-    <!--/HEADER-->
-
-    <!--HOME-->		
-    <section id="sec_1" class="autoheight">
-      <div class="home-bg"></div>
-      <div class="col-lg-12 landing-text-pos align-center">
-        <h1 class="wow animated fadeInDown" data-wow-duration="1s" data-wow-delay="1s">DevOpsDays India 2015</h1>
-        <hr id="title_hr"/>
-        <p class="wow animated fadeInUp" data-wow-duration="1s" data-wow-delay="1s">The Royal Orchid, Old Airport Road, Bengaluru. 12-13 Sep 2015</p>
-        <hr id="title_hr"/>
-        <p class="wow animated fadeInUp" data-wow-duration="1s" data-wow-delay="1s">DevOps and everything container at this DevOpsDays! Register NOW!</p>
-        <hr id="title_hr"/>
-        <div style="background-color: white"><img alt="Qwinix Gold Sponsor" width="180px" src="assets/img/sponsor/qwinix.png" />
-          <img alt="Shippable Gold Sponsor" width="180px" src="assets/img/sponsor/shippable.png" />
-          <img alt="Chef Gold Sponsor" width="180px" src="assets/img/sponsor/chef.png" />
-          <img alt="PagerDuty Associate Sponsor" width="180px" src="assets/img/sponsor/pagerduty.jpg" />
-          <img alt="Red Hat Associate Sponsor" width="180px" src="assets/img/sponsor/redhat.png" /></div>
+    <div class="collapse navbar-collapse" id="navbar-collapsable">
+      <ul class="nav navbar-nav navbar-right foo" id="menu">
+      <li class="active">
+      <a href="/">
+        Home
+      </a>
+    </li>
+    <li>
+      <a href="https://www.papercall.io/devopsdays-india-2016">
+        CFP
+      </a>
+    </li>
+    <li class="active">
+      <a href="/#venue">
+        Venue
+      </a>
+    </li>
+    <li class="active">
+      <a href="/#contact-us">
+        Get in Touch
+      </a>
+    </li>
+    
+    </ul>
+    
+    </div>
+    
+    </div>
+    </nav>
+    <section class='home-full-screen'>
+      <div class='container'>
+        <div class='row banner'>
+          <div class='col-md-4 event-logo'>
+            <img src="/images/devops-62451717.png" />
+          </div>
+          <div class='col-md-8'>
+            <div class='brand-header'>
+              DevOpsDays India 2016
+            </div>
+            <div class='tag-line'>
+              November 5th, 6th | Bangalore
+            </div>
+            <div class='submit-talk'>
+              <a href="https://www.papercall.io/devopsdays-india-2016">Submit a Proposal</a>
+            </div>
+            <div class='register'>
+              <a href="https://www.townscript.com/e/dod16">Register</a>
+            </div>
+          </div>
+        </div>
       </div>
     </section>
-    <!--/HOME-->
-
-    <!--ABOUT-->	
-    <section class="intro text-center section-padding" id="intro">
-      <div class="container wow animated fadeInLeft animated" data-wow-duration="1s" data-wow-delay="0.5s">
-        <div class="row">
-          <div class="col-lg-8 align-center about">
-            <h1 class="arrow">About DevOpsDays India</h1>
-            <hr>
+    <section class='home-row' id='venue'>
+      <div class='container'>
+        <div class='row'>
+          <div class='span-12'>
+            <h1>Venue</h1>
+          </div>
+          <div class='col-md-8'>
+            <div class='map-overlay'></div>
+            <iframe frameborder='0' height='400' src='https://www.google.com/maps/embed/v1/place?q=Hotel%20Royal%20Orchid%2C%20Bengaluru&amp;key=AIzaSyBd59PEx8Xebd_fsXf5Re5K4HA5MrwCpTU' style='pointer-event:none;' width='100%'></iframe>
+          </div>
+          <div class='col-md-4 address'>
+            <h3>Hotel Royal Orchid</h3>
             <p>
-              DevOpsDays India is a global event complementing other DevOpsDays events across the world. You can find more about DevOpsDays global event <a href="http://devopsdaysindia.org">here</a> 
-              <hr id="title_hr"/>
-              This year our event is 2 days single track event especially focussed on containers based theme. While we welcome all kinds of talks, we would love to have more container talks.
-              We are lining up speakers from well known international community and companies such as PagerDuty, Chef etc. Please don't forget to submit your RFP <a href="http://cfp-devopsdays.herokuapp.com/events/devopsdays-2015">here</a> 
-
-
+              1, Golf Avenue,
+            </p>
+            <p>
+              Adjoining KGA Golf Course,
+            </p>
+            <p>
+              Old Airport Rd
+            </p>
+            <p>
+              Bengaluru, Karnataka 560008, India
             </p>
           </div>
         </div>
       </div>
     </section>
-    <!--/ABOUT-->
-
-
-    <!--FEATURES-->	
-    <section class="features text-center" id="features">
-      <div class="row">
-
-        <div class="container col-lg-12 col-md-12 features-md">          
-          <div class="row">
-            <div class="col-md-12">
-              <div class="features-wrapper">
-                <div class="col-md-4 wow animated fadeInUp" data-wow-duration="1s" data-wow-delay="0.5s">
-                  <div class="icon">
-                    30+
-                  </div>
-                  <h2>hours</h2>
-                  <p>Distributed across talks, openspaces and dedicated workshops on containers and other relevant things</p>
-                </div>
-
-                <div class="col-md-4 wow animated fadeInUp" data-wow-duration="1s" data-wow-delay="0.7s">
-                  <div class="icon">
-                    22+
-                  </div>
-                  <h2>speakers</h2>
-                  <p>2 keynote speakers from industry and community leadership, 10+ speakers across various topics, 8 speakers on lightening talks</p>
-                </div>
-
-                <div class="col-md-4 wow animated fadeInUp" data-wow-duration="1s" data-wow-delay="0.9s">
-                  <div class="icon">
-                    200+
-                  </div>
-                  <h2>attendees</h2>
-                  <p>from varied backgrounds, a diversified group of engineers, architects reprensting multiple industries</p>
-                </div>
-                <div class="clearfix"></div>
-              </div>
-            </div>
-          </div>
-        </div>
-
-
-      </div><!--row ends here-->
-    </section>
-    <!--/FEATURES-->	
-
-    <!--SCHEDULE-->        
-    <section class="text-center section-padding" id="responsive">
-      <div class="container wow animated fadeInLeft bottom-spacing">
-        <div class="row">
-          <div class="col-md-8 align-center wow animated fadeInLeft">
-            <h1 class="arrow">Schedule</h1><hr>
-            <p>DevOpsDays India is split across two days single track conferences. First day is focussed on generic issues, second day has a special containers track</p> 
+    <section class='home-row' id='sponsors'>
+      <div class='container'>
+        <div class='row sponsorship-doc'>
+          <div class='col-md-12'>
+            <a href="/DOD16_Sponsorship_Prospectus.pdf">Become a Sponsor - Sponsorship Doc</a>
           </div>
         </div>
       </div>
-
-      <div class="container-schedule container wow animated fadeInDown animated" data-wow-duration="1s" data-wow-delay="1s">
-        <div id="tabs-ui" class="tabs">
-          <nav>
-            <ul>
-              <li><a href="#section-1"><span>Day 1 DevOps, Performance and Scaling</span></a></li>
-              <li><a href="#section-2"><span>Day 2 Containers Track </span></a></li>
-              <li><a href="#section-2"><span>Workshop - Chef in Cloud </span></a></li>
-              <li><a href="#section-2"><span>Workshop - Microservices with Docker </span></a></li>
-            </ul>
-          </nav>
-          <div class="content">
-            <section id="section-1">
-              <div class="container">
-                <div class="accordion">
-                  <div class="day">September 12, 2015</div>
-                  <div class="item clearfix">
-                    <div class="heading clearfix">
-                      <div class="time col-md-3 col-sm-12 col-xs-12">9:45am - 10:00am</div>
-                      <div class="e-title col-md-9 col-sm-12 col-xs-12">
-                        Welcome speech and Overview<br/>
-                        <span class="name">Niranjan Paranjape</span>
-                        <span class="speaker-designaition">Organiser, DevOpsDays India</span>
-                      </div>
-                    </div>
-                    <div class="col-md-12 col-sm-12 col-xs-12">
-                      <div class="content details col-md-9 col-sm-12 col-xs-12">
-                        Niranjan will brief on overall organisation of DevOpsDays and how next 2 days are organised
-                      </div>
-                    </div>
-                  </div>
-
-                  <div class="item clearfix">
-                    <div class="heading">
-                      <div class="time col-md-3 col-sm-12 col-xs-12">10:00am - 10:45am</div>
-                      <div class="e-title col-md-9 col-sm-12 col-xs-12">Keynote 1<br/><span class="name">Justin Arbuckle  - </span><span class="speaker-designaition">Chef Software</span></div>
-                    </div>
-                    <div class="col-md-12 col-sm-12 col-xs-12">
-                      <div class="content venue col-md-3 col-sm-12 col-xs-12">
-                        Venue: Hall 1
-                      </div>
-                      <div class="content details col-md-9 col-sm-12 col-xs-12">
-
-                      </div>
-                    </div>
-                  </div>
-
-                  <div class="item clearfix">
-                    <div class="heading">
-                      <div class="time col-md-3 col-sm-12 col-xs-12">10:45am - 11:15am</div>
-                      <div class="e-title col-md-9 col-sm-12 col-xs-12">OpenShift<br/><span class="name">Neependra Khare </span><span class="speaker-designaition">RedHat</span></div>
-                    </div>
-                    <div class="col-md-12 col-sm-12 col-xs-12">
-                      <div class="content venue col-md-3 col-sm-12 col-xs-12">
-                        Venue: Auditorium 1
-                      </div>
-                      <div class="content details col-md-9 col-sm-12 col-xs-12">
-                        We often say that “DevOps is about empathy,” and we like how we’re breaking down silos and generating all the warm fuzzies, but what does it actually mean to be empathetic?
-                      </div>
-                    </div>
-                  </div>
-
-                  <div class="item clearfix">
-                    <div class="heading">
-                      <div class="time col-md-3 col-sm-12 col-xs-12">11:15am - 11:45am</div>
-                      <div class="e-title col-md-9 col-sm-12 col-xs-12">Tea Break</div>
-                    </div>
-                    <div class="col-md-12 col-sm-12 col-xs-12">
-                      <div class="content venue col-md-3 col-sm-12 col-xs-12">
-                        Venue: Outside Lawn 
-                      </div>
-                      <div class="content details col-md-9 col-sm-12 col-xs-12">
-                        Brief break to freshen up and talk to people
-                      </div>
-                    </div>
-                  </div>
-
-                  <div class="item clearfix">
-                    <div class="heading">
-                      <div class="time col-md-3 col-sm-12 col-xs-12">11:45am - 12:15pm</div>
-                      <div class="e-title col-md-9 col-sm-12 col-xs-12">DevOps of Big Data Infrastructure at scale<br/><span class="name">Rajat Venkatesh </span><span class="speaker-designaition">Qubole</span></div>
-                    </div>
-                    <div class="col-md-12 col-sm-12 col-xs-12">
-                      <div class="content venue col-md-3 col-sm-12 col-xs-12">
-                        Venue: Auditorium 1
-                      </div>
-                      <div class="content details col-md-9 col-sm-12 col-xs-12">
-                      </div>
-                    </div>
-                  </div>
-                  <div class="item clearfix">
-                    <div class="heading">
-                      <div class="time col-md-3 col-sm-12 col-xs-12">12:15pm - 12:45pm</div>
-                      <div class="e-title col-md-9 col-sm-12 col-xs-12">Automating AWS infrastructure and code deployments using Ansible at WebEngage<br/><span class="name">Vishal Uderani </span><span class="speaker-designaition">DevOps Guy - WebEngage</span></div>
-                    </div>
-                    <div class="col-md-12 col-sm-12 col-xs-12">
-                      <div class="content venue col-md-3 col-sm-12 col-xs-12">
-                        Venue: Auditorium 1
-                      </div>
-                      <div class="content details col-md-9 col-sm-12 col-xs-12">
-                      </div>
-                    </div>
-                  </div>
-                  <div class="item clearfix">
-                    <div class="heading">
-                      <div class="time col-md-3 col-sm-12 col-xs-12">12:45pm - 2:00</div>
-                      <div class="e-title col-md-9 col-sm-12 col-xs-12">Lunch 3<br/><span class="name">Outside Lawn </span><span class="speaker-designaition">Mingle with people</span></div>
-                    </div>
-                    <div class="col-md-12 col-sm-12 col-xs-12">
-                      <div class="content venue col-md-3 col-sm-12 col-xs-12">
-                        Venue: Auditorium 1
-                      </div>
-                      <div class="content details col-md-9 col-sm-12 col-xs-12">
-                      </div>
-                    </div>
-                  </div>
-                  <div class="item clearfix">
-                    <div class="heading">
-                      <div class="time col-md-3 col-sm-12 col-xs-12">2:00pm - 2:30pm</div>
-                      <div class="e-title col-md-9 col-sm-12 col-xs-12">How resilience testing of infrastructure is the path to achieve stable,fault-tolerant and self healing infrastructure<br/><span class="name">Vipul Sharma</span><span class="speaker-designaition">DevOps Guy @ CodeIgnition</span></div>
-                    </div>
-                    <div class="col-md-12 col-sm-12 col-xs-12">
-                      <div class="content venue col-md-3 col-sm-12 col-xs-12">
-                        Venue: Auditorium 1
-                      </div>
-                      <div class="content details col-md-9 col-sm-12 col-xs-12">
-                      </div>
-                    </div>
-                  </div>
-                  <div class="item clearfix">
-                    <div class="heading">
-                      <div class="time col-md-3 col-sm-12 col-xs-12">2:30pm - 3:00pm</div>
-                      <div class="e-title col-md-9 col-sm-12 col-xs-12">Cloud deployment optimization with DevOps - An Ops Gal musings<br/><span class="name">Pracheta Budhwar</span><span class="speaker-designaition"></span></div>
-                    </div>
-                    <div class="col-md-12 col-sm-12 col-xs-12">
-                      <div class="content venue col-md-3 col-sm-12 col-xs-12">
-                        Venue: Auditorium 1
-                      </div>
-                      <div class="content details col-md-9 col-sm-12 col-xs-12">
-                      </div>
-                    </div>
-                  </div>
-
-
-                  <div class="item clearfix">
-                    <div class="heading">
-                      <div class="time col-md-3 col-sm-12 col-xs-12">3:00pm - 3:30pm</div>
-                      <div class="e-title col-md-9 col-sm-12 col-xs-12">Modern DevOps: Developer Driven Delivery with Docker<br/><span class="name">Avi Cavale</span><span class="speaker-designaition">Shippable</span></div>
-                    </div>
-                    <div class="col-md-12 col-sm-12 col-xs-12">
-                      <div class="content venue col-md-3 col-sm-12 col-xs-12">
-                        Venue: Auditorium 1
-                      </div>
-                      <div class="content details col-md-9 col-sm-12 col-xs-12">
-                      </div>
-                    </div>
-                  </div>
-
-
-                  <div class="item clearfix">
-                    <div class="heading">
-                      <div class="time col-md-3 col-sm-12 col-xs-12">3:30pm - 4:00pm</div>
-                      <div class="e-title col-md-9 col-sm-12 col-xs-12">Tea Break<br/><span class="name">TBD </span><span class="speaker-designaition">TBD</span></div>
-                    </div>
-                    <div class="col-md-12 col-sm-12 col-xs-12">
-                      <div class="content venue col-md-3 col-sm-12 col-xs-12">
-                        Venue: Auditorium 1
-                      </div>
-                      <div class="content details col-md-9 col-sm-12 col-xs-12">
-                      </div>
-                    </div>
-                  </div>
-
-
-                  <div class="item clearfix">
-                    <div class="heading">
-                      <div class="time col-md-3 col-sm-12 col-xs-12">4:00pm - 5:00pm</div>
-                      <div class="e-title col-md-9 col-sm-12 col-xs-12">Lightening Talks<br/><span class="name">Open Lightening talks </span><span class="speaker-designaition">TBD</span></div>
-                    </div>
-                    <div class="col-md-12 col-sm-12 col-xs-12">
-                      <div class="content venue col-md-3 col-sm-12 col-xs-12">
-                        Venue: Auditorium 1
-                      </div>
-                      <div class="content details col-md-9 col-sm-12 col-xs-12">
-                      </div>
-                    </div>
-                  </div>
-
-                  <div class="item clearfix">
-                    <div class="heading">
-                      <div class="time col-md-3 col-sm-12 col-xs-12">5:00pm - 6:30pm</div>
-                      <div class="e-title col-md-9 col-sm-12 col-xs-12">Openspaces<br/><span class="name">OpenSpaces </span><span class="speaker-designaition">by various community members</span></div>
-                    </div>
-                    <div class="col-md-12 col-sm-12 col-xs-12">
-                      <div class="content venue col-md-3 col-sm-12 col-xs-12">
-                        Venue: Auditorium 1
-                      </div>
-                      <div class="content details col-md-9 col-sm-12 col-xs-12">
-                      </div>
-                    </div>
-                  </div>
-
-
-                </div>        
-              </div><!--CONTAINER ENDS-->
-            </section>
-            <section id="section-2">
-              <div class="container">
-                <div class="accordion">
-                  <div class="day">September 13, 2015</div>
-                  <div class="item clearfix">
-                    <div class="heading clearfix">
-                      <div class="time col-md-3 col-sm-12 col-xs-12">10:00 - 10:45</div>
-                      <div class="e-title col-md-9 col-sm-12 col-xs-12">Designing for Big Data applications<br/><span class="name"> </span>Sidu Ponappa <span class="speaker-designaition">CEO at C42 Engineering</span></div>
-                    </div>
-                    <div class="col-md-12 col-sm-12 col-xs-12">
-                      <div class="content venue col-md-3 col-sm-12 col-xs-12">
-                        Venue: Auditorium 1
-                      </div>
-                      <div class="content details col-md-9 col-sm-12 col-xs-12">
-                      </div>
-                    </div>
-                  </div>
-
-                  <div class="item clearfix">
-                    <div class="heading">
-                      <div class="time col-md-3 col-sm-12 col-xs-12">10:45am - 11:15</div>
-                      <div class="e-title col-md-9 col-sm-12 col-xs-12">Mopping up a Networking Nightmare with an OpenVPN to create a vpn<br/><span class="name">Sankalp Singh/Shobhit Srivastava </span><span class="speaker-designaition">DevOps Dudes @ CodeIgnition</span></div>
-                    </div>
-                    <div class="col-md-12 col-sm-12 col-xs-12">
-                      <div class="content venue col-md-3 col-sm-12 col-xs-12">
-                        Venue: Auditorium 1
-                      </div>
-                      <div class="content details col-md-9 col-sm-12 col-xs-12">
-                      </div>
-                    </div>
-                  </div>
-
-                  <div class="item clearfix">
-                    <div class="heading">
-                      <div class="time col-md-3 col-sm-12 col-xs-12">10:45am - 11:15</div>
-                      <div class="e-title col-md-9 col-sm-12 col-xs-12">Mesos is the new Linux<br/><span class="name">Dharmesh Kakadia</span><span class="speaker-designaition"></span></div>
-                    </div>
-                    <div class="col-md-12 col-sm-12 col-xs-12">
-                      <div class="content venue col-md-3 col-sm-12 col-xs-12">
-                        Venue: Auditorium 1
-                      </div>
-                      <div class="content details col-md-9 col-sm-12 col-xs-12">
-                      </div>
-                    </div>
-                  </div>
-
-                  <div class="item clearfix">
-                    <div class="heading">
-                      <div class="time col-md-3 col-sm-12 col-xs-12">11:15am - 11:45am</div>
-                      <div class="e-title col-md-9 col-sm-12 col-xs-12">Tea Break</div>
-                    </div>
-                    <div class="col-md-12 col-sm-12 col-xs-12">
-                      <div class="content venue col-md-3 col-sm-12 col-xs-12">
-                        Venue: Outside Lawn 
-                      </div>
-                      <div class="content details col-md-9 col-sm-12 col-xs-12">
-                        Brief break to freshen up and talk to people
-                      </div>
-                    </div>
-                  </div>
-
-
-                  <div class="item clearfix">
-                    <div class="heading">
-                      <div class="time col-md-3 col-sm-12 col-xs-12">11:45am - 12:15pm</div>
-                      <div class="e-title col-md-9 col-sm-12 col-xs-12">DevOps with Docker - Speeding up your functional tests<br/><span class="name">Hariharan Venkitachalam</span><span class="speaker-designaition">Senior Technical Staff at IBM</span></div>
-                    </div>
-                    <div class="col-md-12 col-sm-12 col-xs-12">
-                      <div class="content venue col-md-3 col-sm-12 col-xs-12">
-                        Venue: Auditorium 1
-                      </div>
-                      <div class="content details col-md-9 col-sm-12 col-xs-12">
-                      </div>
-                    </div>
-                  </div>
-
-                  <div class="item clearfix">
-                    <div class="heading">
-                      <div class="time col-md-3 col-sm-12 col-xs-12">12:15pm - 12:45pm</div>
-                      <div class="e-title col-md-9 col-sm-12 col-xs-12">Tired of hearing about containers as a box? Here comes the Open Container Project.<br/><span class="name">Ankur Trivedi</span><span class="speaker-designaition">Senior Consultant at Xebia</span></div>
-                    </div>
-                    <div class="col-md-12 col-sm-12 col-xs-12">
-                      <div class="content venue col-md-3 col-sm-12 col-xs-12">
-                        Venue: Auditorium 1
-                      </div>
-                      <div class="content details col-md-9 col-sm-12 col-xs-12">
-                      </div>
-                    </div>
-                  </div>
-
-                  <div class="item clearfix">
-                    <div class="heading">
-                      <div class="time col-md-3 col-sm-12 col-xs-12">12:45pm - 01:15pm</div>
-                      <div class="e-title col-md-9 col-sm-12 col-xs-12">Docker Networking - A Primer<br/><span class="name">Vamsee Kanala</span><span class="speaker-designaition">DevOps Consultant</span></div>
-                    </div>
-                    <div class="col-md-12 col-sm-12 col-xs-12">
-                      <div class="content venue col-md-3 col-sm-12 col-xs-12">
-                        Venue: Auditorium 1
-                      </div>
-                      <div class="content details col-md-9 col-sm-12 col-xs-12">
-                      </div>
-                    </div>
-                  </div>
-                  <div class="item clearfix">
-                    <div class="heading">
-                      <div class="time col-md-3 col-sm-12 col-xs-12">01:15am - 02:00pm</div>
-                      <div class="e-title col-md-9 col-sm-12 col-xs-12">Lunch<br/><span class="name"></span><span class="speaker-designaition"></span></div>
-                    </div>
-                    <div class="col-md-12 col-sm-12 col-xs-12">
-                      <div class="content venue col-md-3 col-sm-12 col-xs-12">
-                        Venue: Auditorium 1
-                      </div>
-                      <div class="content details col-md-9 col-sm-12 col-xs-12">
-                      </div>
-                    </div>
-                  </div>
-
-                  <div class="item clearfix">
-                    <div class="heading">
-                      <div class="time col-md-3 col-sm-12 col-xs-12">02:00pm - 02:30pm</div>
-                      <div class="e-title col-md-9 col-sm-12 col-xs-12">Simoorg: Failure Simulation using python in a cluster for testing the stability of the code<br/><span class="name">Arjun Shenoy</span><span class="speaker-designaition">Site Reliability Engineer at LinkedIn India</span></div>
-                    </div>
-                    <div class="col-md-12 col-sm-12 col-xs-12">
-                      <div class="content venue col-md-3 col-sm-12 col-xs-12">
-                        Venue: Auditorium 1
-                      </div>
-                      <div class="content details col-md-9 col-sm-12 col-xs-12">
-                      </div>
-                    </div>
-                  </div>
-
-                  <div class="item clearfix">
-                    <div class="heading">
-                      <div class="time col-md-3 col-sm-12 col-xs-12">02:00pm - 02:30pm</div>
-                      <div class="e-title col-md-9 col-sm-12 col-xs-12">Using Kubernetes to build fault tolerant container clusters<br/><span class="name">Aditya Patawari</span><span class="speaker-designaition">Lead of Systems Engineering at BrowserStack.com</span></div>
-                    </div>
-                    <div class="col-md-12 col-sm-12 col-xs-12">
-                      <div class="content venue col-md-3 col-sm-12 col-xs-12">
-                        Venue: Auditorium 1
-                      </div>
-                      <div class="content details col-md-9 col-sm-12 col-xs-12">
-                      </div>
-                    </div>
-                  </div>
-
-
-                  <div class="item clearfix">
-                    <div class="heading">
-                      <div class="time col-md-3 col-sm-12 col-xs-12">02:30pm - 03:00pm</div>
-                      <div class="e-title col-md-9 col-sm-12 col-xs-12">Infrastructure and tooling for containerized applications with Project Atomic<br/><span class="name">Lalatendu Mohanty</span><span class="speaker-designaition">senior software engineer-containers in Red Hat</span></div>
-                    </div>
-                    <div class="col-md-12 col-sm-12 col-xs-12">
-                      <div class="content venue col-md-3 col-sm-12 col-xs-12">
-                        Venue: Auditorium 1
-                      </div>
-                      <div class="content details col-md-9 col-sm-12 col-xs-12">
-                      </div>
-                    </div>
-                  </div>
-
-                  <div class="item clearfix">
-                    <div class="heading">
-                      <div class="time col-md-3 col-sm-12 col-xs-12">03:00pm - </div>
-                      <div class="e-title col-md-9 col-sm-12 col-xs-12">Tea and OpenSpaces to Follow<br/><span class="name"></span><span class="speaker-designaition"></span></div>
-                    </div>
-                    <div class="col-md-12 col-sm-12 col-xs-12">
-                      <div class="content venue col-md-3 col-sm-12 col-xs-12">
-                        Venue: Auditorium 1
-                      </div>
-                      <div class="content details col-md-9 col-sm-12 col-xs-12">
-                      </div>
-                    </div>
-                  </div>
-                </div>        
-              </div>
-            </section>
-            <section id="section-3">
-              <div class="container">
-                <div class="accordion">
-                  <div class="day">September 12, 2015</div>
-                  <div class="item clearfix">
-                    <div class="heading clearfix">
-                      <div class="time col-md-3 col-sm-12 col-xs-12">5:00pm - 7:00pm</div>
-                      <div class="e-title col-md-9 col-sm-12 col-xs-12">Getting started with Chef in Cloud<br/><span class="name"> Ajey Gore / Niranjan Paranjape </span><span class="speaker-designaition">CodeIgnition, C42</span></div>
-                    </div>
-                    <div class="col-md-12 col-sm-12 col-xs-12">
-                      <div class="content venue col-md-3 col-sm-12 col-xs-12">
-                        Venue: Auditorium 1
-                      </div>
-                      <div class="content details col-md-9 col-sm-12 col-xs-12">
-                        This workshop focusses on setting up continueous delivery pipelines using Chef, demonstrating seting up immutable infrastructure, monitoring, zero downtime deployments. This workshop assumes that you have basic working knowledge of Chef, AWS and Ruby Language.
-                      </div>
-                    </div>
-                  </div>
-                </div>        
-              </div>
-            </section>
-            <section id="section-4">
-              <div class="container">
-                <div class="accordion">
-                  <div class="day">September 13, 2015</div>
-                  <div class="item clearfix">
-                    <div class="heading clearfix">
-                      <div class="time col-md-3 col-sm-12 col-xs-12">5:00pm - 7:pm</div>
-                      <div class="e-title col-md-9 col-sm-12 col-xs-12">Leveraging Docker for setting up microservice deployment infrastructure<br/><span class="name">Gaurav </span><span class="speaker-designaition"></span></div>
-                    </div>
-                    <div class="col-md-12 col-sm-12 col-xs-12">
-                      <div class="content venue col-md-3 col-sm-12 col-xs-12">
-                        Venue: Auditorium 1
-                      </div>
-                      <div class="content details col-md-9 col-sm-12 col-xs-12">
-                        This workshop introduces various concepts around containers, this covers rolling deployments with docker and configuration management concepts with containers.
-                      </div>
-                    </div>
-                  </div>
-                </div>        
-              </div>
-            </section>
-          </div><!-- /content -->
-        </div><!-- /tabs -->
+    </section>
+    <section class='home-row' id='contact-us'>
+      <div class='container'>
+        <div class='row'>
+          <h1>Get in touch</h1>
+        </div>
+        <div class='row contact-details'>
+          <div class='span-4'></div>
+          <div class='span-4'>
+            <i class='fa fa-envelope-o'></i>
+            email:
+            <a href="mailto:team@devopsdaysindia.org">team@devopsdaysindia.org</a>
+          </div>
+          <div class='span-4'></div>
+          <div class='span-4'>
+            <i class='fa fa-phone'></i>
+            Niranjan Paranjape - +91-9538998499
+          </div>
+          <div class='span-4'></div>
+          <div class='span-4'>
+            <i class='fa fa-phone'></i>
+            Ajey Gore - +91-9958413789
+          </div>
+          <div class='span-4'></div>
+          <div class='span-4'>
+            <i class='fa fa-phone'></i>
+            Shobhit Srivastava - +91-9935016288
+          </div>
+        </div>
       </div>
     </section>
-
-
-    <!--SPEAKERS-->
-    <section class="team text-center section-padding" id="team">
-      <div class="container">
-        <div class="row">
-          <div class="col-lg-8 wow animated fadeInUp align-center" data-wow-duration="1s" data-wow-delay="1s">
-            <h1 class="arrow">Speakers</h1><hr>
-            <p>Speaker schedule is out.</p>
-          </div>
-        </div>
-        <div class="row">
-          <div class="speakers-wrap">
-            <div id="portfolioSlider">
-              <ul class="slides">
-                <li>
-                  <div class="col-md-4 col-sm-4 wow animated fadeInUp" data-wow-duration="1s" data-wow-delay="0.5s">
-                    <div class="overlay-effect effects clearfix">
-                      <div class="img">
-                        <img src="assets/img/speakers/justin.jpg" alt="Portfolio Item">
-                        <div class="overlay">
-                          <button class="md-trigger expand" data-modal="modal-9"><i class="fa fa-search"></i><br>View More</button>
-                        </div>
-                      </div>
-                    </div>
-                    <h2>Justin Arbuckle</h2>
-                    <p>Vice President, EMEA & Chief Enterprise Architect at Chef</p>
-                  </div>
-
-                  <div class="col-md-4 col-sm-4 wow animated fadeInUp" data-wow-duration="1s" data-wow-delay="0.9s">
-                    <div class="overlay-effect effects clearfix">
-                      <div class="img">
-                        <img src="assets/img/speakers/scott_muc.jpeg" alt="Portfolio Item">
-                        <div class="overlay">
-                          <button class="md-trigger expand" data-modal="modal-9"><i class="fa fa-search"></i><br>View More</button>
-                        </div>
-                      </div>
-                    </div>
-                    <h2>Scott Muc</h2>
-                    <p>Core engineer at SoundCloud.</p>
-                  </div>
-
-                  <div class="col-md-4 col-sm-4 wow animated fadeInUp" data-wow-duration="1s" data-wow-delay="0.9s">
-                    <div class="overlay-effect effects clearfix">
-                      <div class="img">
-                        <img src="assets/img/speakers/thibault.jpg" alt="Portfolio Item">
-                        <div class="overlay">
-                          <button class="md-trigger expand" data-modal="modal-9"><i class="fa fa-search"></i><br>View More</button>
-                        </div>
-                      </div>
-                    </div>
-                    <h2>Thibault Bronchain</h2>
-                    <p>Communities @ Hyper.</p>
-                  </div>
-
-                </li>
-                <!-- <li> Second Set of Speakers -->
-                  <!-- li>
-                </li>
-                <li>
-                  </li -->
-                </ul>
-              </div>
-            </div>
-          </div> <!--Row Ends Here-->
-        </div>
-        <!-- Example Speaker -->
-        <div class="md-modal md-effect-9" id="modal-9">
-          <div class="md-content">
-            <div class="folio">
-              <div class="avatar"></div>
-              <div class="sp-name"><strong>Speaker</strong><br/>DevOpsDays India</div>
-              <div class="sp-dsc">
-                Speaker short bio
-                <blockquote>
-                  <p>Life is beautiful</p>
-                </blockquote>
-                Attending and Speaking at DevOpsDays India 2015
-              </div>
-              <div class="sp-social">
-                <ul>
-                  <li><a href="#" class="social-btn"><i class="fa fa-twitter"></i></a></li>
-                  <li><a href="#" class="social-btn"><i class="fa fa-facebook"></i></a></li>
-                  <li><a href="#" class="social-btn"><i class="fa fa-dribbble"></i></a></li>
-                </ul>
-              </div>
-              <button class="md-close"><i class="fa fa-times"></i></button>
-            </div>
-          </div>
-        </div> 
-        <div class="md-overlay"></div>
-        <!-- /Example Speaker -->
-      </section>
-      <!--/SPEAKER-->
-      <section id="portfolio" class="portfolio text-center section-padding">
-        <div class="container">
-          <div class="row">
-          <!--SPONSORS-->	
-          <div id="sponsers" class="ignite-cta text-center section-padding">
-            <div class="container">
-              <div class="row">
-                <div class="col-md-8 align-center wow animated fadeInLeft" data-wow-duration="1s" data-wow-delay="0.5s">
-                  <h1 class="arrow">Our Sponsors</h1><hr>
-                  <p>Without fabulous support from these companies we will not be able to host the event successfully, Thank you Sponsors!</p>
-                </div>
-                <!-- Jssor Slider Begin -->
-                <div id="slider1_container" style=" ">
-                  <div class="inner_carousal" data-u="slides" style="">
-                    <div><img alt="Qwinix Gold Sponsor" style="max-width: 80%;" src="assets/img/sponsor/qwinix.png" /></div>
-                    <div><img alt="Shippable Gold Sponsor" style="max-width: 80%;" src="assets/img/sponsor/shippable.png" /></div>
-                    <div><img alt="Chef Gold Sponsor" style="max-width: 80%;" src="assets/img/sponsor/chef.png" /></div>
-                    <div><img alt="PagerDuty Associate Sponsor" style="max-width: 80%;" src="assets/img/sponsor/pagerduty.jpg" /></div>
-                    <div><img alt="Red Hat Associate Sponsor" style="max-width: 80%;" src="assets/img/sponsor/redhat.png" /></div>
-                  </div>
-                </div>
-                <!-- Jssor Slider End -->
-              </div>
-            </div>
-          </div>
-          <!-- /SPONSORS -->	
-        </div>
-      </section>
-
-          <!--CONTACT-->	
-          <section class="text-center section-padding contact-wrap" id="contact">
-            <div class="container">
-              <div class="row">
-                <div class="col-md-8 wow animated fadeInLeft align-center" data-wow-duration="1s" data-wow-delay="0.3s">
-                  <h1 class="arrow">Contact</h1><hr>
-                  <p>Send us email at team at devopsdaysindia.org or contact @DevOpsDaysIN over twitter</p>
-                </div>
-              </div>
-              <div class="row contact-details">
-                <div class="col-md-4 wow animated fadeInDown" data-wow-duration="1s" data-wow-delay="0.5s">
-                  <div class="light-box box-hover">
-                    <h2><span>Address</span></h2>
-                    <p>Hotel Royal Orchid<br> Old Airport Road<br>Bangalore, India</p>
-                  </div>
-                </div>
-                <div class="col-md-4 wow animated fadeInDown" data-wow-duration="1s" data-wow-delay="0.7s">
-                  <div class="light-box box-hover">
-                    <h2><span>Phone</span></h2>
-                    <p>+91 9958413789 (Ajey Gore)<br>+91 9538998499 (Niranjan Paranjape)</p>
-                  </div>
-                </div>
-                <div class="col-md-4 wow animated fadeInDown" data-wow-duration="1s" data-wow-delay="0.9s">
-                  <div class="light-box box-hover">
-                    <h2><span>Email</span></h2>
-                    <p><a href="http://devopsdaysindia.org">DevOpsDays India</a><br><a href="#">team@devopsdaysindia.org</a></p>
-                  </div>
-                </div>
-              </div>
-            </div>
-          </section>
-          <!-- /CONTACT -->	
-
-          <!--FOOTER-->	
-          <footer>
-            <div class="container">
-              <div class="row">
-                <div class="col-md-6 align-center">
-                  <ul class="legals">
-                    <li><a href="http://devopsdaysindia.org/">Event organised by Emerging Technologies Trust</a></li>
-                  </ul>
-                </div>
-              </div>
-            </div>
-          </footer>
-          <!-- /FOOTER -->
-          <!-- /WRAPER -->
-
-          <!--SCRIPTS-->	
-
-          <script type="text/javascript" src="assets/js/jquery-1.11.0.min.js"></script>
-          <script type="text/javascript" src="assets/js/jquery-ui-1.10.4.min.js"></script>
-
-          <!--VIMEO VIDEO-->     
-          <script type="text/javascript" src="assets/js/venobox.js"></script>
-
-          <!--3D GALLERY-->
-
-          <script type="text/javascript" src="assets/js/classie.js" ></script>
-          <script type="text/javascript" src="assets/js/modalEffects.js" ></script>
-
-          <script type="text/javascript" src="assets/js/nlform.js" ></script>
-          <script>var nlform = new NLForm( document.getElementById( 'nl-form' ) );</script>
-          <script type="text/javascript" src="assets/js/bootstrap.min.js" ></script>
-
-          <!-- TEAM SLIDER  -->
-          <script type="text/javascript" src="assets/js/jquery.flexslider.js" ></script>
-
-          <!-- SCHEDULE TABS  -->
-          <script type="text/javascript" src="assets/js/modernizr.js" ></script>
-          <script type="text/javascript" src="assets/js/cbpFWTabs.js" ></script>		
-
-          <!--SPONSOR SLIDER-->
-          <script type="text/javascript" src="assets/js/jssor.core.js"></script>
-          <script type="text/javascript" src="assets/js/jssor.utils.js"></script>
-          <script type="text/javascript" src="assets/js/jssor.slider.js"></script>
-          <script type="text/javascript" src="assets/js/sponsor_init.js"></script>
-
-          <!-- SMOOTH SCROLL  -->
-          <script type="text/javascript" src="assets/js/smooth-scroll.js"></script>
-
-          <!-- NICE SCROLL  -->
-          <script type="text/javascript" src="assets/js/jquery.nicescroll.js"></script>
-
-          <!-- SUBSCRIPTION FORM  -->
-          <script type="text/javascript" src="assets/js/notifyMe.js"></script>
-
-          <script type="text/javascript" src="assets/js/jquery.placeholder.js"></script>
-
-          <!-- ANIMATION  -->
-          <script type="text/javascript" src="assets/js/wow.min.js"></script>
-
-          <!-- INITIALIZATION  -->
-          <script type="text/javascript" src="assets/js/init.js"></script>
-
-        </body>
-      </html>
+    <footer>
+      <div class='container'>
+        <p>
+          &copy; 2016  DevopsDays India, All rights reserved. DevOpsDays India is organised by Emerging Technology Trust
+        </p>
+        <p>
+          Site developed by
+          <a href="http://codemonk.in">CodeMonk</a>
+        </p>
+      </div>
+    </footer>
+    <script src="/javascripts/main-8c7b60d1.js" type="text/javascript"></script>
+  </body>
+</html>

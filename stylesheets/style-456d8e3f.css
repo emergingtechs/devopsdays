@@ -6,7 +6,7 @@
 /*
  * Corrects `block` display not defined in IE 8/9.
  */
-/* line 12, /Users/wallydrag/workspace/devopsdays/source/stylesheets/base/normalize.scss */
+/* line 12, /Users/wallydrag/workspace/wallydrag-devopsdays/source/stylesheets/base/normalize.scss */
 article,
 aside,
 details,
@@ -23,7 +23,7 @@ summary {
 /*
  * Corrects `inline-block` display not defined in IE 8/9.
  */
-/* line 30, /Users/wallydrag/workspace/devopsdays/source/stylesheets/base/normalize.scss */
+/* line 30, /Users/wallydrag/workspace/wallydrag-devopsdays/source/stylesheets/base/normalize.scss */
 audio,
 canvas,
 video {
@@ -33,7 +33,7 @@ video {
  * Prevents modern browsers from displaying `audio` without controls.
  * Remove excess height in iOS 5 devices.
  */
-/* line 41, /Users/wallydrag/workspace/devopsdays/source/stylesheets/base/normalize.scss */
+/* line 41, /Users/wallydrag/workspace/wallydrag-devopsdays/source/stylesheets/base/normalize.scss */
 audio:not([controls]) {
   display: none;
   height: 0; }
@@ -41,7 +41,7 @@ audio:not([controls]) {
 /*
  * Addresses styling for `hidden` attribute not present in IE 8/9.
  */
-/* line 50, /Users/wallydrag/workspace/devopsdays/source/stylesheets/base/normalize.scss */
+/* line 50, /Users/wallydrag/workspace/wallydrag-devopsdays/source/stylesheets/base/normalize.scss */
 [hidden] {
   display: none; }
 
@@ -53,7 +53,7 @@ audio:not([controls]) {
  * 2. Prevents iOS text size adjust after orientation change, without disabling
  *    user zoom.
  */
-/* line 64, /Users/wallydrag/workspace/devopsdays/source/stylesheets/base/normalize.scss */
+/* line 64, /Users/wallydrag/workspace/wallydrag-devopsdays/source/stylesheets/base/normalize.scss */
 html {
   font-family: sans-serif;
   /* 1 */
@@ -65,7 +65,7 @@ html {
 /*
  * Removes default margin.
  */
-/* line 74, /Users/wallydrag/workspace/devopsdays/source/stylesheets/base/normalize.scss */
+/* line 74, /Users/wallydrag/workspace/wallydrag-devopsdays/source/stylesheets/base/normalize.scss */
 body {
   margin: 0; }
 
@@ -75,14 +75,14 @@ body {
 /*
  * Addresses `outline` inconsistency between Chrome and other browsers.
  */
-/* line 86, /Users/wallydrag/workspace/devopsdays/source/stylesheets/base/normalize.scss */
+/* line 86, /Users/wallydrag/workspace/wallydrag-devopsdays/source/stylesheets/base/normalize.scss */
 a:focus {
   outline: thin dotted; }
 
 /*
  * Improves readability when focused and also mouse hovered in all browsers.
  */
-/* line 94, /Users/wallydrag/workspace/devopsdays/source/stylesheets/base/normalize.scss */
+/* line 94, /Users/wallydrag/workspace/wallydrag-devopsdays/source/stylesheets/base/normalize.scss */
 a:active,
 a:hover {
   outline: 0; }
@@ -94,21 +94,21 @@ a:hover {
  * Addresses `h1` font sizes within `section` and `article` in Firefox 4+,
  * Safari 5, and Chrome.
  */
-/* line 108, /Users/wallydrag/workspace/devopsdays/source/stylesheets/base/normalize.scss */
+/* line 108, /Users/wallydrag/workspace/wallydrag-devopsdays/source/stylesheets/base/normalize.scss */
 h1 {
   font-size: 2em; }
 
 /*
  * Addresses styling not present in IE 8/9, Safari 5, and Chrome.
  */
-/* line 116, /Users/wallydrag/workspace/devopsdays/source/stylesheets/base/normalize.scss */
+/* line 116, /Users/wallydrag/workspace/wallydrag-devopsdays/source/stylesheets/base/normalize.scss */
 abbr[title] {
   border-bottom: 1px dotted; }
 
 /*
  * Addresses style set to `bolder` in Firefox 4+, Safari 5, and Chrome.
  */
-/* line 124, /Users/wallydrag/workspace/devopsdays/source/stylesheets/base/normalize.scss */
+/* line 124, /Users/wallydrag/workspace/wallydrag-devopsdays/source/stylesheets/base/normalize.scss */
 b,
 strong {
   font-weight: bold; }
@@ -116,14 +116,14 @@ strong {
 /*
  * Addresses styling not present in Safari 5 and Chrome.
  */
-/* line 133, /Users/wallydrag/workspace/devopsdays/source/stylesheets/base/normalize.scss */
+/* line 133, /Users/wallydrag/workspace/wallydrag-devopsdays/source/stylesheets/base/normalize.scss */
 dfn {
   font-style: italic; }
 
 /*
  * Addresses styling not present in IE 8/9.
  */
-/* line 141, /Users/wallydrag/workspace/devopsdays/source/stylesheets/base/normalize.scss */
+/* line 141, /Users/wallydrag/workspace/wallydrag-devopsdays/source/stylesheets/base/normalize.scss */
 mark {
   background: #ff0;
   color: #000; }
@@ -131,7 +131,7 @@ mark {
 /*
  * Corrects font family set oddly in Safari 5 and Chrome.
  */
-/* line 151, /Users/wallydrag/workspace/devopsdays/source/stylesheets/base/normalize.scss */
+/* line 151, /Users/wallydrag/workspace/wallydrag-devopsdays/source/stylesheets/base/normalize.scss */
 code,
 kbd,
 pre,
@@ -142,7 +142,7 @@ samp {
 /*
  * Improves readability of pre-formatted text in all browsers.
  */
-/* line 163, /Users/wallydrag/workspace/devopsdays/source/stylesheets/base/normalize.scss */
+/* line 163, /Users/wallydrag/workspace/wallydrag-devopsdays/source/stylesheets/base/normalize.scss */
 pre {
   white-space: pre;
   white-space: pre-wrap;
@@ -151,21 +151,21 @@ pre {
 /*
  * Sets consistent quote types.
  */
-/* line 173, /Users/wallydrag/workspace/devopsdays/source/stylesheets/base/normalize.scss */
+/* line 173, /Users/wallydrag/workspace/wallydrag-devopsdays/source/stylesheets/base/normalize.scss */
 q {
   quotes: "\201C" "\201D" "\2018" "\2019"; }
 
 /*
  * Addresses inconsistent and variable font size in all browsers.
  */
-/* line 181, /Users/wallydrag/workspace/devopsdays/source/stylesheets/base/normalize.scss */
+/* line 181, /Users/wallydrag/workspace/wallydrag-devopsdays/source/stylesheets/base/normalize.scss */
 small {
   font-size: 80%; }
 
 /*
  * Prevents `sub` and `sup` affecting `line-height` in all browsers.
  */
-/* line 189, /Users/wallydrag/workspace/devopsdays/source/stylesheets/base/normalize.scss */
+/* line 189, /Users/wallydrag/workspace/wallydrag-devopsdays/source/stylesheets/base/normalize.scss */
 sub,
 sup {
   font-size: 75%;
@@ -173,11 +173,11 @@ sup {
   position: relative;
   vertical-align: baseline; }
 
-/* line 197, /Users/wallydrag/workspace/devopsdays/source/stylesheets/base/normalize.scss */
+/* line 197, /Users/wallydrag/workspace/wallydrag-devopsdays/source/stylesheets/base/normalize.scss */
 sup {
   top: -0.5em; }
 
-/* line 201, /Users/wallydrag/workspace/devopsdays/source/stylesheets/base/normalize.scss */
+/* line 201, /Users/wallydrag/workspace/wallydrag-devopsdays/source/stylesheets/base/normalize.scss */
 sub {
   bottom: -0.25em; }
 
@@ -187,14 +187,14 @@ sub {
 /*
  * Removes border when inside `a` element in IE 8/9.
  */
-/* line 213, /Users/wallydrag/workspace/devopsdays/source/stylesheets/base/normalize.scss */
+/* line 213, /Users/wallydrag/workspace/wallydrag-devopsdays/source/stylesheets/base/normalize.scss */
 img {
   border: 0; }
 
 /*
  * Corrects overflow displayed oddly in IE 9.
  */
-/* line 221, /Users/wallydrag/workspace/devopsdays/source/stylesheets/base/normalize.scss */
+/* line 221, /Users/wallydrag/workspace/wallydrag-devopsdays/source/stylesheets/base/normalize.scss */
 svg:not(:root) {
   overflow: hidden; }
 
@@ -204,7 +204,7 @@ svg:not(:root) {
 /*
  * Addresses margin not present in IE 8/9 and Safari 5.
  */
-/* line 233, /Users/wallydrag/workspace/devopsdays/source/stylesheets/base/normalize.scss */
+/* line 233, /Users/wallydrag/workspace/wallydrag-devopsdays/source/stylesheets/base/normalize.scss */
 figure {
   margin: 0; }
 
@@ -214,7 +214,7 @@ figure {
 /*
  * Define consistent border, margin, and padding.
  */
-/* line 245, /Users/wallydrag/workspace/devopsdays/source/stylesheets/base/normalize.scss */
+/* line 245, /Users/wallydrag/workspace/wallydrag-devopsdays/source/stylesheets/base/normalize.scss */
 fieldset {
   border: 1px solid #c0c0c0;
   margin: 0 2px;
@@ -224,7 +224,7 @@ fieldset {
  * 1. Corrects color not being inherited in IE 8/9.
  * 2. Remove padding so people aren't caught out if they zero out fieldsets.
  */
-/* line 256, /Users/wallydrag/workspace/devopsdays/source/stylesheets/base/normalize.scss */
+/* line 256, /Users/wallydrag/workspace/wallydrag-devopsdays/source/stylesheets/base/normalize.scss */
 legend {
   border: 0;
   /* 1 */
@@ -236,7 +236,7 @@ legend {
  * 2. Corrects font size not being inherited in all browsers.
  * 3. Addresses margins set differently in Firefox 4+, Safari 5, and Chrome
  */
-/* line 267, /Users/wallydrag/workspace/devopsdays/source/stylesheets/base/normalize.scss */
+/* line 267, /Users/wallydrag/workspace/wallydrag-devopsdays/source/stylesheets/base/normalize.scss */
 button,
 input,
 select,
@@ -252,7 +252,7 @@ textarea {
  * Addresses Firefox 4+ setting `line-height` on `input` using `!important` in
  * the UA stylesheet.
  */
-/* line 281, /Users/wallydrag/workspace/devopsdays/source/stylesheets/base/normalize.scss */
+/* line 281, /Users/wallydrag/workspace/wallydrag-devopsdays/source/stylesheets/base/normalize.scss */
 button,
 input {
   line-height: normal; }
@@ -264,7 +264,7 @@ input {
  * 3. Improves usability and consistency of cursor style between image-type
  *    `input` and others.
  */
-/* line 294, /Users/wallydrag/workspace/devopsdays/source/stylesheets/base/normalize.scss */
+/* line 294, /Users/wallydrag/workspace/wallydrag-devopsdays/source/stylesheets/base/normalize.scss */
 button,
 html input[type="button"],
 input[type="reset"],
@@ -277,7 +277,7 @@ input[type="submit"] {
 /*
  * Re-set default cursor for disabled elements.
  */
-/* line 306, /Users/wallydrag/workspace/devopsdays/source/stylesheets/base/normalize.scss */
+/* line 306, /Users/wallydrag/workspace/wallydrag-devopsdays/source/stylesheets/base/normalize.scss */
 button[disabled],
 input[disabled] {
   cursor: default; }
@@ -286,7 +286,7 @@ input[disabled] {
  * 1. Addresses box sizing set to `content-box` in IE 8/9.
  * 2. Removes excess padding in IE 8/9.
  */
-/* line 316, /Users/wallydrag/workspace/devopsdays/source/stylesheets/base/normalize.scss */
+/* line 316, /Users/wallydrag/workspace/wallydrag-devopsdays/source/stylesheets/base/normalize.scss */
 input[type="checkbox"],
 input[type="radio"] {
   box-sizing: border-box;
@@ -299,7 +299,7 @@ input[type="radio"] {
  * 2. Addresses `box-sizing` set to `border-box` in Safari 5 and Chrome
  *    (include `-moz` to future-proof).
  */
-/* line 328, /Users/wallydrag/workspace/devopsdays/source/stylesheets/base/normalize.scss */
+/* line 328, /Users/wallydrag/workspace/wallydrag-devopsdays/source/stylesheets/base/normalize.scss */
 input[type="search"] {
   -webkit-appearance: textfield;
   /* 1 */
@@ -312,7 +312,7 @@ input[type="search"] {
  * Removes inner padding and search cancel button in Safari 5 and Chrome
  * on OS X.
  */
-/* line 340, /Users/wallydrag/workspace/devopsdays/source/stylesheets/base/normalize.scss */
+/* line 340, /Users/wallydrag/workspace/wallydrag-devopsdays/source/stylesheets/base/normalize.scss */
 input[type="search"]::-webkit-search-cancel-button,
 input[type="search"]::-webkit-search-decoration {
   -webkit-appearance: none; }
@@ -320,7 +320,7 @@ input[type="search"]::-webkit-search-decoration {
 /*
  * Removes inner padding and border in Firefox 4+.
  */
-/* line 349, /Users/wallydrag/workspace/devopsdays/source/stylesheets/base/normalize.scss */
+/* line 349, /Users/wallydrag/workspace/wallydrag-devopsdays/source/stylesheets/base/normalize.scss */
 button::-moz-focus-inner,
 input::-moz-focus-inner {
   border: 0;
@@ -330,7 +330,7 @@ input::-moz-focus-inner {
  * 1. Removes default vertical scrollbar in IE 8/9.
  * 2. Improves readability and alignment in all browsers.
  */
-/* line 360, /Users/wallydrag/workspace/devopsdays/source/stylesheets/base/normalize.scss */
+/* line 360, /Users/wallydrag/workspace/wallydrag-devopsdays/source/stylesheets/base/normalize.scss */
 textarea {
   overflow: auto;
   /* 1 */
@@ -343,16 +343,16 @@ textarea {
 /*
  * Remove most spacing between table cells.
  */
-/* line 373, /Users/wallydrag/workspace/devopsdays/source/stylesheets/base/normalize.scss */
+/* line 373, /Users/wallydrag/workspace/wallydrag-devopsdays/source/stylesheets/base/normalize.scss */
 table {
   border-collapse: collapse;
   border-spacing: 0; }
 
-/* line 1, /Users/wallydrag/workspace/devopsdays/source/stylesheets/base/base.scss */
+/* line 1, /Users/wallydrag/workspace/wallydrag-devopsdays/source/stylesheets/base/base.scss */
 html, body {
   height: 100%; }
 
-/* line 5, /Users/wallydrag/workspace/devopsdays/source/stylesheets/base/base.scss */
+/* line 5, /Users/wallydrag/workspace/wallydrag-devopsdays/source/stylesheets/base/base.scss */
 body {
   padding: 0;
   -webkit-box-sizing: border-box;
@@ -363,7 +363,7 @@ body {
   /* Opera/IE 8+ */
   font-size: 16px; }
 
-/* line 13, /Users/wallydrag/workspace/devopsdays/source/stylesheets/base/base.scss */
+/* line 13, /Users/wallydrag/workspace/wallydrag-devopsdays/source/stylesheets/base/base.scss */
 img {
   max-width: 100%; }
 
@@ -7432,74 +7432,74 @@ button.close {
   /* line 18, /Users/wallydrag/.rvm/gems/ruby-2.2.1/gems/bootstrap-sass-3.3.4.1/assets/stylesheets/bootstrap/mixins/_responsive-visibility.scss */
   .hidden-print {
     display: none !important; } }
-/* line 1, /Users/wallydrag/workspace/devopsdays/source/stylesheets/modules/navbar.css.scss */
+/* line 1, /Users/wallydrag/workspace/wallydrag-devopsdays/source/stylesheets/modules/navbar.css.scss */
 #devopsdays-menu.navbar-default {
   background-color: transparent;
   border-width: 0px;
   border-radius: 0px;
   color: #fff; }
-  /* line 7, /Users/wallydrag/workspace/devopsdays/source/stylesheets/modules/navbar.css.scss */
+  /* line 7, /Users/wallydrag/workspace/wallydrag-devopsdays/source/stylesheets/modules/navbar.css.scss */
   #devopsdays-menu.navbar-default .navbar-nav > li > a {
     color: #e3e3e3;
     background-color: transparent; }
-    /* line 10, /Users/wallydrag/workspace/devopsdays/source/stylesheets/modules/navbar.css.scss */
+    /* line 10, /Users/wallydrag/workspace/wallydrag-devopsdays/source/stylesheets/modules/navbar.css.scss */
     #devopsdays-menu.navbar-default .navbar-nav > li > a:hover, #devopsdays-menu.navbar-default .navbar-nav > li > a:focus {
       color: white; }
-  /* line 14, /Users/wallydrag/workspace/devopsdays/source/stylesheets/modules/navbar.css.scss */
+  /* line 14, /Users/wallydrag/workspace/wallydrag-devopsdays/source/stylesheets/modules/navbar.css.scss */
   #devopsdays-menu.navbar-default .navbar-nav > .active > a {
     color: white; }
-  /* line 18, /Users/wallydrag/workspace/devopsdays/source/stylesheets/modules/navbar.css.scss */
+  /* line 18, /Users/wallydrag/workspace/wallydrag-devopsdays/source/stylesheets/modules/navbar.css.scss */
   #devopsdays-menu.navbar-default .navbar-toggle {
     border-color: #ddd; }
-    /* line 20, /Users/wallydrag/workspace/devopsdays/source/stylesheets/modules/navbar.css.scss */
+    /* line 20, /Users/wallydrag/workspace/wallydrag-devopsdays/source/stylesheets/modules/navbar.css.scss */
     #devopsdays-menu.navbar-default .navbar-toggle .icon-bar {
       background-color: #888; }
-    /* line 23, /Users/wallydrag/workspace/devopsdays/source/stylesheets/modules/navbar.css.scss */
+    /* line 23, /Users/wallydrag/workspace/wallydrag-devopsdays/source/stylesheets/modules/navbar.css.scss */
     #devopsdays-menu.navbar-default .navbar-toggle:hover, #devopsdays-menu.navbar-default .navbar-toggle:focus {
       background-color: #ddd; }
-    /* line 26, /Users/wallydrag/workspace/devopsdays/source/stylesheets/modules/navbar.css.scss */
+    /* line 26, /Users/wallydrag/workspace/wallydrag-devopsdays/source/stylesheets/modules/navbar.css.scss */
     #devopsdays-menu.navbar-default .navbar-toggle:hover .icon-bar, #devopsdays-menu.navbar-default .navbar-toggle:focus .icon-bar {
       background-color: #3b3838; }
-  /* line 31, /Users/wallydrag/workspace/devopsdays/source/stylesheets/modules/navbar.css.scss */
+  /* line 31, /Users/wallydrag/workspace/wallydrag-devopsdays/source/stylesheets/modules/navbar.css.scss */
   #devopsdays-menu.navbar-default.scrolled {
     background-color: rgba(41, 44, 51, 0.75); }
-  /* line 35, /Users/wallydrag/workspace/devopsdays/source/stylesheets/modules/navbar.css.scss */
+  /* line 35, /Users/wallydrag/workspace/wallydrag-devopsdays/source/stylesheets/modules/navbar.css.scss */
   #devopsdays-menu.navbar-default .navbar-header {
     background-color: transparent; }
   @media (max-width: 768px) {
-    /* line 40, /Users/wallydrag/workspace/devopsdays/source/stylesheets/modules/navbar.css.scss */
+    /* line 40, /Users/wallydrag/workspace/wallydrag-devopsdays/source/stylesheets/modules/navbar.css.scss */
     #devopsdays-menu.navbar-default .navbar-collapse {
       background-color: rgba(56, 56, 56, 0.5);
       border: none;
       text-align: right; } }
 
-/* line 11, /Users/wallydrag/workspace/devopsdays/source/stylesheets/style.css.scss */
+/* line 11, /Users/wallydrag/workspace/wallydrag-devopsdays/source/stylesheets/style.css.scss */
 .home-full-screen {
   background: url("/images/ops-92f5183b.jpg") 50% 100%/cover no-repeat scroll #292c33;
   min-height: 100%;
   width: 100%;
   padding: 50px 0 0; }
 
-/* line 18, /Users/wallydrag/workspace/devopsdays/source/stylesheets/style.css.scss */
+/* line 18, /Users/wallydrag/workspace/wallydrag-devopsdays/source/stylesheets/style.css.scss */
 .banner {
   margin-top: 20%;
   text-align: center;
   color: #fff; }
 
-/* line 24, /Users/wallydrag/workspace/devopsdays/source/stylesheets/style.css.scss */
+/* line 24, /Users/wallydrag/workspace/wallydrag-devopsdays/source/stylesheets/style.css.scss */
 .brand-header {
   margin-top: 30px;
   font-size: 3em; }
 
-/* line 29, /Users/wallydrag/workspace/devopsdays/source/stylesheets/style.css.scss */
+/* line 29, /Users/wallydrag/workspace/wallydrag-devopsdays/source/stylesheets/style.css.scss */
 .tag-line {
   font-size: 1.25em;
   color: #9E9E9E; }
 
-/* line 47, /Users/wallydrag/workspace/devopsdays/source/stylesheets/style.css.scss */
+/* line 47, /Users/wallydrag/workspace/wallydrag-devopsdays/source/stylesheets/style.css.scss */
 .submit-talk {
   margin: 2em 0; }
-  /* line 49, /Users/wallydrag/workspace/devopsdays/source/stylesheets/style.css.scss */
+  /* line 49, /Users/wallydrag/workspace/wallydrag-devopsdays/source/stylesheets/style.css.scss */
   .submit-talk a {
     padding: 0.5em 1em;
     font-size: 1.25em;
@@ -7509,15 +7509,15 @@ button.close {
     -webkit-border-radius: 0.5em;
     border-radius: 0.5em;
     text-decoration: none; }
-    /* line 41, /Users/wallydrag/workspace/devopsdays/source/stylesheets/style.css.scss */
+    /* line 41, /Users/wallydrag/workspace/wallydrag-devopsdays/source/stylesheets/style.css.scss */
     .submit-talk a:hover {
       color: #ff704c;
       border-color: #ff704c; }
 
-/* line 54, /Users/wallydrag/workspace/devopsdays/source/stylesheets/style.css.scss */
+/* line 54, /Users/wallydrag/workspace/wallydrag-devopsdays/source/stylesheets/style.css.scss */
 .register {
   margin: 2em 0; }
-  /* line 56, /Users/wallydrag/workspace/devopsdays/source/stylesheets/style.css.scss */
+  /* line 56, /Users/wallydrag/workspace/wallydrag-devopsdays/source/stylesheets/style.css.scss */
   .register a {
     padding: 0.5em 1em;
     font-size: 1.25em;
@@ -7527,33 +7527,33 @@ button.close {
     -webkit-border-radius: 0.5em;
     border-radius: 0.5em;
     text-decoration: none; }
-    /* line 41, /Users/wallydrag/workspace/devopsdays/source/stylesheets/style.css.scss */
+    /* line 41, /Users/wallydrag/workspace/wallydrag-devopsdays/source/stylesheets/style.css.scss */
     .register a:hover {
       color: #4f93ce;
       border-color: #4f93ce; }
 
 @media (max-width: 992px) {
-  /* line 61, /Users/wallydrag/workspace/devopsdays/source/stylesheets/style.css.scss */
+  /* line 61, /Users/wallydrag/workspace/wallydrag-devopsdays/source/stylesheets/style.css.scss */
   .event-logo {
     width: 50%;
     margin: 30px auto; } }
 
-/* line 68, /Users/wallydrag/workspace/devopsdays/source/stylesheets/style.css.scss */
+/* line 68, /Users/wallydrag/workspace/wallydrag-devopsdays/source/stylesheets/style.css.scss */
 .home-row {
   text-align: center;
   padding-bottom: 2em; }
-  /* line 71, /Users/wallydrag/workspace/devopsdays/source/stylesheets/style.css.scss */
+  /* line 71, /Users/wallydrag/workspace/wallydrag-devopsdays/source/stylesheets/style.css.scss */
   .home-row h1 {
     margin: 1em auto; }
 
-/* line 76, /Users/wallydrag/workspace/devopsdays/source/stylesheets/style.css.scss */
+/* line 76, /Users/wallydrag/workspace/wallydrag-devopsdays/source/stylesheets/style.css.scss */
 #venue {
   background-color: #F0F0F0; }
-  /* line 78, /Users/wallydrag/workspace/devopsdays/source/stylesheets/style.css.scss */
+  /* line 78, /Users/wallydrag/workspace/wallydrag-devopsdays/source/stylesheets/style.css.scss */
   #venue .address {
     line-height: 1em;
     text-align: left; }
-  /* line 82, /Users/wallydrag/workspace/devopsdays/source/stylesheets/style.css.scss */
+  /* line 82, /Users/wallydrag/workspace/wallydrag-devopsdays/source/stylesheets/style.css.scss */
   #venue .map-overlay {
     background: transparent;
     position: relative;
@@ -7562,7 +7562,7 @@ button.close {
     top: 400px;
     margin-top: -400px; }
 
-/* line 92, /Users/wallydrag/workspace/devopsdays/source/stylesheets/style.css.scss */
+/* line 92, /Users/wallydrag/workspace/wallydrag-devopsdays/source/stylesheets/style.css.scss */
 .sponsor {
   position: relative; }
   /* line 14, /Users/wallydrag/.rvm/gems/ruby-2.2.1/gems/bootstrap-sass-3.3.4.1/assets/stylesheets/bootstrap/mixins/_clearfix.scss */
@@ -7572,7 +7572,7 @@ button.close {
   /* line 19, /Users/wallydrag/.rvm/gems/ruby-2.2.1/gems/bootstrap-sass-3.3.4.1/assets/stylesheets/bootstrap/mixins/_clearfix.scss */
   .sponsor:after {
     clear: both; }
-  /* line 95, /Users/wallydrag/workspace/devopsdays/source/stylesheets/style.css.scss */
+  /* line 95, /Users/wallydrag/workspace/wallydrag-devopsdays/source/stylesheets/style.css.scss */
   .sponsor .github, .sponsor .twitter {
     display: block;
     position: absolute;
@@ -7583,19 +7583,19 @@ button.close {
     text-indent: -100em;
     border-radius: 15px;
     box-shadow: 0 0 4px rgba(0, 0, 0, 0.6); }
-  /* line 108, /Users/wallydrag/workspace/devopsdays/source/stylesheets/style.css.scss */
+  /* line 108, /Users/wallydrag/workspace/wallydrag-devopsdays/source/stylesheets/style.css.scss */
   .sponsor .github {
     right: 150px;
     background: #fff url("/images/octocat-4aefc8f0.png") no-repeat center center; }
-  /* line 113, /Users/wallydrag/workspace/devopsdays/source/stylesheets/style.css.scss */
+  /* line 113, /Users/wallydrag/workspace/wallydrag-devopsdays/source/stylesheets/style.css.scss */
   .sponsor .twitter {
     right: 190px;
     background: #fff url("/images/twitter-f033b95b.png") no-repeat center center; }
 
-/* line 119, /Users/wallydrag/workspace/devopsdays/source/stylesheets/style.css.scss */
+/* line 119, /Users/wallydrag/workspace/wallydrag-devopsdays/source/stylesheets/style.css.scss */
 .sponsorship-doc {
   margin: 50px 0 10px; }
-  /* line 121, /Users/wallydrag/workspace/devopsdays/source/stylesheets/style.css.scss */
+  /* line 121, /Users/wallydrag/workspace/wallydrag-devopsdays/source/stylesheets/style.css.scss */
   .sponsorship-doc a {
     padding: 0.5em 1em;
     font-size: 1.25em;
@@ -7605,27 +7605,27 @@ button.close {
     -webkit-border-radius: 0.5em;
     border-radius: 0.5em;
     text-decoration: none; }
-    /* line 41, /Users/wallydrag/workspace/devopsdays/source/stylesheets/style.css.scss */
+    /* line 41, /Users/wallydrag/workspace/wallydrag-devopsdays/source/stylesheets/style.css.scss */
     .sponsorship-doc a:hover {
       color: #4f93ce;
       border-color: #4f93ce; }
 
-/* line 126, /Users/wallydrag/workspace/devopsdays/source/stylesheets/style.css.scss */
+/* line 126, /Users/wallydrag/workspace/wallydrag-devopsdays/source/stylesheets/style.css.scss */
 #contact-us {
   background-color: #4C5D66;
   color: #fff; }
 
-/* line 131, /Users/wallydrag/workspace/devopsdays/source/stylesheets/style.css.scss */
+/* line 131, /Users/wallydrag/workspace/wallydrag-devopsdays/source/stylesheets/style.css.scss */
 .contact-details {
   font-size: 1.25em;
   line-height: 1.5em; }
 
-/* line 136, /Users/wallydrag/workspace/devopsdays/source/stylesheets/style.css.scss */
+/* line 136, /Users/wallydrag/workspace/wallydrag-devopsdays/source/stylesheets/style.css.scss */
 footer {
   text-align: center;
   font-size: 0.8em;
   color: #9E9E9E;
   background-color: #292C33; }
-  /* line 141, /Users/wallydrag/workspace/devopsdays/source/stylesheets/style.css.scss */
+  /* line 141, /Users/wallydrag/workspace/wallydrag-devopsdays/source/stylesheets/style.css.scss */
   footer p {
     margin: 1em auto; }

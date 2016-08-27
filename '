@@ -61,58 +61,54 @@
     </section>
 
     <section id="sponsors">
-      <article class="container box style2">
-        <header>
-          <h2>Sponsors</h2>
-        </header>
-      </article>
-      <article class="container box style1">
-        <div style="vertical-align:middle; text-align:center">
-          <h2 align="center">Gold Sponsors</h2>
-          <hr />
-          <div>
-            <img src="images/digitalocean.png" alt="" title="Digital Ocean" />
-          </div>
-          <div>
-            <img src="images/gojek.png" alt="" title="Go-jek" />
-          </div>
+    <article class="container box style2">
+      <header>
+        <h2>Sponsors</h2>
+      </header>
+    </article>
+    <article class="container box style1">
+      <div style="vertical-align:middle; text-align:center">
+        <h2 align="center">Gold Sponsors</h2>
+        <hr />
+        <div>
+          <img src="images/digitalocean.png" alt="" title="Digital Ocean" />
         </div>
-      </article>
-      <article class="container box style1">
-        <div style="vertical-align:middle; text-align:center">
-          <h2 align="center">Coaster Sponsors</h2>
-          <hr />
-          <div>
-            <img src="images/aspose.png" alt="" title="Aspose" />
-          </div>
+        <div>
+          <img src="images/gojek.png" alt="" title="Go-jek" />
         </div>
-      </article>
-      <article class="container box style2">
-        <footer>
-          <a href="doc/DOD16_Sponsorship_Prospectus.pdf" target="_blank" class="button style2 scrolly">Become A Sponsor Today</a>
-        </footer>
-      </article>
+      </div>
+    </article>
+    <article class="container box style1">
+      <div style="vertical-align:middle; text-align:center">
+        <h2 align="center">Coaster Sponsors</h2>
+        <hr />
+        <div>
+          <img src="images/aspose.png" alt="" title="Aspose" />
+        </div>
+      </div>
+    </article>
+    <article class="container box style2">
+      <footer>
+        <a href="doc/DOD16_Sponsorship_Prospectus.pdf" target="_blank" class="button style2 scrolly">Become A Sponsor Today</a>
+      </footer>
+    </article>
     </section>
 
     <section id="contact">
       <article class="container box style1">
-        <div style="vertical-align:middle; text-align:center">
-          <h2>Get in touch</h2>
-          <br/>
-          <table class="default" style="text-align:center">
-            <thead>
-              <tr>
-                <th>Satish Talim - +91-8087706501</th>
-              </tr>
-              <tr>
-                <th>Shobhit Srivastava - +91-9935016288</th>
-              </tr>
-              <tr>
-                <th>Abhishek Kumar - +91-8007778351</th>
-              </tr>
-            </thead>
-          </table>
-        </div>
+          <div style="vertical-align:middle; text-align:center">
+        <h2>Get in touch</h2>
+        	<div class="table-wrapper" style="text-align:center">
+						<table class="default">
+							<thead>
+								<tr>
+									<th>Satish Talim</th>
+									<th>+91-8087706501</th>
+								</tr>
+							</thead>
+                </table>
+                </div>
+          </div>
       </article>
     </section>
 

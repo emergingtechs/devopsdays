@@ -12,7 +12,7 @@
 
     <section id="header">
       <header>
-        <h1>Devops Days India 2016</h1>
+        <h1>Devops Days 2016</h1>
         <p>4th and 5th November<br />
         The Royal Orchid, Old Aiport Road, Bangalore</p>
       </header>
@@ -28,7 +28,7 @@
       <p>DevOpsDays India is a global event complementing other DevOpsDays events across the world.<br />
       You can find more about DevOpsDays global event <a href="https://www.devopsdays.org/" target="_blank">here</a>.</p>
       <footer>
-        <a href="https://www.papercall.io/devopsdays-india-2016" target="_blank" class="button style2 scrolly">Submit your CFP here</a>
+        <a href="https://www.papercall.io/devopsdays-india-2016" target="_blank" class="button style2 scrolly">Submit your CFP today</a>
       </footer>
     </section>
 
@@ -61,69 +61,54 @@
     </section>
 
     <section id="sponsors">
-      <article class="container box style2">
-        <header>
-          <h2>Sponsors</h2>
-        </header>
-      </article>
-      <article class="container box style1">
-        <div style="vertical-align:middle; text-align:center">
-          <h2 align="center">Gold Sponsors</h2>
-          <hr />
-          <div>
-            <img src="images/digitalocean.png" alt="" title="Digital Ocean" />
-          </div>
-          <div>
-            <img src="images/gojek.png" alt="" title="Go-jek" />
-          </div>
+    <article class="container box style2">
+      <header>
+        <h2>Sponsors</h2>
+      </header>
+    </article>
+    <article class="container box style1">
+      <div style="vertical-align:middle; text-align:center">
+        <h2 align="center">Gold Sponsors</h2>
+        <hr />
+        <div>
+          <img src="images/digitalocean.png" alt="" title="Digital Ocean" />
         </div>
-      </article>
-      <article class="container box style1">
-        <div style="vertical-align:middle; text-align:center">
-          <h2 align="center">Coaster Sponsors</h2>
-          <hr />
-          <div>
-            <img src="images/aspose.png" alt="" title="Aspose" />
-          </div>
+        <div>
+          <img src="images/gojek.png" alt="" title="Go-jek" />
         </div>
-      </article>
-      <article class="container box style2">
-        <footer>
-          <a href="doc/DOD16_Sponsorship_Prospectus.pdf" target="_blank" class="button style2 scrolly">Become A Sponsor - Sponsorship Doc</a>
-        </footer>
-      </article>
-    </section>
-
-    <section id="venue">
-      <article class="container box style2">
-        <header>
-          <h2>Venue</h2>
-        </header>
-      </article>
-      <article class="container box style1">
-      <iframe frameborder='0' height='400' src='https://www.google.com/maps/embed/v1/place?q=Hotel%20Royal%20Orchid%2C%20Old%20Airport%20Road%2C%20Bengaluru&amp;key=AIzaSyBd59PEx8Xebd_fsXf5Re5K4HA5MrwCpTU' style='pointer-event:none;' width='100%'></iframe>
-      </article>
+      </div>
+    </article>
+    <article class="container box style1">
+      <div style="vertical-align:middle; text-align:center">
+        <h2 align="center">Coaster Sponsors</h2>
+        <hr />
+        <div>
+          <img src="images/aspose.png" alt="" title="Aspose" />
+        </div>
+      </div>
+    </article>
+    <article class="container box style2">
+      <footer>
+        <a href="doc/DOD16_Sponsorship_Prospectus.pdf" target="_blank" class="button style2 scrolly">Become A Sponsor Today</a>
+      </footer>
+    </article>
     </section>
 
     <section id="contact">
       <article class="container box style1">
-        <div style="vertical-align:middle; text-align:center">
-          <h2>Get in touch</h2>
-          <br/>
-          <table class="default" style="text-align:center">
-            <thead>
-              <tr>
-                <th>Satish Talim - +91-8087706501</th>
-              </tr>
-              <tr>
-                <th>Shobhit Srivastava - +91-9935016288</th>
-              </tr>
-              <tr>
-                <th>Abhishek Kumar - +91-8007778351</th>
-              </tr>
-            </thead>
-          </table>
-        </div>
+          <div style="vertical-align:middle; text-align:center">
+        <h2>Get in touch</h2>
+        	<div class="table-wrapper" style="text-align:center">
+						<table class="default">
+							<thead>
+								<tr>
+									<th>Satish Talim</th>
+									<th>+91-8087706501</th>
+								</tr>
+							</thead>
+                </table>
+                </div>
+          </div>
       </article>
     </section>
 

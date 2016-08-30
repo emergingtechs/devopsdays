@@ -1582,6 +1582,7 @@ ul.navbar li img {
 ul.navbar li a {
   float: right;
   display: block;
+  font-size: 15px;
   color: #fff;
   margin-right: 15px;
   text-align: center;

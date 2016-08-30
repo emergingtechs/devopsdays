@@ -1574,14 +1574,16 @@ ul.navbar {
   z-index: 9999;
 }
 
-ul.navbar li {
-  float: right;
+ul.navbar li img {
+  float: left;
+  margin-left: 25px;
 }
 
 ul.navbar li a {
+  float: right;
   display: block;
   color: #fff;
-  margin-right: 2px;
+  margin-right: 15px;
   text-align: center;
   padding: 6px 10px;
   text-decoration: none;

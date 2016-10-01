@@ -1836,7 +1836,7 @@ button.style3:hover,
   position: absolute;
   top: 0;
   height: 100%;
-  width: auto;
+  width: 100%;
 }
 
 .box.style1 .inner > :last-child {
@@ -2171,10 +2171,8 @@ button.style3:hover,
   position: absolute;
   bottom: -1;
   left: 0;
-  background: #9a9;
   width: 100%;
   height: 8em;
-  line-height: 1em;
   text-align: center;
   cursor: default;
   z-index: 3;

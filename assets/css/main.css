@@ -1819,14 +1819,14 @@ button.style3:hover,
 
 .box.style1 {
   background: #fff;
-  padding: 3em;
+  padding: 4em;
 }
 
 .box.style1 .image {
   display: block;
   position: absolute;
   top: 0;
-  width: 50%;
+  width: 43%;
   height: 100%;
   background: #152E33;
   overflow: hidden;

@@ -113,7 +113,7 @@ a:active {
 a:hover,
 a:focus {
     text-decoration : none;
-    color           : #999999;
+    color           : #FF8000;
     }
 
 p {
@@ -285,7 +285,7 @@ button:focus,
 
 .main-menu .nav li a:hover,
 .main-menu .nav li.active a {
-    color      : #fd367e;
+    color      : #FF8000;
     background : transparent;
     }
 

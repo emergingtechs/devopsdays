@@ -223,21 +223,29 @@ button:focus,
 /*Logo*/
 .navbar-brand {
     padding : 0;
-    height  : auto;
+    height  : 75px;
     margin  : 5px 0 !important;
     }
 
+.navbar-brand > .logo {
+    background-image: url("../img/logo-resize2.png");
+    background-repeat:no-repeat;
+    width:170px;
+    height: 70px;
+    border-image: none;
+}
+/*
 @media (max-width : 768px) {
     .navbar-brand {
         width : 200px;
         }
 
     .navbar-brand img {
-        max-width : 100%;
-        height    : auto;
+        max-width : 20px;
+        height    : 20px;
         }
     }
-
+*/
 /*navbar*/
 
 .navbar {
@@ -279,7 +287,8 @@ button:focus,
 .main-menu .nav li a {
     color       : #ffffff;
     font-weight : 500;
-    padding     : 15px 0 15px 30px;
+    font-size: 17px;
+    padding     : 30px 0 15px 30px;
     }
 
 .main-menu .nav li a:hover,
@@ -322,7 +331,7 @@ button:focus,
     left               : 0;
     top                : 0;
     z-index            : 999;
-    background         : #ffffff !important;
+    background         : white !important;
     padding            : 5px 0;
     box-shadow         : 0 2px 5px rgba(0, 0, 0, .1);
     -webkit-transition : all .5s ease-in-out;
@@ -337,6 +346,10 @@ button:focus,
 .sticky-nav .navbar-toggle .icon-bar{
     background: #333;
     }
+.sticky-nav .logo {
+    background-image: url("../img/logo-resize.png");
+    background-repeat:no-repeat;
+}
 
 @media (max-width: 768px) {
     .sticky-nav{

@@ -564,6 +564,27 @@ button:focus,
     line-height : 1;
     }
 
+.session .social-links li {
+    display      : inline-block;
+    margin-right : 3px;
+    }
+
+.session .social-links li:first-child {
+    margin-right : 0;
+    margin-left: 10px;
+    }
+
+.session .social-links li a {
+    display   : block;
+    font-size : 14px;
+    color     : #ccc;
+    padding   : 0 10px;
+    }
+
+.session .social-links li a:hover {
+    color : #333;
+    }
+
 /* --------------------------
  * Pricing Table
  *---------------------------*/

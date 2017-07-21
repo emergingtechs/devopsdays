@@ -1,40 +1,3 @@
-/*
-Template Name: finadvisor
-Description: HTML5 / CSS3 One Page
-Version: 1.0
-Author: uiCookies.com
-*/
-
-/*------------------------------------------------------------------
-[Table of contents]
-
-1. Body
-    2. Global Typography
-    3. Section Background / .gray-bg / .white-bg
-	4. Header /
-	    4.1. .top-bar
-		4.2. Navigation / .navbar
-	5. Hero Slider / .hero-slide
-	6. Services / .services
-	7. About Us / .about-us
-	8. Testimonial / .testimonialOne
-	9. Team / .team
-	10. Pricing Table / .pricing-section
-	11. Client Logo / .client-logo
-	12. Contact Section
-	    12.1. #googleMap
-	    12.2. Contact Form
-	13. Footer / .footer
-	14. Preloader / #preloader
-
-
-# [Color codes]
-
-# Body  (text): #888
-# Heading Color #0E1555
-# Theme Color (link color) #FD367E
-# Mid grey (sub header) #666666
-# -------------------------------------------------------------------*/
 
 body {
     font-family : 'Roboto', sans-serif;
@@ -44,10 +7,6 @@ body {
     font-weight : 100;
     background  : #ffffff;
     }
-
-/* --------------------------------------
- * Global Typography
- *------------------------------------------*/
 
 h1, h2, h3, h4, h5, h6 {
     margin : 0 0 15px;
@@ -89,9 +48,6 @@ h6 {
     line-height : 24px;
     }
 
-/* --------------------------------------
- * LINK STYLE
- *------------------------------------------*/
 a {
     color              : #fd367e;
     text-decoration    : none;
@@ -130,7 +86,6 @@ ul {
     list-style : none;
     }
 
-/*Button Style*/
 .btn {
     padding        : 10px 30px;
     margin-bottom  : 0;
@@ -146,7 +101,6 @@ ul {
     padding   : 15px 30px
     }
 
-/*btn-primary*/
 .btn-primary {
     background-color : #101890;
     border-color     : #101890;
@@ -160,7 +114,6 @@ ul {
     border-color : #101890;
     }
 
-/*btn-default*/
 .btn-default {
     color            : #ffffff;
     background-color : transparent;
@@ -186,10 +139,6 @@ button:focus,
     outline : none;
     }
 
-/* --------------------
- * Section Background
- * -------------------*/
-
 .gray-bg {
     background-color : #f0f1f3;
     border-top       : 1px solid #eeeeee;
@@ -200,17 +149,10 @@ button:focus,
     background-color : #ffffff;
     }
 
-/* --------------------
- *  main Wrapper
- * -------------------*/
 #main-wrapper {
     background : #ffffff;
     overflow   : hidden;
     }
-
-/*-----------------------------
- * NAVIGATION & HEADER STYLE
- *-------------------------------*/
 
 .header {
     position : absolute;
@@ -234,19 +176,6 @@ button:focus,
     height: 70px;
     border-image: none;
 }
-/*
-@media (max-width : 768px) {
-    .navbar-brand {
-        width : 200px;
-        }
-
-    .navbar-brand img {
-        max-width : 20px;
-        height    : 20px;
-        }
-    }
-*/
-/*navbar*/
 
 .navbar {
     border-radius  : 0;
@@ -263,7 +192,6 @@ button:focus,
         }
     }
 
-/*navbar toggle*/
 .navbar-toggle {
     margin        : 5px 0;
     padding       : 11px 10px;
@@ -278,7 +206,6 @@ button:focus,
     background: #fff;
     }
 
-/*Navigation Style*/
 
 .main-menu .navbar-right {
     margin-right : -15px;
@@ -323,8 +250,6 @@ button:focus,
         }
     }
 
-
-/* Sticky Menu */
 .sticky-nav {
     position           : fixed;
     right              : 0;
@@ -357,10 +282,6 @@ button:focus,
         padding-right: 10px;
         }
     }
-
-/*-------------------
- * Jumbotron
- *-------------------*/
 
 .jumbotron {
     background            : url("../img/img-jumbotron-bg.jpg");
@@ -426,16 +347,10 @@ button:focus,
         }
     }
 
-/*---------------------------
- * Section Wrapper
- *---------------------------*/
 .section-wrapper {
     padding : 100px 0;
     }
 
-/*---------------------------
- * Section Title
- *---------------------------*/
 .section-title {
     margin-bottom : 60px;
     text-align    : center;
@@ -450,9 +365,6 @@ button:focus,
     color     : #888888;
     }
 
-/* ----------------------------------------------
- * About Event
- *-----------------------------------------------*/
 .about-event .lead {
     font-size   : 19px;
     line-height : 1.7em;
@@ -467,10 +379,6 @@ button:focus,
 .about-event address strong {
     color : #353e55;
     }
-
-/* ----------------------------------------------
- * Team Section
- *-----------------------------------------------*/
 
 .team .thumbnail {
     padding          : 0;
@@ -533,9 +441,6 @@ button:focus,
     color : #333;
     }
 
-/* --------------------------
- * Agenda
- *---------------------------*/
 .section-ajenda .session {
     padding       : 15px 0;
     border-left   : 1px solid #eeeeee;
@@ -585,81 +490,6 @@ button:focus,
     color : #333;
     }
 
-/* --------------------------
- * Pricing Table
- *---------------------------*/
-
-.pricing-section .pricing-table-default {
-    border         : 1px solid #f1f1f1;
-    background     : #ffffff;
-    padding-bottom : 40px;
-    }
-
-@media (max-width : 766px) {
-    .pricing-section .pricing-table-default {
-        margin-bottom : 30px;
-        }
-    }
-
-.pricing-section .pricing-head h3 {
-    font-size        : 15px;
-    font-weight      : bold;
-    text-transform   : uppercase;
-    color            : #ffffff;
-    padding          : 14px 40px;
-    margin           : 0;
-    background-color : #0e1555;
-    }
-
-.pricing-section .pricing-head .price {
-    display     : block;
-    font-size   : 60px;
-    line-height : 60px;
-    font-weight : bold;
-    padding     : 43px 0 0;
-    }
-
-.pricing-section .pricing-head .price sup {
-    font-size      : 24px;
-    font-weight    : bold;
-    vertical-align : super;
-    top            : 0;
-    }
-
-.pricing-section .pricing-detail {
-    margin : 0 50px 25px 50px;
-    }
-
-.pricing-section .pricing-detail p {
-    margin : 0;
-    }
-
-/*pricing list*/
-
-.pricing-section .pricing-list li {
-    display : block;
-    padding : 8px 0;
-    }
-
-.pricing-section .pricing-list li i {
-    margin-right : 17px;
-    }
-
-.pricing-section .pricing-list li:first-child {
-    padding-top : 25px;
-    }
-
-.pricing-section .pricing-list li:last-child {
-    padding : 12px 0 0;
-    }
-
-.pricing-section .pricing-detail .pink-i li {
-    position : relative;
-    }
-
-/* --------------------------
- * Client Logo 
- *---------------------------*/
 
 .client-logo a img {
     width              : 100%;
@@ -680,72 +510,12 @@ button:focus,
         }
     }
 
-/* ------------------
- * Google Map
- * ------------------*/
 
 #googleMap {
     height        : 420px;
     border        : 5px solid #ffffff;
     margin-bottom : 100px;
     }
-
-/* ---------------------------
- * Subscribe Form
- * --------------------------- */
-
-.subscribe-form {
-    text-align : center;
-    }
-
-
-
-/*-------------------
- * Form Style
- *-------------------*/
-
-.form-control {
-    height        : 46px;
-    padding       : 0 20px;
-    font-size     : 14px;
-    line-height   : 46px;
-    color         : #969595;
-    border        : 1px solid #f1f1f1;
-    border-radius : 0;
-    box-shadow    : none;
-    }
-
-.form-control.input-lg {
-    height        : 60px;
-    padding       : 0 20px;
-    font-size     : 18px;
-    line-height   : 60px;
-    color         : #969595;
-    border        : 1px solid #f1f1f1;
-    border-radius : 0;
-    box-shadow    : none;
-    min-width     : 400px;
-    }
-
-.form-control:focus,
-.form-control:active {
-    box-shadow   : none;
-    border-color : #fd367e;
-    }
-
-
-@media (max-width : 600px) {
-    .form-control.input-lg{
-        min-width: auto;
-        display: block;
-        }
-    }
-
-/* --------------------------------------------
- *   Footer
- *---------------------------------------------- */
-
-/* Copyright */
 
 .footer .copyright-section {
     font-size : 13px;
@@ -758,9 +528,6 @@ button:focus,
     display     : block;
     }
 
-/* ---------------------------------------------- /*
- * Preloader
-/* ---------------------------------------------- */
 #preloader {
     background : #ffffff;
     bottom     : 0;

@@ -492,8 +492,10 @@ button:focus,
 
 
 .client-logo a img {
-    width              : 100%;
+    width              : 350px;
+    height: 150px;
     opacity            : 1;
+    padding-left:30px;
     -webkit-transition : all 0.8s ease 0s;
     -moz-transition    : all 0.8s ease 0s;
     -o-transition      : all 0.8s ease 0s;

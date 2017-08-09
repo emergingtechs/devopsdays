@@ -506,8 +506,7 @@ button:focus,
     width              : 250px;
     height             : 120px;
     opacity            : 1;
-    margin-top: 50px;
-    padding-top: 50px;
+    padding-top: 500px;
     padding-left:30px;
     -webkit-transition : all 0.8s ease 0s;
     -moz-transition    : all 0.8s ease 0s;

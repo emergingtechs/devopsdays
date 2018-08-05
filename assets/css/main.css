@@ -428,6 +428,7 @@ ul li {
 .contribution {
   text-align: center;
   color: #fff;
+  background-color:  #f8f8f8;
 }
 
 /* 
@@ -456,18 +457,16 @@ ul li {
  */
   background-color: #f8f8f8;
 .partner {
+  background-color:  #f8f8f8;
 }
+
 .partner .partner-box {
   display: block;
-  opacity: 1;
   height: 250px;
   width: 350px;
   margin: 25px auto;
   -webkit-transition: 0.5s all linear;
           transition: 0.5s all linear;
-}
-.partner .partner-box:hover {
-  opacity: 1;
 }
 .partner .partner-box-1 {
   background: url(../images/partner/gojek.png) no-repeat center center/contain;
@@ -497,6 +496,17 @@ ul li {
 /* 
  * 6.8 Section: FAQ
  */
+
+.contact{
+
+  background-color:  #f8f8f8;
+}
+
+
+.sponsor{
+  background-color:  #f8f8f8;
+}
+
 .faq .panel-heading {
   cursor: pointer;
 }

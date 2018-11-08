@@ -570,24 +570,6 @@ background-color: #f8f8f8;
   padding : 100px 0;
 }
 
-/*---------------------------
- * Section Title
- *---------------------------*/
-.section-title {
-  margin-bottom : 60px;
-  text-align    : center;
-}
-
-.section-title h1 {
-  margin-bottom : 5px;
-}
-
-.section-title p {
-  font-size : 18px;
-  color     : #888888;
-}
-
-
 /* --------------------------
  * Agenda
  *---------------------------*/
@@ -605,7 +587,7 @@ background-color: #f8f8f8;
 
 .section-ajenda .session h2 {
   margin      : 20px 0 0 20px;
-  font-size   : 24px;
+  font-size   : 30px;
   line-height : 1.5em;
   font-weight : 400;
 }

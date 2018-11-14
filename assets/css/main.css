@@ -415,8 +415,20 @@ ul li {
 .speaker p {
   margin-bottom: 5px;
 }
+
+.speaker img{
+  height:300px; 
+  width:300px;
+  border-style: solid;
+  border-width: 1px;
+}
+
 .speaker img:hover {
-  opacity: .7;
+  opacity: .8;
+  height:300px; 
+  width:300px;
+  border-style: solid;
+  border-width: 1px;
 }
 
 /* 

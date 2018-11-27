@@ -502,6 +502,9 @@ background-color: #f8f8f8;
 .partner .partner-box-7 {
   background: url(../images/partner/google_cloud.png) no-repeat center center/contain;
 }
+.partner .partner-box-7 {
+  background: url(../images/partner/f5.png) no-repeat center center/contain;
+}
 /*
  * 6.8 Section: FAQ
  */

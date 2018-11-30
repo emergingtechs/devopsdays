@@ -405,12 +405,13 @@ ul li {
 .speaker {
   text-align: center;
   color: #313131;
-  text-transform: uppercase;
+  text-transform: none;
   margin: 25px 0;
 }
 .speaker h4 {
   margin-top: 15px;
   margin-bottom: 5px;
+  text-transform: uppercase;
 }
 .speaker p {
   margin-bottom: 5px;
@@ -502,9 +503,6 @@ background-color: #f8f8f8;
 .partner .partner-box-7 {
   background: url(../images/partner/google_cloud.png) no-repeat center center/contain;
 }
-.partner .partner-box-8 {
-  background: url(../images/partner/partner-8.png) no-repeat center center/contain;
-}
 .partner .partner-box-9 {
   background: url(../images/partner/f5.png) no-repeat center center/contain;
 }
@@ -513,10 +511,10 @@ background-color: #f8f8f8;
  */
 
 .contact{
-
   background-color:  #f8f8f8;
+  text-transform: uppercase;
+  text-align: center;
 }
-
 
 .sponsor{
   background-color:  #f8f8f8;
@@ -755,4 +753,20 @@ background-color: #f8f8f8;
     padding: 6px 12px;
     border: 1px solid #ccc;
     border-top: none;
+}
+
+#speakers .modal-dialog {
+  width: 80%;
+}
+
+@media (max-width: 768px) {
+  #speakers .modal-dialog {
+    width: auto;
+  }
+}
+
+@media (max-width: 768px) {
+  #venue address {
+    text-align: center;
+  }
 }

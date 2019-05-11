@@ -1,0 +1,533 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="10e39704-39ec-4144-97ca-c24c6b941ed1" name="Default" comment="">
+      <change type="DELETED" beforePath="$PROJECT_DIR$/2017/2016/2015/assets/css/animate.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/2017/2016/2015/assets/css/bootstrap.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/2017/2016/2015/assets/css/flexslider.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/2017/2016/2015/assets/css/font-awesome.min.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/2017/2016/2015/assets/css/gridgallery.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/2017/2016/2015/assets/css/panel.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/2017/2016/2015/assets/css/queries.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/2017/2016/2015/assets/css/schedule.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/2017/2016/2015/assets/css/styles.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/2017/2016/2015/assets/css/venobox.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/2017/2016/2015/assets/fonts/fontawesome-webfont.ttf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/2017/2016/2015/assets/fonts/fontawesome-webfont.woff" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/2017/2016/2015/assets/img/1.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/2017/2016/2015/assets/img/2.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/2017/2016/2015/assets/img/3.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/2017/2016/2015/assets/img/bg/bg1.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/2017/2016/2015/assets/img/gal-icn.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/2017/2016/2015/assets/img/logo.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/2017/2016/2015/assets/img/sp1.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/2017/2016/2015/assets/img/sp2.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/2017/2016/2015/assets/img/sp3.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/2017/2016/2015/assets/img/sp4.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/2017/2016/2015/assets/img/sp5.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/2017/2016/2015/assets/img/sp6.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/2017/2016/2015/assets/img/sp7.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/2017/2016/2015/assets/img/speakers/david.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/2017/2016/2015/assets/img/speakers/justin.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/2017/2016/2015/assets/img/speakers/scott_muc.jpeg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/2017/2016/2015/assets/img/speakers/thibault.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/2017/2016/2015/assets/img/sponsor/chef.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/2017/2016/2015/assets/img/sponsor/pagerduty.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/2017/2016/2015/assets/img/sponsor/qwinix.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/2017/2016/2015/assets/img/sponsor/redhat.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/2017/2016/2015/assets/img/sponsor/shippable.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/2017/2016/2015/assets/img/vdo-icn.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/2017/2016/2015/assets/js/bootstrap.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/2017/2016/2015/assets/js/cbpFWTabs.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/2017/2016/2015/assets/js/cbpGridGallery.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/2017/2016/2015/assets/js/classie.grid.gallery.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/2017/2016/2015/assets/js/classie.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/2017/2016/2015/assets/js/init.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/2017/2016/2015/assets/js/jquery-1.11.0.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/2017/2016/2015/assets/js/jquery-ui-1.10.4.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/2017/2016/2015/assets/js/jquery.flexslider.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/2017/2016/2015/assets/js/jquery.nicescroll.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/2017/2016/2015/assets/js/jquery.placeholder.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/2017/2016/2015/assets/js/jssor.core.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/2017/2016/2015/assets/js/jssor.slider.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/2017/2016/2015/assets/js/jssor.utils.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/2017/2016/2015/assets/js/modalEffects.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/2017/2016/2015/assets/js/modernizr.gridgallery.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/2017/2016/2015/assets/js/modernizr.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/2017/2016/2015/assets/js/nlform.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/2017/2016/2015/assets/js/notifyMe.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/2017/2016/2015/assets/js/smooth-scroll.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/2017/2016/2015/assets/js/sponsor_init.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/2017/2016/2015/assets/js/venobox.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/2017/2016/2015/assets/js/wow.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/2017/2016/2015/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/2017/2016/CNAME" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/2017/2016/assets/css/font-awesome.min.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/2017/2016/assets/css/ie8.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/2017/2016/assets/css/images/arrow.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/2017/2016/assets/css/images/banner.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/2017/2016/assets/css/images/loader.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/2017/2016/assets/css/images/overlay.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/2017/2016/assets/css/images/poptrox-closer.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/2017/2016/assets/css/images/poptrox-nav.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/2017/2016/assets/css/main.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/2017/2016/assets/fonts/FontAwesome.otf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/2017/2016/assets/fonts/fontawesome-webfont.eot" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/2017/2016/assets/fonts/fontawesome-webfont.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/2017/2016/assets/fonts/fontawesome-webfont.ttf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/2017/2016/assets/fonts/fontawesome-webfont.woff" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/2017/2016/assets/fonts/fontawesome-webfont.woff2" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/2017/2016/assets/js/ie/PIE.htc" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/2017/2016/assets/js/ie/backgroundsize.min.htc" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/2017/2016/assets/js/ie/html5shiv.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/2017/2016/assets/js/ie/respond.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/2017/2016/assets/js/jquery.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/2017/2016/assets/js/jquery.poptrox.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/2017/2016/assets/js/jquery.scrolly.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/2017/2016/assets/js/main.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/2017/2016/assets/js/skel.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/2017/2016/assets/js/util.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/2017/2016/assets/sass/ie8.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/2017/2016/assets/sass/libs/_functions.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/2017/2016/assets/sass/libs/_mixins.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/2017/2016/assets/sass/libs/_skel.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/2017/2016/assets/sass/libs/_vars.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/2017/2016/assets/sass/main.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/2017/2016/doc/DOD16_Sponsorship_Prospectus.pdf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/2017/2016/images/ajey_gore.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/2017/2016/images/akash_mahajan.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/2017/2016/images/aspose.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/2017/2016/images/bg-alt.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/2017/2016/images/bg.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/2017/2016/images/digitalocean.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/2017/2016/images/fulls/adam_hawkins.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/2017/2016/images/fulls/ashwanth.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/2017/2016/images/fulls/lalatendu_mohanty.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/2017/2016/images/fulls/prashant_mittal.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/2017/2016/images/fulls/rajat_gupta.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/2017/2016/images/fulls/robin_rogge.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/2017/2016/images/fulls/vipul_sharma.jpeg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/2017/2016/images/fulls/vishal_biyani.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/2017/2016/images/gojek.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/2017/2016/images/ian-lewis.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/2017/2016/images/logo.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/2017/2016/images/mavenhive.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/2017/2016/images/mindcurv.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/2017/2016/images/pic01.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/2017/2016/images/pic02.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/2017/2016/images/qwinix.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/2017/2016/images/thoughtworks.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/2017/2016/images/thumbs/adam_hawkins.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/2017/2016/images/thumbs/ashwanth.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/2017/2016/images/thumbs/lalatendu_mohanty.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/2017/2016/images/thumbs/prashant_mittal.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/2017/2016/images/thumbs/rajat_gupta.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/2017/2016/images/thumbs/robin_rogge.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/2017/2016/images/thumbs/vipul_sharma.jpeg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/2017/2016/images/thumbs/vishal_biyani.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/2017/2016/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/2017/2016/oyo.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/2017/2016/schedule.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/2017/2016/scholarship.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/2017/CNAME" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/2017/css/bootstrap.min.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/2017/css/font-awesome.min.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/2017/css/style.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/2017/css/timeline.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/2017/doc/DOD17_Sponsorship_Prospectus.pdf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/2017/fonts/FontAwesome.otf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/2017/fonts/fontawesome-webfont.eot" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/2017/fonts/fontawesome-webfont.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/2017/fonts/fontawesome-webfont.ttf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/2017/fonts/fontawesome-webfont.woff" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/2017/fonts/fontawesome-webfont.woff2" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/2017/img/debashish.jpeg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/2017/img/google-map-marker.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/2017/img/img-jumbotron-bg.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/2017/img/logo-resize.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/2017/img/logo-resize2.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/2017/img/logo.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/2017/img/prashant_mittal.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/2017/img/preloader.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/2017/img/sankalp-singh.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/2017/img/satish_talim.jpeg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/2017/img/shobhit.jpeg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/2017/img/speakers/abhinav.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/2017/img/speakers/hannah.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/2017/img/speakers/kishore.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/2017/img/speakers/nathen-harvey.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/2017/img/speakers/neependra.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/2017/img/speakers/praveen.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/2017/img/speakers/rohit.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/2017/img/speakers/ronak.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/2017/img/speakers/sam.jpeg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/2017/img/speakers/sanchit.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/2017/img/speakers/victoria-jeffrey.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/2017/img/speakers/vishal.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/2017/img/sponsors/MASCOT-02.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/2017/img/sponsors/chef.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/2017/img/sponsors/cloudbyte.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/2017/img/sponsors/gojek.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/2017/img/sponsors/microsoft.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/2017/img/vijay_dhama.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/2017/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/2017/js/bootstrap.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/2017/js/jquery-2.1.4.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/2017/js/jquery.easing.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/2017/js/scripts.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/2017/recent-changes/assets/css/font-awesome.min.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/2017/recent-changes/assets/css/ie8.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/2017/recent-changes/assets/css/images/arrow.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/2017/recent-changes/assets/css/images/banner.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/2017/recent-changes/assets/css/images/loader.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/2017/recent-changes/assets/css/images/overlay.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/2017/recent-changes/assets/css/images/poptrox-closer.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/2017/recent-changes/assets/css/images/poptrox-nav.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/2017/recent-changes/assets/css/main.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/2017/recent-changes/assets/fonts/FontAwesome.otf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/2017/recent-changes/assets/fonts/fontawesome-webfont.eot" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/2017/recent-changes/assets/fonts/fontawesome-webfont.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/2017/recent-changes/assets/fonts/fontawesome-webfont.ttf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/2017/recent-changes/assets/fonts/fontawesome-webfont.woff" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/2017/recent-changes/assets/fonts/fontawesome-webfont.woff2" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/2017/recent-changes/assets/js/ie/PIE.htc" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/2017/recent-changes/assets/js/ie/backgroundsize.min.htc" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/2017/recent-changes/assets/js/ie/html5shiv.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/2017/recent-changes/assets/js/ie/respond.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/2017/recent-changes/assets/js/jquery.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/2017/recent-changes/assets/js/jquery.poptrox.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/2017/recent-changes/assets/js/jquery.scrolly.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/2017/recent-changes/assets/js/main.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/2017/recent-changes/assets/js/skel.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/2017/recent-changes/assets/js/util.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/2017/recent-changes/assets/sass/ie8.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/2017/recent-changes/assets/sass/libs/_functions.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/2017/recent-changes/assets/sass/libs/_mixins.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/2017/recent-changes/assets/sass/libs/_skel.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/2017/recent-changes/assets/sass/libs/_vars.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/2017/recent-changes/assets/sass/main.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/2017/recent-changes/images/ajey_gore.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/2017/recent-changes/images/akash_mahajan.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/2017/recent-changes/images/aspose.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/2017/recent-changes/images/bg-alt.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/2017/recent-changes/images/bg.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/2017/recent-changes/images/digitalocean.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/2017/recent-changes/images/fulls/adam_hawkins.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/2017/recent-changes/images/fulls/ashwanth.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/2017/recent-changes/images/fulls/lalatendu_mohanty.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/2017/recent-changes/images/fulls/prashant_mittal.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/2017/recent-changes/images/fulls/rajat_gupta.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/2017/recent-changes/images/fulls/robin_rogge.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/2017/recent-changes/images/fulls/vipul_sharma.jpeg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/2017/recent-changes/images/fulls/vishal_biyani.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/2017/recent-changes/images/gojek.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/2017/recent-changes/images/ian-lewis.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/2017/recent-changes/images/logo.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/2017/recent-changes/images/mavenhive.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/2017/recent-changes/images/mindcurv.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/2017/recent-changes/images/pic01.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/2017/recent-changes/images/pic02.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/2017/recent-changes/images/qwinix.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/2017/recent-changes/images/thoughtworks.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/2017/recent-changes/images/thumbs/adam_hawkins.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/2017/recent-changes/images/thumbs/ashwanth.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/2017/recent-changes/images/thumbs/lalatendu_mohanty.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/2017/recent-changes/images/thumbs/prashant_mittal.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/2017/recent-changes/images/thumbs/rajat_gupta.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/2017/recent-changes/images/thumbs/robin_rogge.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/2017/recent-changes/images/thumbs/vipul_sharma.jpeg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/2017/recent-changes/images/thumbs/vishal_biyani.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/2017/recent-changes/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/2017/recent-changes/oyo.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/2017/recent-changes/schedule.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/2017/recent-changes/scholarship.html" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
+    </list>
+    <ignored path="devopsdays.iws" />
+    <ignored path=".idea/workspace.xml" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CreatePatchCommitExecutor">
+    <option name="PATCH_PATH" value="" />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="devopsdays" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/index.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="690">
+              <caret line="51" column="64" selection-start-line="51" selection-start-column="64" selection-end-line="51" selection-end-column="64" />
+              <folding>
+                <element signature="n#button#0;n#div#0;n#div#0;n#nav#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+                <element signature="n#button#0;n#div#0;n#div#0;n#div#0;n#div#0;n#section#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+                <element signature="n#div#1;n#div#0;n#div#0;n#div#0;n#section#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+                <element signature="n#style#0;n#div#0;n#div#1;n#div#0;n#div#0;n#div#0;n#section#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+                <element signature="n#div#0;n#div#1;n#div#0;n#div#0;n#div#0;n#section#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+                <element signature="n#div#0;n#div#0;n#div#1;n#div#0;n#div#0;n#div#0;n#section#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+                <element signature="n#div#0;n#div#0;n#div#0;n#div#1;n#div#0;n#div#0;n#div#0;n#section#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+                <element signature="n#button#0;n#div#0;n#div#0;n#div#0;n#div#1;n#div#0;n#div#0;n#div#0;n#section#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+                <element signature="e#5104#5111#0" expanded="false" />
+                <element signature="n#div#1;n#div#0;n#div#0;n#div#1;n#div#0;n#div#0;n#div#0;n#section#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+                <element signature="n#p#0;n#div#1;n#div#0;n#div#0;n#div#1;n#div#0;n#div#0;n#div#0;n#section#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+                <element signature="n#ul#0;n#div#1;n#div#0;n#div#0;n#div#1;n#div#0;n#div#0;n#div#0;n#section#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+                <element signature="n#div#2;n#div#0;n#div#0;n#div#1;n#div#0;n#div#0;n#div#0;n#section#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+                <element signature="n#section#2;n#body#0;n#html#0;n#!!top" expanded="false" />
+                <element signature="n#div#0;n#section#2;n#body#0;n#html#0;n#!!top" expanded="false" />
+                <element signature="n#div#0;n#div#0;n#section#2;n#body#0;n#html#0;n#!!top" expanded="false" />
+                <element signature="n#div#0;n#div#0;n#div#0;n#section#2;n#body#0;n#html#0;n#!!top" expanded="false" />
+                <element signature="n#div#1;n#div#0;n#section#2;n#body#0;n#html#0;n#!!top" expanded="false" />
+                <element signature="n#div#0;n#div#1;n#div#0;n#section#2;n#body#0;n#html#0;n#!!top" expanded="false" />
+                <element signature="n#div#0;n#div#0;n#div#1;n#div#0;n#section#2;n#body#0;n#html#0;n#!!top" expanded="false" />
+                <element signature="n#div#0;n#div#0;n#div#0;n#div#1;n#div#0;n#section#2;n#body#0;n#html#0;n#!!top" expanded="false" />
+                <element signature="n#div#0;n#div#0;n#div#0;n#div#0;n#div#1;n#div#0;n#section#2;n#body#0;n#html#0;n#!!top" expanded="false" />
+                <element signature="n#h4#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#1;n#div#0;n#section#2;n#body#0;n#html#0;n#!!top" expanded="false" />
+                <element signature="n#a#0;n#h4#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#1;n#div#0;n#section#2;n#body#0;n#html#0;n#!!top" expanded="false" />
+                <element signature="n#div#1;n#div#0;n#div#0;n#div#0;n#div#1;n#div#0;n#section#2;n#body#0;n#html#0;n#!!top" expanded="false" />
+                <element signature="n#div#0;n#div#1;n#div#0;n#div#0;n#div#0;n#div#1;n#div#0;n#section#2;n#body#0;n#html#0;n#!!top" expanded="false" />
+                <element signature="n#div#1;n#div#0;n#div#0;n#div#1;n#div#0;n#section#2;n#body#0;n#html#0;n#!!top" expanded="false" />
+                <element signature="n#div#0;n#div#1;n#div#0;n#div#0;n#div#1;n#div#0;n#section#2;n#body#0;n#html#0;n#!!top" expanded="false" />
+                <element signature="n#h4#0;n#div#0;n#div#1;n#div#0;n#div#0;n#div#1;n#div#0;n#section#2;n#body#0;n#html#0;n#!!top" expanded="false" />
+                <element signature="n#a#0;n#h4#0;n#div#0;n#div#1;n#div#0;n#div#0;n#div#1;n#div#0;n#section#2;n#body#0;n#html#0;n#!!top" expanded="false" />
+                <element signature="n#div#1;n#div#1;n#div#0;n#div#0;n#div#1;n#div#0;n#section#2;n#body#0;n#html#0;n#!!top" expanded="false" />
+                <element signature="n#div#2;n#div#0;n#div#0;n#div#1;n#div#0;n#section#2;n#body#0;n#html#0;n#!!top" expanded="false" />
+                <element signature="n#div#0;n#div#2;n#div#0;n#div#0;n#div#1;n#div#0;n#section#2;n#body#0;n#html#0;n#!!top" expanded="false" />
+                <element signature="n#h4#0;n#div#0;n#div#2;n#div#0;n#div#0;n#div#1;n#div#0;n#section#2;n#body#0;n#html#0;n#!!top" expanded="false" />
+                <element signature="n#a#0;n#h4#0;n#div#0;n#div#2;n#div#0;n#div#0;n#div#1;n#div#0;n#section#2;n#body#0;n#html#0;n#!!top" expanded="false" />
+                <element signature="n#div#1;n#div#2;n#div#0;n#div#0;n#div#1;n#div#0;n#section#2;n#body#0;n#html#0;n#!!top" expanded="false" />
+                <element signature="n#div#3;n#div#0;n#div#0;n#div#1;n#div#0;n#section#2;n#body#0;n#html#0;n#!!top" expanded="false" />
+                <element signature="n#div#0;n#div#3;n#div#0;n#div#0;n#div#1;n#div#0;n#section#2;n#body#0;n#html#0;n#!!top" expanded="false" />
+                <element signature="n#h4#0;n#div#0;n#div#3;n#div#0;n#div#0;n#div#1;n#div#0;n#section#2;n#body#0;n#html#0;n#!!top" expanded="false" />
+                <element signature="n#a#0;n#h4#0;n#div#0;n#div#3;n#div#0;n#div#0;n#div#1;n#div#0;n#section#2;n#body#0;n#html#0;n#!!top" expanded="false" />
+                <element signature="n#div#1;n#div#3;n#div#0;n#div#0;n#div#1;n#div#0;n#section#2;n#body#0;n#html#0;n#!!top" expanded="false" />
+                <element signature="n#div#0;n#div#1;n#div#0;n#section#3;n#body#0;n#html#0;n#!!top" expanded="false" />
+                <element signature="n#div#0;n#div#0;n#div#1;n#div#0;n#section#3;n#body#0;n#html#0;n#!!top" expanded="false" />
+                <element signature="n#figure#0;n#div#0;n#div#0;n#div#1;n#div#0;n#section#3;n#body#0;n#html#0;n#!!top" expanded="false" />
+                <element signature="n#img#0;n#figure#0;n#div#0;n#div#0;n#div#1;n#div#0;n#section#3;n#body#0;n#html#0;n#!!top" expanded="false" />
+                <element signature="n#style#0;n#img#0;n#figure#0;n#div#0;n#div#0;n#div#1;n#div#0;n#section#3;n#body#0;n#html#0;n#!!top" expanded="false" />
+                <element signature="n#ul#0;n#div#0;n#div#0;n#div#1;n#div#0;n#section#3;n#body#0;n#html#0;n#!!top" expanded="false" />
+                <element signature="n#div#1;n#div#1;n#div#0;n#section#3;n#body#0;n#html#0;n#!!top" expanded="false" />
+                <element signature="n#div#0;n#div#1;n#div#1;n#div#0;n#section#3;n#body#0;n#html#0;n#!!top" expanded="false" />
+                <element signature="n#figure#0;n#div#0;n#div#1;n#div#1;n#div#0;n#section#3;n#body#0;n#html#0;n#!!top" expanded="false" />
+                <element signature="n#img#0;n#figure#0;n#div#0;n#div#1;n#div#1;n#div#0;n#section#3;n#body#0;n#html#0;n#!!top" expanded="false" />
+                <element signature="n#style#0;n#img#0;n#figure#0;n#div#0;n#div#1;n#div#1;n#div#0;n#section#3;n#body#0;n#html#0;n#!!top" expanded="false" />
+                <element signature="n#ul#0;n#div#0;n#div#1;n#div#1;n#div#0;n#section#3;n#body#0;n#html#0;n#!!top" expanded="false" />
+                <element signature="n#img#0;n#figure#0;n#div#0;n#div#2;n#div#1;n#div#0;n#section#3;n#body#0;n#html#0;n#!!top" expanded="false" />
+                <element signature="n#style#0;n#img#0;n#figure#0;n#div#0;n#div#2;n#div#1;n#div#0;n#section#3;n#body#0;n#html#0;n#!!top" expanded="false" />
+                <element signature="n#div#0;n#div#0;n#footer#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+                <element signature="n#div#0;n#div#0;n#div#0;n#footer#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+                <marker date="1557586721071" expanded="false" signature="68154:68162" ph="..." />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/index.html" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="y" value="23" />
+    <option name="width" value="1680" />
+    <option name="height" value="1027" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="false">
+    <OptionsSetting value="true" id="Add" />
+    <OptionsSetting value="true" id="Remove" />
+    <OptionsSetting value="true" id="Checkout" />
+    <OptionsSetting value="true" id="Update" />
+    <OptionsSetting value="true" id="Status" />
+    <OptionsSetting value="true" id="Edit" />
+    <ConfirmationsSetting value="0" id="Add" />
+    <ConfirmationsSetting value="0" id="Remove" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="devopsdays" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="devopsdays" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="devopsdays" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+      <pane id="Scratches" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="10e39704-39ec-4144-97ca-c24c6b941ed1" name="Default" comment="" />
+      <created>1557581460516</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1557581460516</updated>
+      <workItem from="1557581464652" duration="8000" />
+      <workItem from="1557581480026" duration="2716000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="2724000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="0" y="23" width="1680" height="1027" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="JSON Viewer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="Vcs.Log.UiProperties">
+    <option name="RECENTLY_FILTERED_USER_GROUPS">
+      <collection />
+    </option>
+    <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+      <collection />
+    </option>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager />
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="690">
+          <caret line="51" column="64" selection-start-line="51" selection-start-column="64" selection-end-line="51" selection-end-column="64" />
+          <folding>
+            <element signature="n#button#0;n#div#0;n#div#0;n#nav#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#button#0;n#div#0;n#div#0;n#div#0;n#div#0;n#section#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#div#1;n#div#0;n#div#0;n#div#0;n#section#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#style#0;n#div#0;n#div#1;n#div#0;n#div#0;n#div#0;n#section#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#div#0;n#div#1;n#div#0;n#div#0;n#div#0;n#section#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#div#0;n#div#0;n#div#1;n#div#0;n#div#0;n#div#0;n#section#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#div#0;n#div#0;n#div#0;n#div#1;n#div#0;n#div#0;n#div#0;n#section#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#button#0;n#div#0;n#div#0;n#div#0;n#div#1;n#div#0;n#div#0;n#div#0;n#section#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="e#5104#5111#0" expanded="false" />
+            <element signature="n#div#1;n#div#0;n#div#0;n#div#1;n#div#0;n#div#0;n#div#0;n#section#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#p#0;n#div#1;n#div#0;n#div#0;n#div#1;n#div#0;n#div#0;n#div#0;n#section#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#ul#0;n#div#1;n#div#0;n#div#0;n#div#1;n#div#0;n#div#0;n#div#0;n#section#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#div#2;n#div#0;n#div#0;n#div#1;n#div#0;n#div#0;n#div#0;n#section#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#section#2;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#div#0;n#section#2;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#div#0;n#div#0;n#section#2;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#div#0;n#div#0;n#div#0;n#section#2;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#div#1;n#div#0;n#section#2;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#div#0;n#div#1;n#div#0;n#section#2;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#div#0;n#div#0;n#div#1;n#div#0;n#section#2;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#div#0;n#div#0;n#div#0;n#div#1;n#div#0;n#section#2;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#div#0;n#div#0;n#div#0;n#div#0;n#div#1;n#div#0;n#section#2;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#h4#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#1;n#div#0;n#section#2;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#a#0;n#h4#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#1;n#div#0;n#section#2;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#div#1;n#div#0;n#div#0;n#div#0;n#div#1;n#div#0;n#section#2;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#div#0;n#div#1;n#div#0;n#div#0;n#div#0;n#div#1;n#div#0;n#section#2;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#div#1;n#div#0;n#div#0;n#div#1;n#div#0;n#section#2;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#div#0;n#div#1;n#div#0;n#div#0;n#div#1;n#div#0;n#section#2;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#h4#0;n#div#0;n#div#1;n#div#0;n#div#0;n#div#1;n#div#0;n#section#2;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#a#0;n#h4#0;n#div#0;n#div#1;n#div#0;n#div#0;n#div#1;n#div#0;n#section#2;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#div#1;n#div#1;n#div#0;n#div#0;n#div#1;n#div#0;n#section#2;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#div#2;n#div#0;n#div#0;n#div#1;n#div#0;n#section#2;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#div#0;n#div#2;n#div#0;n#div#0;n#div#1;n#div#0;n#section#2;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#h4#0;n#div#0;n#div#2;n#div#0;n#div#0;n#div#1;n#div#0;n#section#2;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#a#0;n#h4#0;n#div#0;n#div#2;n#div#0;n#div#0;n#div#1;n#div#0;n#section#2;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#div#1;n#div#2;n#div#0;n#div#0;n#div#1;n#div#0;n#section#2;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#div#3;n#div#0;n#div#0;n#div#1;n#div#0;n#section#2;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#div#0;n#div#3;n#div#0;n#div#0;n#div#1;n#div#0;n#section#2;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#h4#0;n#div#0;n#div#3;n#div#0;n#div#0;n#div#1;n#div#0;n#section#2;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#a#0;n#h4#0;n#div#0;n#div#3;n#div#0;n#div#0;n#div#1;n#div#0;n#section#2;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#div#1;n#div#3;n#div#0;n#div#0;n#div#1;n#div#0;n#section#2;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#div#0;n#div#1;n#div#0;n#section#3;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#div#0;n#div#0;n#div#1;n#div#0;n#section#3;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#figure#0;n#div#0;n#div#0;n#div#1;n#div#0;n#section#3;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#img#0;n#figure#0;n#div#0;n#div#0;n#div#1;n#div#0;n#section#3;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#style#0;n#img#0;n#figure#0;n#div#0;n#div#0;n#div#1;n#div#0;n#section#3;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#ul#0;n#div#0;n#div#0;n#div#1;n#div#0;n#section#3;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#div#1;n#div#1;n#div#0;n#section#3;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#div#0;n#div#1;n#div#1;n#div#0;n#section#3;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#figure#0;n#div#0;n#div#1;n#div#1;n#div#0;n#section#3;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#img#0;n#figure#0;n#div#0;n#div#1;n#div#1;n#div#0;n#section#3;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#style#0;n#img#0;n#figure#0;n#div#0;n#div#1;n#div#1;n#div#0;n#section#3;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#ul#0;n#div#0;n#div#1;n#div#1;n#div#0;n#section#3;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#img#0;n#figure#0;n#div#0;n#div#2;n#div#1;n#div#0;n#section#3;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#style#0;n#img#0;n#figure#0;n#div#0;n#div#2;n#div#1;n#div#0;n#section#3;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#div#0;n#div#0;n#footer#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#div#0;n#div#0;n#div#0;n#footer#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <marker date="1557586721071" expanded="false" signature="68154:68162" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

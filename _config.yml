@@ -13,12 +13,12 @@ exclude: ['/automation/', 'README.md', 'LICENSE.txt', 'CNAME']
 title: "DevopsDays India 2019"
 email: "ORGANIZERS-BENGALURU-2019@DEVOPSDAYS.ORG"
 description: "DevopsDays India is a global event complementing other DevopsDays events across the world."
-baseurl: "/devopsdays"
+baseurl: "/"
 url: "https://devopsdaysindia.org"
 permalink: "/blog/:title"
-googleAnalyticsTrackingId: "UA-43643469-5"
+googleAnalyticsTrackingId: ""
 googleAnalyticsSiteUrl: "devopsdaysindia.org"
-siteVerification: "b9imDOrFawXaBXCC4r3uJDdswSYcalD-wWpMYhFq-no"
+siteVerification: ""
 
 # Organizer Info
 organizerName: "emergingtechs"

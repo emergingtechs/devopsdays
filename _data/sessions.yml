@@ -1,0 +1,59 @@
+-
+  id: 307
+  title: ""
+  place: ""
+  service: true
+  description: ""
+-
+  id: 503
+  title: ""
+  place: ""
+  service: true
+-
+  id: 001
+  title: ""
+  description: ""
+  subtype: workshop
+  speakers: [3, 6]
+  language: en
+  complexity: ""
+  video: ""
+-
+  id: 002
+  title: ""
+  description: ""
+  subtype: presentation
+  speakers: [4, 5]
+  language: en
+  complexity: "" 
+  presentation: ""
+  video: ""
+-
+  id: 003
+  title: ""
+  description: ""
+  subtype: presentation
+  speakers: [4]
+  language: en
+  complexity: "" 
+  presentation: ""
+-
+  id: 004
+  title: ""
+  description: ""
+  subtype: keynote
+  speakers: [6]
+  language: uk
+  complexity: ""
+  presentation: ""
+  video: ""
+-
+  id: 005
+  title: ""
+  description: ""
+  subtype: keynote
+  speakers: [7]
+  language: en
+  complexity: ""
+  presentation: ""
+  video: ""

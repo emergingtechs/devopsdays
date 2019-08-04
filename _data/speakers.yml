@@ -1,0 +1,55 @@
+- 
+  id: 3
+  name: ""
+  surname: ""
+  company: ""
+  title: ""
+  bio: ""
+  thumbnailUrl: 
+  rockstar: true
+  social: 
+    - {name: "", link: ""}
+- 
+  id: 4
+  name: ""
+  surname: ""
+  company: ""
+  title: ""
+  bio: ""
+  thumbnailUrl: 
+  rockstar: true
+  social: 
+    - {name: "", link: ""}
+- 
+  id: 5
+  name: ""
+  surname: ""
+  company: ""
+  title: ""
+  bio: ""
+  thumbnailUrl: 
+  rockstar: true
+  social: 
+    - {name: "", link: ""}
+- 
+  id: 6
+  name: ""
+  surname: ""
+  company: ""
+  title: ""
+  bio: ""
+  thumbnailUrl: 
+  rockstar: true
+  social: 
+    - {name: "", link: ""}
+- 
+  id: 7
+  name: ""
+  surname: ""
+  company: ""
+  title: ""
+  bio: ""
+  thumbnailUrl: 
+  rockstar: true
+  social: 
+    - {name: "", link: ""}

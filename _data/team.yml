@@ -1,0 +1,56 @@
+- 
+  id: 0
+  name: "Satish"
+  surname: "Talim"
+  thumbnailUrl: satish_talim.jpg
+  team: true
+  ribbon: 
+    - {abbr: "DDI", title: "Devops Days India"}
+  social: 
+    - {name: "twitter", link: "https://twitter.com/IndianGuru"}
+    - {name: "linkedin", link: "https://www.linkedin.com/in/satishtalim/?originalSubdomain=in"}
+- 
+  id: 1
+  name: "Vijay"
+  surname: "Dhama"
+  thumbnailUrl: vjdhama.jpg
+  team: true
+  ribbon:
+    - {abbr: "DDI", title: "Devops Days India"}
+  social:
+    - {name: "twitter", link: "https://twitter.com/vjdhama"}
+    - {name: "linkedin", link: "https://www.linkedin.com/in/vjdhama/"}
+- 
+  id: 2
+  name: "Praveen"
+  surname: "Shukla"
+  thumbnailUrl: praveen.jpg
+  team: true
+  ribbon:
+    - {abbr: "DDI", title: "Devops Days India"}
+  social:
+    - {name: "twitter", link: "https://twitter.com/_praveenshukla"}
+    - {name: "linkedin", link: "https://www.linkedin.com/in/praveen-shukla-66b52b76/"}
+- 
+  id: 4
+  name: "Deepak"
+  surname: "Panth"
+  thumbnailUrl: deepak_panth.jpg
+  team: true
+  ribbon:
+    - {abbr: "DDI", title: "Devops Days India"}
+  social: 
+    - {name: "twitter", link: "https://twitter.com/panthdeepak"}
+    - {name: "linkedin", link: "https://www.linkedin.com/in/panthdeepak/"}
+
+-
+  id: 5
+  name: "Rahul"
+  surname: "Mahale"
+  thumbnailUrl: rahul_mahale.jpg
+  team: true
+  ribbon:
+    - {abbr: "DDI", title: "Devops Days India"}
+  social:
+    - {name: "twitter", link: "https://twitter.com/Rahul_Mahale"}
+    - {name: "linkedin", link: "https://www.linkedin.com/in/slashrahul/"}

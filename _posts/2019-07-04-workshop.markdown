@@ -5,7 +5,7 @@ date:   2019-07-04 08:00:00
 isStaticPost: false
 ---
 
-*1. [Kubernetes 201](https://www.townscript.com/e/dodi19/booking)*
+[Kubernetes 201](https://www.townscript.com/e/dodi19/booking)
 -------------------
 **Abstract**
 
@@ -31,7 +31,7 @@ Once you learn Kubernetes Basics, you get excited to know more and would like to
 -------------------
 
 
-*2. [Service Mesh](https://www.townscript.com/e/dodi19/booking)*
+[Service Mesh](https://www.townscript.com/e/dodi19/booking)
 -------------------
 **Abstract**
 
@@ -40,22 +40,24 @@ Generally one might assume that once we have deployed applications on one or mor
 In this workshop we’ll first understand the challenges like service discovery, traffic management, fault tolerant, security, etc; which we run into as we enable commnication between different serivces and then cover how Service Mesh technologies like Envoy, Istio, Linkerd can help us to overcome them.
 
 **Outline:**
-Understanding challenges with Service to Service Communication
-Exploring Envoy
-Install Istio
-Explore different Istio components and get familiar with different Istio concepts
-Deploying a sample app
-Setup Telemetry and Distributed Tracing
-Traffic Control
-Request Routing
-Canary Deployments
-Fault Injection
-Policy Enforcement and Rate Limiting
-Securing Communication between Microservices
-Q & A
+* Understanding challenges with Service to Service Communication
+* Exploring Envoy
+* Install Istio
+* Explore different Istio components and get familiar with different Istio concepts
+* Deploying a sample app
+* Setup Telemetry and Distributed Tracing
+* Traffic Control
+* Request Routing
+* Canary Deployments
+* Fault Injection
+* Policy Enforcement and Rate Limiting
+* Securing Communication between Microservices
+* Q & A
+
 **Requirements**
-Working knowledge of Kubernetes is required
-Access to a laptop/system with a browser
+
+* Working knowledge of Kubernetes is required
+* Access to a laptop/system with a browser
 
 **About the Trainer**
 

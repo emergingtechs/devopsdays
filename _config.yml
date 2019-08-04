@@ -16,9 +16,9 @@ description: "DevopsDays India is a global event complementing other DevopsDays 
 baseurl: "/devopsdays"
 url: "https://devopsdaysindia.org"
 permalink: "/blog/:title"
-googleAnalyticsTrackingId: "UA-43643469-5"
+googleAnalyticsTrackingId: ""
 googleAnalyticsSiteUrl: "devopsdaysindia.org"
-siteVerification: "b9imDOrFawXaBXCC4r3uJDdswSYcalD-wWpMYhFq-no"
+siteVerification: ""
 
 # Organizer Info
 organizerName: "emergingtechs"

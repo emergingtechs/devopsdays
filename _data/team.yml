@@ -54,3 +54,15 @@
   social:
     - {name: "twitter", link: "https://twitter.com/Rahul_Mahale"}
     - {name: "linkedin", link: "https://www.linkedin.com/in/slashrahul/"}
+
+-
+  id: 5
+  name: "Deepak"
+  surname: "Kaushik"
+  thumbnailUrl: deepak_kaushik.jpg
+  team: true
+  ribbon:
+    - {abbr: "DDI", title: "Devops Days India"}
+  social:
+    - {name: "twitter", link: "https://twitter.com/KRISSNA1300"}
+    - {name: "linkedin", link: "https://www.linkedin.com/in/deepak-kumar-3380a760/"}

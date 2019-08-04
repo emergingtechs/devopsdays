@@ -1,0 +1,24 @@
+-
+  group: "Platinum sponsors"
+  elements:
+    - {name: "Go-Jek", description: "Go-Jek", link: "https://www.gojek.io/", imageUrl: "gojek.png", width: "400"}
+-
+  group: "Gold sponsors"
+  elements:
+    - {name: "Zoho Corp", description: "Zoho Corp", link: "https://www.zohocorp.com/", imageUrl: "zohocorp.png", width: ""}
+-
+  group: "Silver sponsors"
+  elements:
+    - {name: "", description: "", link: "", imageUrl: ""}
+-
+  group: "Drinks sponsors"
+  elements:
+    - {name: "Sumo Logic", description: "Sumo Logic", link: "https://www.sumologic.com/", imageUrl: "sumologic.png"}
+-
+  group: "Diversity sponsors"
+  elements:
+    - {name: "GitLab", description: "GitLab", link: "https://about.gitlab.com/", imageUrl: "gitlab.png"}
+-
+  group: "Stationery sponsors"
+  elements:
+    - {name: "Babuda", description: "Babuda", link: "http://www.babuda.co.in/", imageUrl: "babuda.png"}

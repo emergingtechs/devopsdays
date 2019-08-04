@@ -1,55 +1,11 @@
 - 
   id: 3
-  name: ""
-  surname: ""
-  company: ""
-  title: ""
-  bio: ""
-  thumbnailUrl: 
+  name: "Ken"
+  surname: "Mugrage"
+  company: "ThoughtWorks"
+  title: "Tech Advocate for ThoughtWorks"
+  bio: "Ken Mugrage is a Technology Evangelist for ThoughtWorks, which is just a fancy way to say his job is to make people better at Continuous Delivery and DevOps."
+  thumbnailUrl: ken_mugrage.jpg
   rockstar: true
   social: 
-    - {name: "", link: ""}
-- 
-  id: 4
-  name: ""
-  surname: ""
-  company: ""
-  title: ""
-  bio: ""
-  thumbnailUrl: 
-  rockstar: true
-  social: 
-    - {name: "", link: ""}
-- 
-  id: 5
-  name: ""
-  surname: ""
-  company: ""
-  title: ""
-  bio: ""
-  thumbnailUrl: 
-  rockstar: true
-  social: 
-    - {name: "", link: ""}
-- 
-  id: 6
-  name: ""
-  surname: ""
-  company: ""
-  title: ""
-  bio: ""
-  thumbnailUrl: 
-  rockstar: true
-  social: 
-    - {name: "", link: ""}
-- 
-  id: 7
-  name: ""
-  surname: ""
-  company: ""
-  title: ""
-  bio: ""
-  thumbnailUrl: 
-  rockstar: true
-  social: 
-    - {name: "", link: ""}
+    - {name: "twitter", link: "https://twitter.com/kmugrage"}

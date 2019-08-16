@@ -57,7 +57,7 @@ heroImage: "hero.jpg"
 heroTitle: "DevopsDays <typeout> 2019"
 eventDate: "September 13-14, 2019"
 typeoutTextValues: '"", "India"'
-typeoutFallback: ""
+typeoutFallback: "India"
 heroButtons:
  - {link: "https://www.papercall.io/dodi19", text: "Become a speaker"}
  - {link: "https://www.townscript.com/e/dodi19/booking", text: "Buy tickets"}

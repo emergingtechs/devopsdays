@@ -61,6 +61,7 @@ typeoutFallback: "Season"
 heroButtons:
  - {link: "https://www.papercall.io/dodi19", text: "Become a speaker"}
  - {link: "https://www.townscript.com/e/dodi19/booking", text: "Buy tickets"}
+ - {link: "https://devopsdaysindia.org/assets/DevopsDaysIndia_Sponsorship_Prospectus.pdf", text: "Become a sponsor"} 
 
 # About Block
 aboutTitle: "About DevopsDays India"

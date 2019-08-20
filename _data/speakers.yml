@@ -1,5 +1,5 @@
 - 
-  id: 3
+  id: 1
   name: "Ken"
   surname: "Mugrage"
   company: "ThoughtWorks"
@@ -9,3 +9,146 @@
   rockstar: true
   social: 
     - {name: "twitter", link: "https://twitter.com/kmugrage"}
+- 
+  id: 2
+  name: "Karthic"
+  surname: "Rao"
+  company: "Dgraph Labs"
+  title: ""
+  bio: ''
+  thumbnailUrl: 
+  rockstar: true
+  social: 
+    - {name: "twitter", link: "https://twitter.com/hackintoshrao"}
+- 
+  id: 3
+  name: "Piyush"
+  surname: "Verma"
+  company: "Trusting Social"
+  title: ""
+  bio: ""
+  thumbnailUrl: 
+  rockstar: true
+  social: 
+    - {name: "twitter", link: "https://twitter.com/meson10"}
+- 
+  id: 4
+  name: "Chhavi"
+  surname: "Nijhawan"
+  company: "VMware"
+  title: ""
+  bio: ""
+  thumbnailUrl:
+  rockstar: true
+  social: 
+    - {name: "twitter", link: "https://twitter.com/chhavinij"}
+- 
+  id: 5
+  name: "Sushant"
+  surname: "Dewan"
+  company: "VMware"
+  title: ""
+  bio:
+  thumbnailUrl:
+  rockstar: true
+  social:
+    - {name: "twitter", link: "https://twitter.com/sushantdewan"}
+- 
+  id: 6
+  name: "Kevin"
+  surname: "Bheda"
+  company: "Gojek"
+  title: "Product Engineer"
+  bio: ""
+  thumbnailUrl: 
+  rockstar: true
+  social: 
+    - {name: "twitter", link: "http://twitter.com/kevinbheda"}
+- 
+  id: 7
+  name: "Preethi"
+  surname: "Sadagopan"
+  company: "Gojek"
+  title: "Product Engineer"
+  bio: ""
+  thumbnailUrl: 
+  rockstar: true
+  social: 
+    - {name: "twitter", link: "http://twitter.com/adf"}
+- 
+  id: 8
+  name: "Goutham"
+  surname: "Veeramachaneni"
+  company: "GrafanaLabs"
+  title: ""
+  bio: ""
+  thumbnailUrl:
+  rockstar: true
+  social: 
+    - {name: "twitter", link: "http://twitter.com/putadent"}
+- 
+  id: 9
+  name: "Nik"
+  surname: "Jain"
+  company: "NewRelic"
+  title: ""
+  bio: ""
+  thumbnailUrl: 
+  rockstar: true
+  social: 
+    - {name: "twitter", link: "http://twitter.com/monitorjain"}
+- 
+  id: 10
+  name: "Kishlaya"
+  surname: "Kumar"
+  company: "CleverTap"
+  title: ""
+  bio: ""
+  thumbnailUrl:
+  rockstar: true
+  social:
+    - {name: "twitter", link: "http://twitter.com/kishlayakumar"}
+- 
+  id: 11
+  name: "Aravind"
+  surname: "Putrevu"
+  company: "Elastic"
+  title: ""
+  bio: ""
+  thumbnailUrl:
+  rockstar: true
+  social:
+    - {name: "twitter", link: "https://twitter.com/aravindputrevu"}
+- 
+  id: 12
+  name: "Mukta"
+  surname: ""
+  company: "MPL"
+  title: ""
+  bio: ""
+  thumbnailUrl:
+  rockstar: true
+  social:
+    - {name: "twitter", link: "https://twitter.com/muktaa"}
+- 
+  id: 13
+  name: "Aditya"
+  surname: "Sen"
+  company: "Google Cloud"
+  title: ""
+  bio: ""
+  thumbnailUrl:
+  rockstar: true
+  social:
+    - {name: "twitter", link: "https://au.linkedin.com/in/adityasen"}
+- 
+  id: 14
+  name: "Rafal"
+  surname: "Leszko"
+  company: "Hazelcast"
+  title: ""
+  bio: ""
+  thumbnailUrl:
+  rockstar: true
+  social:
+    - {name: "twitter", link: "https://twitter.com/RafalLeszko"}

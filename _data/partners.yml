@@ -11,14 +11,14 @@
   elements:
     - {name: "Mayadata", description: "Mayadata", link: "https://mayadata.io/", imageUrl: "mayadata.png"}
 -
-  group: "Drinks sponsors"
+  group: "Drinks sponsor"
   elements:
     - {name: "Sumo Logic", description: "Sumo Logic", link: "https://www.sumologic.com/", imageUrl: "sumologic.png"}
 -
-  group: "Diversity sponsors"
+  group: "Diversity sponsor"
   elements:
     - {name: "GitLab", description: "GitLab", link: "https://about.gitlab.com/", imageUrl: "gitlab.png"}
 -
-  group: "Stationery sponsors"
+  group: "Lanyard sponsor"
   elements:
     - {name: "Babuda", description: "Babuda", link: "http://www.babuda.co.in/", imageUrl: "babuda.png"}

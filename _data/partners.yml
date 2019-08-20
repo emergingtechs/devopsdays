@@ -1,15 +1,15 @@
 -
   group: "Platinum sponsors"
   elements:
-    - {name: "Go-Jek", description: "Go-Jek", link: "https://www.gojek.io/", imageUrl: "gojek.png", width: "400"}
+    - {name: "Gojek", description: "Gojek", link: "https://www.gojek.io/", imageUrl: "gojek.png", width: "400"}
 -
   group: "Gold sponsors"
   elements:
-    - {name: "Zoho Corp", description: "Zoho Corp", link: "https://www.zohocorp.com/", imageUrl: "zohocorp.png", width: ""}
+    - {name: "Site24x7", description: "Site24x7", link: "https://www.site24x7.com/", imageUrl: "site24x7.png", width: ""}
 -
   group: "Silver sponsors"
   elements:
-    - {name: "", description: "", link: "", imageUrl: ""}
+    - {name: "Mayadata", description: "Mayadata", link: "https://mayadata.io/", imageUrl: "mayadata.png"}
 -
   group: "Drinks sponsors"
   elements:

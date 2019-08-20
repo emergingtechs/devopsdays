@@ -48,16 +48,16 @@ navigationLinks:
  - {permalink: "/speakers/", text: "Speakers"}
  - {permalink: "/team/", text: "Team"}
 bottomNavigationLinks:
- - {link: "https://www.papercall.io/dodi19", text: "Become a speaker"}
+ - {link: "https://devopsdaysindia.org/assets/DevopsDaysIndia_Sponsorship_Prospectus.pdf", text: "Become a sponsor"} 
 rightNavigationButtons:
- - {link: "https://www.papercall.io/dodi19", text: "Become a speaker"}
+ - {link: "https://devopsdaysindia.org/assets/DevopsDaysIndia_Sponsorship_Prospectus.pdf", text: "Become a sponsor"} 
 
 # Hero Block
 heroImage: "hero.jpg"
 heroTitle: "DevopsDays <typeout> 2019"
 eventDate: "September 13-14, 2019"
 typeoutTextValues: '"", "India"'
-typeoutFallback: "Season"
+typeoutFallback: "India"
 heroButtons:
  - {link: "https://www.papercall.io/dodi19", text: "Become a speaker"}
  - {link: "https://www.townscript.com/e/dodi19/booking", text: "Buy tickets"}
@@ -134,7 +134,7 @@ ticketsOffers:
   buyButtonText: "Buy Now"
   ticketContentList: ["Workshop will be conducted on 13th Sept after lunch time"]
   validFrom: "2019-08-01T10:00"
-  validThrough: "2019-09-12T23:59"
+  validThrough: "2019-09-11T23:59"
   disabled: false
  -
   name: "Workshop - Service Mesh"
@@ -144,7 +144,7 @@ ticketsOffers:
   buyButtonText: "Buy Now"
   ticketContentList: ["Workshop will be conducted on 12th Sept morning"]
   validFrom: "2019-08-01T10:00"
-  validThrough: "2019-09-12T00:00"
+  validThrough: "2019-09-11T23:59"
   soldOut: false
   soldOutText: "Sold Out"
  -
@@ -156,7 +156,7 @@ ticketsOffers:
   additionalInfo: "Workshop will be conducted on 12th of Sept afternoon"
   ticketContentList: ["", "", ""]
   validFrom: "2019-08-01T10:00"
-  validThrough: "2019-09-12T00:00"
+  validThrough: "2019-09-11T23:59"
   soldOut: false
   soldOutText: "Sold Out"
 

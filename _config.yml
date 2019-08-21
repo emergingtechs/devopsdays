@@ -121,7 +121,7 @@ ticketsOffers:
   priceCurrency: "INR"
   buyButtonLink: "https://www.townscript.com/e/dodi19/booking"
   buyButtonText: "Buy Now"
-  ticketContentList: ["Swags, lunch and 2 times tea/coffee on both days", "Drinks and Dinner on 13th"]
+  additionalInfo: "Includes Swags, lunch and 2 times tea/coffee on both days; Drinks and Dinner on 13th"
   validFrom: "2019-08-01T10:00"
   validThrough: "2019-09-12T23:59"
  -
@@ -131,7 +131,7 @@ ticketsOffers:
   featured: false
   buyButtonLink: "https://www.townscript.com/e/dodi19/booking"
   buyButtonText: "Buy Now"
-  ticketContentList: ["Workshop will be conducted on 13th Sept after lunch time"]
+  additionalInfo: "Workshop will be conducted on 12th Sept morning"
   validFrom: "2019-08-01T10:00"
   validThrough: "2019-09-11T23:59"
   disabled: false
@@ -141,7 +141,7 @@ ticketsOffers:
   priceCurrency: "INR"
   buyButtonLink: "https://www.townscript.com/e/dodi19/booking"
   buyButtonText: "Buy Now"
-  ticketContentList: ["Workshop will be conducted on 12th Sept morning"]
+  additionalInfo: "Workshop will be conducted on 12th Sept afternoon"
   validFrom: "2019-08-01T10:00"
   validThrough: "2019-09-11T23:59"
   soldOut: false
@@ -152,8 +152,7 @@ ticketsOffers:
   priceCurrency: "INR"
   buyButtonLink: "https://www.townscript.com/e/dodi19/booking"
   buyButtonText: "Buy Now"
-  additionalInfo: "Workshop will be conducted on 12th of Sept afternoon"
-  ticketContentList: ["", "", ""]
+  additionalInfo: "Workshop will be conducted on 12th of Sept"
   validFrom: "2019-08-01T10:00"
   validThrough: "2019-09-11T23:59"
   soldOut: false

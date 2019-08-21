@@ -1,7 +1,128 @@
-  id: 005
-  title: "keynote Speaker"
+-
+  id: 001
+  title: "Registration"
+  service: true
+  description: ""
+-
+  id: 002
+  title: "Event Kickoff"
+  service: true
+  description: ""
+-
+  id: 003
+  title: "You only have to change one thing to do the DevOps, everything"
   subtype: keynote
   speakers: [1]
-  language: en
-  complexity: "Expert"
-  presentation: ""
+-
+  id: 004
+  title: "Sponsors slot"
+-
+  id: 005
+  title: "Tea break"
+  description: ""
+-
+  id: 006
+  title: "Where is my cache? Architectural patterns for caching microservices by example"
+  description: ""
+  subtype: presentation
+  speakers: [14]
+-
+  id: 007
+  title: "Software/Site Reliability of Distributed Systems"
+  description: ""
+  subtype: presentation
+  speakers: [3]
+-
+  id: 008
+  title: "Lunch"
+  description: ""
+-
+  id: 009
+  title: "Demystifying Distributed Tracing and Emerging Standards: OpenTelemetry, OpenTracing and OpenCensus"
+  description: ""
+  subtype: presentation
+  speakers: [4, 5]
+-
+  id: 010
+  title: "Open Spaces"
+  description: ""
+-
+  id: 011
+  title: "Use cases of envoy in Gopay"
+  description: ""
+  subtype: presentation
+  speakers: [6, 7]
+-
+  id: 012
+  title: "Tea break"
+  description: ""
+-
+  id: 013
+  title: "Implementing Planet Scale Prometheus"
+  description: ""
+  subtype: presentation
+  speakers: [8]
+-
+  id: 014
+  title: "Lightning Talks"
+  description: ""
+-
+  id: 015
+  title: "Party"
+  description: ""
+-
+  id: 101
+  title: "Future of Observability"
+  description: ""
+  subtype: keynote
+  speakers: [9]
+-
+  id: 102
+  title: "Two Years of Fun & Productivity on Docker and AWS's Cloudformation At Clevertap, scaling for 4 Million to 25 million Spikes"
+  description: ""
+  subtype: presentation
+  speakers: [10]
+-
+  id: 103
+  title: "Tea break"
+  description: ""
+-
+  id: 104
+  title: "Building Distributed Systems in Distributed Teams"
+  description: ""
+  subtype: presentation
+  speakers: [11]
+-
+  id: 105
+  title: "Noise Cancellation: Calming the alerts storm!"
+  description: ""
+  subtype: presentation
+  speakers: [12]
+-
+  id: 106
+  title: "Lunch"
+  description: ""
+-
+  id: 107
+  title: "Demystifying running distributed database on Kubernetes"
+  description: ""
+  subtype: presentation
+  speakers: [2]
+-
+  id: 108
+  title: "Open Spaces"
+  description: ""
+-
+  id: 109
+  title: "Tea break"
+  description: ""
+-
+  id: 110
+  title: "Shrinking Production Incidents"
+  description: ""
+  subtype: presentation
+  speakers: [13]
+-
+  id: 111
+  title: "Lightning Talks"
+  description: ""

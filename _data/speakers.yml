@@ -14,8 +14,8 @@
   name: "Karthic"
   surname: "Rao"
   company: "Dgraph Labs"
-  title: ""
-  bio: ''
+  title: "Developer Advocate"
+  bio: 'Karthic is a Developer Advocate at Dgraph labs who strives to create value across multiple areas at Dgraph. He is enthusiastic about engineering, marketing, sales, product and developer relations and could effectively wear different hats. He has experience working with a wide range of startups in different domains across the globe. He has a unique distinction of having worked for an open-source web server, object storage and database company. He is an avid blogger, speaker, and musician too. He has given talks at multiple prestigious conferences. These include Gophercon India, Gophercon Singapore and the last edition of Devops days India. When not at work you could find him reading, at the gym, meditating, practicing music or on motorcycle trips.'
   thumbnailUrl: 
   rockstar: true
   social: 
@@ -25,8 +25,8 @@
   name: "Piyush"
   surname: "Verma"
   company: "Trusting Social"
-  title: ""
-  bio: ""
+  title: "Infrastructure Engineer"
+  bio: "Piyush Verma is an Infrastructure Engineer. In his past life he built oogway.in, datascale.io, and siminars.com"
   thumbnailUrl: 
   rockstar: true
   social: 
@@ -35,9 +35,9 @@
   id: 4
   name: "Chhavi"
   surname: "Nijhawan"
-  company: "VMware"
-  title: ""
-  bio: ""
+  company: "Wavefront by VMware"
+  title: "Lead Technical Evangelist"
+  bio: "Chhavi is the lead technical evangelist at Wavefront by VMware. Before Wavefront, she worked at New Relic, SnapLogic and Cisco, where she led technical product and solutions marketing. She has over 10 years of IT industry experience. She is also an AWS certified solutions architect."
   thumbnailUrl:
   rockstar: true
   social: 
@@ -46,9 +46,9 @@
   id: 5
   name: "Sushant"
   surname: "Dewan"
-  company: "VMware"
-  title: ""
-  bio:
+  company: "Wavefront by VMware"
+  title: "Engineering Manager"
+  bio: "Sushant Dewan is an Engineering Manager and is leading the Observability Platform team at Wavefront by VMware. His team is chartered to build a true Observability Platform comprised of metrics, histograms and distributed tracing for the microservices architecture. Before joining Wavefront, he has worked on several challenging software problems at VMware, McAfee, Dell-EMC, and Accenture."
   thumbnailUrl:
   rockstar: true
   social:
@@ -59,7 +59,7 @@
   surname: "Bheda"
   company: "Gojek"
   title: "Product Engineer"
-  bio: ""
+  bio: "As my instagram description suggests Trekker , football & pedantic programmer. I live on challenges from scaling high mountain peaks to scaling microservices. Working at Gojek have developed good know-how of tools like kafka , postgres, envoy and debezium."
   thumbnailUrl: 
   rockstar: true
   social: 
@@ -80,8 +80,8 @@
   name: "Goutham"
   surname: "Veeramachaneni"
   company: "GrafanaLabs"
-  title: ""
-  bio: ""
+  title: "Developer"
+  bio: "Goutham is a developer from India who started his journey as an infra intern at a large company where he worked on deploying Prometheus. After that initial encounter, he started contributing to Prometheus and interned with CoreOS, working on Prometheus’ new storage engine. He is now a maintainer for TSDB, the engine behind Prometheus 2.0. He now works at Grafana Labs on open-source observability tools. When not hacking away, he is on his bike adding miles and hurting his bum."
   thumbnailUrl:
   rockstar: true
   social: 
@@ -102,8 +102,8 @@
   name: "Kishlaya"
   surname: "Kumar"
   company: "CleverTap"
-  title: ""
-  bio: ""
+  title: "Senior System Engineer"
+  bio: "Kishlaya Kumar, Senior System Engineer, Clevertap Ex. Directi, Ex. DataEaze system. Big data Engineer to DevOps. read over 500 books, love travelling Been to all states and UT in India. over 100 Manga, Built a drone from scratch."
   thumbnailUrl:
   rockstar: true
   social:
@@ -113,8 +113,10 @@
   name: "Aravind"
   surname: "Putrevu"
   company: "Elastic"
-  title: ""
-  bio: ""
+  title: "Developer"
+  bio: "Aravind is passionate about evangelising technology, meeting developers and helping in solving their problems. He is a backend developer and has seven years of development experience.
+
+        Currently he works at Elastic as Developer and looks after the Developer Relation function of India. Previously, He worked at McAfee Antivirus as a Sr. Software Engineer in Cloud Security Domain. He has deep interest in Search, Machine Learning, Security Incident Analysis and IoT tech. In his free time, he plays around Raspi or a Arduino."
   thumbnailUrl:
   rockstar: true
   social:
@@ -124,8 +126,8 @@
   name: "Mukta"
   surname: ""
   company: "MPL"
-  title: ""
-  bio: ""
+  title: "VP of Reliability Engineering"
+  bio: "Mukta is an outcome driven intrepreneur, currently working as VP of Reliability Engineering at MPL. She became a part of the MPL journey after the acquisition of her company, Crevise, which specialised in devops consultation. Mukta is a visionary in the SRE / devops space. She has worked in this field since the time “devops” was a less known buzzword. She has contributed to development of Chef, Docker and Cassandra in her early days of devops exploration. From being a hard core developer to being a devops architect and a successful entrepreneur, Mukta exhibits outstanding technical as well as business skills."
   thumbnailUrl:
   rockstar: true
   social:
@@ -135,8 +137,8 @@
   name: "Aditya"
   surname: "Sen"
   company: "Google Cloud"
-  title: ""
-  bio: ""
+  title: "SRE"
+  bio: "I’ve been an SRE with Google for 6+ years. I’ve worked across multiple large scale distributed systems including Google’s Production Network and Google Cloud Storage."
   thumbnailUrl:
   rockstar: true
   social:
@@ -146,9 +148,9 @@
   name: "Rafal"
   surname: "Leszko"
   company: "Hazelcast"
-  title: ""
-  bio: ""
-  thumbnailUrl:
+  title: "Cloud Software Engineer"
+  bio: "Cloud software engineer at Hazelcast, author of the book “Continuous Delivery with Docker and Jenkins”, trainer, and conference speaker. He specializes in Java development, Cloud environments, and Continuous Delivery. Former employee in a number of companies and scientific organizations: Google, CERN, AGH University, and more."
+  thumbnailUrl: rafal_leszko.jpg
   rockstar: true
   social:
     - {name: "twitter", link: "https://twitter.com/RafalLeszko"}

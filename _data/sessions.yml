@@ -41,7 +41,7 @@
   title: "Demystifying Distributed Tracing and Emerging Standards: OpenTelemetry, OpenTracing and OpenCensus"
   description: ""
   subtype: presentation
-  speakers: [4, 5]
+  speakers: [4]
 -
   id: 010
   title: "Open Spaces"

@@ -32,7 +32,7 @@
     - {name: "twitter", link: "https://twitter.com/_praveenshukla"}
     - {name: "linkedin", link: "https://www.linkedin.com/in/praveen-shukla-66b52b76/"}
 - 
-  id: 4
+  id: 3
   name: "Deepak"
   surname: "Panth"
   thumbnailUrl: deepak_panth.jpg
@@ -42,9 +42,8 @@
   social: 
     - {name: "twitter", link: "https://twitter.com/panthdeepak"}
     - {name: "linkedin", link: "https://www.linkedin.com/in/panthdeepak/"}
-
 -
-  id: 5
+  id: 4
   name: "Rahul"
   surname: "Mahale"
   thumbnailUrl: rahul_mahale.jpg
@@ -54,7 +53,6 @@
   social:
     - {name: "twitter", link: "https://twitter.com/Rahul_Mahale"}
     - {name: "linkedin", link: "https://www.linkedin.com/in/slashrahul/"}
-
 -
   id: 5
   name: "Deepak"
@@ -66,3 +64,15 @@
   social:
     - {name: "twitter", link: "https://twitter.com/KRISSNA1300"}
     - {name: "linkedin", link: "https://www.linkedin.com/in/deepak-kumar-3380a760/"}
+
+-
+  id: 6
+  name: "Leena"
+  surname: "S N"
+  thumbnailUrl: leena_sn.jpg
+  team: true
+  ribbon:
+    - {abbr: "DDI", title: "Devops Days India"}
+  social:
+    - {name: "twitter", link: "https://twitter.com/leenasn"}
+   

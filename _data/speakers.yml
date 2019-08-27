@@ -91,9 +91,9 @@
   name: "Nik"
   surname: "Jain"
   company: "NewRelic"
-  title: ""
-  bio: ""
-  thumbnailUrl: 
+  title: "The Future of Observability"
+  bio: "True global technologist having worked in several continents; 10+ years of software development, CI/CD consultant and Observability/monitoring advocate; A Docker, K8s, React and Go-Lang enthusiast; HEC Paris – Top 3 global B-schools (Executive Education - Innovation and Entrepreneurship alumni) and Presales Architect at New Relic APJ; Regular speaker/evangelist at DevOps, Cloud-Native, AWS, Future Stack and other industry-based conferences"
+  thumbnailUrl: nik_jain.jpg
   rockstar: true
   social: 
     - {name: "twitter", link: "http://twitter.com/monitorjain"}

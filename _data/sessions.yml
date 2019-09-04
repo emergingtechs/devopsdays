@@ -39,7 +39,7 @@
   description: ""
 -
   id: 009
-  title: "Demystifying Distributed Tracing and Emerging Standards: OpenTelemetry, OpenTracing and OpenCensus"
+  title: "Grafana Loki: 1 year later"
   description: ""
   subtype: presentation
   speakers: [4]

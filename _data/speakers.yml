@@ -43,17 +43,6 @@
   social: 
     - {name: "twitter", link: "https://twitter.com/sukhanisandeep"}
 - 
-  id: 5
-  name: "Sushant"
-  surname: "Dewan"
-  company: "Wavefront by VMware"
-  title: "Engineering Manager"
-  bio: "Sushant Dewan is an Engineering Manager and is leading the Observability Platform team at Wavefront by VMware. His team is chartered to build a true Observability Platform comprised of metrics, histograms and distributed tracing for the microservices architecture. Before joining Wavefront, he has worked on several challenging software problems at VMware, McAfee, Dell-EMC, and Accenture."
-  thumbnailUrl:
-  rockstar: true
-  social:
-    - {name: "twitter", link: "https://twitter.com/sushantdewan"}
-- 
   id: 6
   name: "Kevin"
   surname: "Bheda"

@@ -27,32 +27,21 @@
   company: "Trusting Social"
   title: "Infrastructure Engineer"
   bio: "Piyush Verma is an Infrastructure Engineer. In his past life he built oogway.in, datascale.io, and siminars.com"
-  thumbnailUrl: 
+  thumbnailUrl: piyush_verma.jpg
   rockstar: true
   social: 
     - {name: "twitter", link: "https://twitter.com/meson10"}
 - 
   id: 4
-  name: "Chhavi"
-  surname: "Nijhawan"
-  company: "Wavefront by VMware"
-  title: "Lead Technical Evangelist"
-  bio: "Chhavi is the lead technical evangelist at Wavefront by VMware. Before Wavefront, she worked at New Relic, SnapLogic and Cisco, where she led technical product and solutions marketing. She has over 10 years of IT industry experience. She is also an AWS certified solutions architect."
-  thumbnailUrl:
+  name: "Sandeep"
+  surname: "Sukhani"
+  company: "Grafana"
+  title: "Software Engineer"
+  bio: "Sandeep is a Software Engineer, working at Grafana Labs on Loki & Cortex. After trying his hands at different areas including Data Security, Blockchain and HRM, he is living his dream working with one of the pioneers in Observability and Monitoring space, Grafana Labs. In his free time, Sandeep likes to read books, play tennis and watch movies/web series."
+  thumbnailUrl: sandeep_sukhani.jpg
   rockstar: true
   social: 
-    - {name: "twitter", link: "https://twitter.com/chhavinij"}
-- 
-  id: 5
-  name: "Sushant"
-  surname: "Dewan"
-  company: "Wavefront by VMware"
-  title: "Engineering Manager"
-  bio: "Sushant Dewan is an Engineering Manager and is leading the Observability Platform team at Wavefront by VMware. His team is chartered to build a true Observability Platform comprised of metrics, histograms and distributed tracing for the microservices architecture. Before joining Wavefront, he has worked on several challenging software problems at VMware, McAfee, Dell-EMC, and Accenture."
-  thumbnailUrl:
-  rockstar: true
-  social:
-    - {name: "twitter", link: "https://twitter.com/sushantdewan"}
+    - {name: "twitter", link: "https://twitter.com/sukhanisandeep"}
 - 
   id: 6
   name: "Kevin"
@@ -60,7 +49,7 @@
   company: "Gojek"
   title: "Product Engineer"
   bio: "As my instagram description suggests Trekker , football & pedantic programmer. I live on challenges from scaling high mountain peaks to scaling microservices. Working at Gojek have developed good know-how of tools like kafka , postgres, envoy and debezium."
-  thumbnailUrl: 
+  thumbnailUrl: kevin_bheda.jpg
   rockstar: true
   social: 
     - {name: "twitter", link: "http://twitter.com/kevinbheda"}
@@ -71,7 +60,7 @@
   company: "Gojek"
   title: "Product Engineer"
   bio: ""
-  thumbnailUrl: 
+  thumbnailUrl: preethi_sadagopan.jpg
   rockstar: true
   social: 
     - {name: "twitter", link: "http://twitter.com/adf"}
@@ -104,7 +93,7 @@
   company: "CleverTap"
   title: "Senior System Engineer"
   bio: "Kishlaya Kumar, Senior System Engineer, Clevertap Ex. Directi, Ex. DataEaze system. Big data Engineer to DevOps. read over 500 books, love travelling Been to all states and UT in India. over 100 Manga, Built a drone from scratch."
-  thumbnailUrl:
+  thumbnailUrl: kislaya_kumar.jpg
   rockstar: true
   social:
     - {name: "twitter", link: "http://twitter.com/kishlayakumar"}
@@ -126,7 +115,7 @@
   company: "MPL"
   title: "VP of Reliability Engineering"
   bio: "Mukta is an outcome driven intrepreneur, currently working as VP of Reliability Engineering at MPL. She became a part of the MPL journey after the acquisition of her company, Crevise, which specialised in devops consultation. Mukta is a visionary in the SRE / devops space. She has worked in this field since the time “devops” was a less known buzzword. She has contributed to development of Chef, Docker and Cassandra in her early days of devops exploration. From being a hard core developer to being a devops architect and a successful entrepreneur, Mukta exhibits outstanding technical as well as business skills."
-  thumbnailUrl:
+  thumbnailUrl: mukta.jpg
   rockstar: true
   social:
     - {name: "twitter", link: "https://twitter.com/muktaa"}
@@ -137,7 +126,7 @@
   company: "Google Cloud"
   title: "SRE"
   bio: "I’ve been an SRE with Google for 6+ years. I’ve worked across multiple large scale distributed systems including Google’s Production Network and Google Cloud Storage."
-  thumbnailUrl:
+  thumbnailUrl: aditya_sen.jpg
   rockstar: true
   social:
     - {name: "twitter", link: "https://au.linkedin.com/in/adityasen"}

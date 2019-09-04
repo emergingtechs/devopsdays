@@ -33,15 +33,15 @@
     - {name: "twitter", link: "https://twitter.com/meson10"}
 - 
   id: 4
-  name: "Chhavi"
-  surname: "Nijhawan"
-  company: "Wavefront by VMware"
-  title: "Lead Technical Evangelist"
-  bio: "Chhavi is the lead technical evangelist at Wavefront by VMware. Before Wavefront, she worked at New Relic, SnapLogic and Cisco, where she led technical product and solutions marketing. She has over 10 years of IT industry experience. She is also an AWS certified solutions architect."
-  thumbnailUrl:
+  name: "Sandeep"
+  surname: "Sukhani"
+  company: "Grafana"
+  title: "Software Engineer"
+  bio: "Sandeep is a Software Engineer, working at Grafana Labs on Loki & Cortex. After trying his hands at different areas including Data Security, Blockchain and HRM, he is living his dream working with one of the pioneers in Observability and Monitoring space, Grafana Labs. In his free time, Sandeep likes to read books, play tennis and watch movies/web series."
+  thumbnailUrl: sandeep_sukhani.jpg
   rockstar: true
   social: 
-    - {name: "twitter", link: "https://twitter.com/chhavinij"}
+    - {name: "twitter", link: "https://twitter.com/sukhanisandeep"}
 - 
   id: 5
   name: "Sushant"

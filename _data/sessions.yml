@@ -73,9 +73,11 @@
   description: ""
 -
   id: 101
-  title: "Future of Observability"
-  description: "The present and past of Observability has been centered around tools – Open source and ISV based. In the last decade, full stack observability moved from being a ‘nice-to-have’ use-case to a ‘must-have’. This changed the course of development and investments in building professional Observability platform. Plus, the observability moniker was born in the last two years out of traditional monitoring and service operations. Eventually, enterprises begun to realize that deploying production workloads without visibility into those workloads is analogous to ‘flying blind’. The future of observability is a bit dark (microservices and container orchestration further thwart the problem) and only the “meticulous ones” will succeed in setting up an intelligent and  efficient observability center. The word meticulous is key here because most modern, cloud-native companies are currently experiencing ballistic growth, and this means they don’t necessarily find the time to strategize and deploy a cogent observability practice. The future of observability is centered around planning and processes which I will dive into during the talk. Not surprisingly, the whole game is about to change. Next, there is a ground swell of open-sourced libraries and frameworks, plus first-grade professional platforms like New Relic, Splunk and Datadog. All of these technologies will require to work in harmony. "
-  subtype: keynote
+  title: "How to Package and Publish your Kubernetes Application as an Operator on OperatorHub"
+  description: "Kubernetes declaratively manages a cluster by standardizing both resource definitions (Pod, Service etc.) and resource management logic (controllers). Using Operator pattern we can extent our Kubernetes cluster and manage our applications in a Kuberntes-native way. This enables us to embed operational knowledge as a combination of Custom Resource Definitions (CRDs) and custom controllers.
+                The Operator-SDK Framework provides an efficient path for developers to adapt Kubernetes native experience for managing application deployments. It also provides effective tools to develop, test, package and publish Operators.
+                My goal is to present end-to-end Operator development workflow consisting of writing an Operator, packaging and publishing on OperatorHub. I intend to start with a brief introduction to Kubernetes Operator pattern, Operator-SDK, Operator Lifecycle Manager and OperatorHub. Then demonstrate development, packaging, publishing and consumption of an operator on your Kubernetes/Openshift cluster."
+  subtype: presentation
   speakers: [9]
 -
   id: 102

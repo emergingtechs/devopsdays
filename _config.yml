@@ -18,7 +18,7 @@ url: "https://devopsdaysindia.org"
 permalink: "/blog/:title"
 googleAnalyticsTrackingId: ""
 googleAnalyticsSiteUrl: "devopsdaysindia.org"
-siteVerification: "AIzaSyBd59PEx8Xebd_fsXf5Re5K4HA5MrwCpTU"
+googleMapApiKey: "AIzaSyBgvlmcBMUJrQ4NXxwIWdvJgKdmAHMlfcQ"
 
 # Organizer Info
 organizerName: "emergingtechs"
@@ -162,7 +162,6 @@ ticketsOffers:
 socialLinks:
  - {link: "https://twitter.com/DevOpsDaysIN", icon: "twitter"}
  - {link: "https://www.facebook.com/devopsdaysin/", icon: "facebook"}
- - {permalink: "/feed.xml", icon: "rss"}
 footerBlocks:
  -
   title: "Links"

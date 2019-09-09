@@ -77,15 +77,15 @@
     - {name: "twitter", link: "http://twitter.com/putadent"}
 - 
   id: 9
-  name: "Nik"
-  surname: "Jain"
-  company: "NewRelic"
-  title: "The Future of Observability"
-  bio: "True global technologist having worked in several continents; 10+ years of software development, CI/CD consultant and Observability/monitoring advocate; A Docker, K8s, React and Go-Lang enthusiast; HEC Paris – Top 3 global B-schools (Executive Education - Innovation and Entrepreneurship alumni) and Presales Architect at New Relic APJ; Regular speaker/evangelist at DevOps, Cloud-Native, AWS, Future Stack and other industry-based conferences"
-  thumbnailUrl: nik_jain.jpg
+  name: "Nikhil"
+  surname: "Thomas"
+  company: "Red Hat"
+  title: "Software Engineer"
+  bio: "I am a software engineer at Red Hat. My current focus is Tekton project. it provides Kubernetes-style resources for declaratively managing CI/CD-style pipelines. I contribute to the development of a Tekton-Pipelines-Operator for managing the life-cycle of Tekton Pipelines. I am an Engineer by passion and profession. I love to build things. Hence, I love the youtube channel 'The Hacksmith'."
+  thumbnailUrl: nikhil.thomas.jpg
   rockstar: true
   social: 
-    - {name: "twitter", link: "http://twitter.com/monitorjain"}
+    - {name: "twitter", link: "http://twitter.com/nikhilthomasmwb"}
 - 
   id: 10
   name: "Kishlaya"

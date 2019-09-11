@@ -49,7 +49,7 @@
   company: "Gojek"
   title: "Product Engineer"
   bio: "As my instagram description suggests Trekker , football & pedantic programmer. I live on challenges from scaling high mountain peaks to scaling microservices. Working at Gojek have developed good know-how of tools like kafka , postgres, envoy and debezium."
-  thumbnailUrl: kevin_bheda.jpg
+  thumbnailUrl: kevin_bheda.jpeg
   rockstar: true
   social: 
     - {name: "twitter", link: "http://twitter.com/kevinbheda"}

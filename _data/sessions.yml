@@ -65,8 +65,17 @@
   speakers: [8]
 -
   id: 014
-  title: "Lightning Talks"
-  description: ""
+  title: "Lightning Talks - Click for details"
+  description: "
+  1. Cutting the Cord: Letting Your Remote Team Run Free -  Tommy Adams ||
+
+  2. How can you SRE without an SRE on your team? -  Amiya Adwitiya ||
+
+  3. How to write idempotent shell script  - Mohd Maqbool Alam ||
+
+  4. Ops in the age of Chat - Arpit Mohan ||
+
+  5. The Infamous Thanos - Saiyam Pathak"
 -
   id: 015
   title: "Party"
@@ -127,5 +136,11 @@
   speakers: [13]
 -
   id: 111
-  title: "Lightning Talks"
-  description: ""
+  title: "Lightning Talks - Click for details"
+  description: "
+  1. POWER your DC - Toshaan Bharvani ||
+  2. Razorops Introduction -  Shyam Mohan K ||
+  3. RSYNC on steriods - Kevin Bheda ||
+  4. The famous TICK Stack - Saiyam Pathak ||
+  5. ETL Platform using AWS - Ginni Dahiya"
+

@@ -141,3 +141,44 @@
   rockstar: true
   social:
     - {name: "twitter", link: "https://twitter.com/RafalLeszko"}
+
+-
+  id: 15
+  name: "1. Cutting the Cord: Letting Your Remote Team Run Free -  Tommy Adams"
+
+-
+  id: 16
+  name: "2. How can you SRE without an SRE on your team? -  Amiya Adwitiya"
+
+-
+  id: 17
+  name: "3. How to write idempotent shell script  - Mohd Maqbool Alam"
+
+-
+  id: 18
+  name: "4. Ops in the age of Chat - Arpit Mohan"
+
+-
+  id: 19
+  name: "5. The Infamous Thanos - Saiyam Pathak"
+
+-
+  id: 20
+  name: "1. POWER your DC - Toshaan Bharvani"
+
+-
+  id: 21
+  name: "2. Razorops Introduction -  Shyam Mohan K"
+
+-
+  id: 22
+  name: "3. RSYNC on steriods - Kevin Bheda"
+
+-
+  id: 23
+  name: "4. The famous TICK Stack - Saiyam Pathak"
+
+-
+  id: 24
+  name: "5. ETL Platform using AWS - Ginni Dahiya"
+

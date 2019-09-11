@@ -82,7 +82,7 @@
   company: "Red Hat"
   title: "Software Engineer"
   bio: "I am a software engineer at Red Hat. My current focus is Tekton project. it provides Kubernetes-style resources for declaratively managing CI/CD-style pipelines. I contribute to the development of a Tekton-Pipelines-Operator for managing the life-cycle of Tekton Pipelines. I am an Engineer by passion and profession. I love to build things. Hence, I love the youtube channel 'The Hacksmith'."
-  thumbnailUrl: nikhil.thomas.jpg
+  thumbnailUrl: nikhil_thomas.jpg
   rockstar: true
   social: 
     - {name: "twitter", link: "http://twitter.com/nikhilthomasmwb"}
@@ -115,7 +115,7 @@
   company: "MPL"
   title: "VP of Reliability Engineering"
   bio: "Mukta is an outcome driven intrepreneur, currently working as VP of Reliability Engineering at MPL. She became a part of the MPL journey after the acquisition of her company, Crevise, which specialised in devops consultation. Mukta is a visionary in the SRE / devops space. She has worked in this field since the time “devops” was a less known buzzword. She has contributed to development of Chef, Docker and Cassandra in her early days of devops exploration. From being a hard core developer to being a devops architect and a successful entrepreneur, Mukta exhibits outstanding technical as well as business skills."
-  thumbnailUrl: mukta.jpg
+  thumbnailUrl: muktaa.jpg
   rockstar: true
   social:
     - {name: "twitter", link: "https://twitter.com/muktaa"}

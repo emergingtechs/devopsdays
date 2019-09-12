@@ -22,3 +22,7 @@
   group: "Lanyard sponsor"
   elements:
     - {name: "Babuda", description: "Babuda", link: "http://www.babuda.co.in/", imageUrl: "babuda.png"}
+-
+  group: "Student sponsor"
+  elements:
+    - {name: "NewRelic", description: "NewRelic", link: "https://newrelic.com", imageUrl: "new_relic.png"}

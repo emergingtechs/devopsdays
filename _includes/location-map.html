@@ -7,8 +7,9 @@
                 <div class="pull-left">
                     <h4><b>{{ site.locationBlockTitle }}</b></h4>
                     <ul>
-                        {% if site.eventLocationName %}<li>{{ site.eventLocationName }}</li>{% endif %}
+                        <li><a href="https://goo.gl/maps/nGjeo5Sc29upA7hYA">{{ site.eventLocationName }}</a></li>
                         <li>{{ site.eventStreetAddress }}, {{ site.eventAddressLocality }}</li>
+                        <li>{{ site.eventAddressLocalityRegion }} - {{ site.eventPostalCode }}</li>
                         <li><a href="mailto:{{ site.email }}">{{ site.email }}</a></li>
                         <li>
                             {% assign startTime = site.eventStartTime | split: "T" %}

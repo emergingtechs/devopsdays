@@ -48,15 +48,15 @@ layout: compress
     {% if page.permalink == '/' or page.permalink == '/hackathon/' %}
     <script>
         if ($(window).width() > 767) {
-            document.write('<script src="https://maps.googleapis.com/maps/api/js?v=3.exp&key={{ site.googleMapApiKey }}&sensor=false"><\/script>')
-        } 
+            document.write('<script src="https://maps.googleapis.com/maps/api/js?v=3.exp&sensor=false"><\/script>')
+        }
     </script>
     {% elsif page.permalink == '/logistics/' %}
-        <script src="https://maps.googleapis.com/maps/api/js?v=3.exp&key={{ site.googleMapApiKey }}&libraries=places,geometry"></script>
+        <script src="https://maps.googleapis.com/maps/api/js?v=3.exp&&sensor=false"></script>
         <script type="text/javascript">
             var autoDirectionEnabled = {% if site.logisticsMapAutoDirections %} true {% else %} false {% endif %};
         </script>
-    {% endif %} 
+    {% endif %}
     <script>
         Waves.displayEffect();
         {% if page.permalink == '/' %}

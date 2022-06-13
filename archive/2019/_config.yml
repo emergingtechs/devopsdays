@@ -1,0 +1,190 @@
+# Plugins
+gems:
+- jekyll-sitemap
+safe: false
+
+# Build Settings
+markdown: kramdown
+permalink: pretty
+exclude: ['/automation/', 'README.md', 'LICENSE.txt', 'CNAME']
+
+
+# Site Settings
+title: "DevopsDays India 2019"
+email: "ORGANIZERS-BENGALURU-2019@DEVOPSDAYS.ORG"
+description: "DevopsDays India is a global event complementing other DevopsDays events across the world."
+baseurl: "/"
+url: "https://devopsdaysindia.org"
+permalink: "/blog/:title"
+googleAnalyticsTrackingId: ""
+googleAnalyticsSiteUrl: "devopsdaysindia.org"
+googleMapApiKey: "AIzaSyBgvlmcBMUJrQ4NXxwIWdvJgKdmAHMlfcQ"
+
+# Organizer Info
+organizerName: "emergingtechs"
+organizerAlternateName: "DevopsDays India 2019"
+organizerDescription: "DevopsDays India is a global event complementing other DevopsDays events across the world."
+organizerEmail: "ORGANIZERS-BENGALURU-2019@DEVOPSDAYS.ORG"
+organizerLogo: "/img/seo/organizer-logo.png"
+organizerLink: "devopsdaysindia.org"
+
+# Head
+metaKeywords: "event, devops, containers, monitoring, CICD"
+twitterAccount: "@DevOpsDaysIN"
+socialImageSrcGooglePlus: "/img/seo/organizer-logo.png"
+socialImageSrcTwitter: "/img/seo/organizer-logo.png"
+socialImageSrcFacebook: "/img/seo/organizer-logo.png"
+
+# Documents
+c4pUrl: "https://www.papercall.io/dodi19"
+c4sponsorsUrl: "/assets/DevopsDaysIndia_Sponsorship_Prospectus.pdf"
+
+
+# Navigation
+navigationLinks:
+ - {permalink: "/", text: "Home"}
+ - {permalink: "/blog/", text: "Blog"}
+ - {permalink: "/schedule/", text: "Schedule"}
+ - {permalink: "/speakers/", text: "Speakers"}
+ - {permalink: "/team/", text: "Team"}
+bottomNavigationLinks:
+ - {link: "https://devopsdaysindia.org/assets/DevopsDaysIndia_Sponsorship_Prospectus.pdf", text: "Become a sponsor"} 
+rightNavigationButtons:
+ - {link: "https://devopsdaysindia.org/assets/DevopsDaysIndia_Sponsorship_Prospectus.pdf", text: "Become a sponsor"} 
+
+# Hero Block
+heroImage: "hero.jpg"
+heroTitle: "DevopsDays <typeout> 2019"
+eventDate: "September 13-14, 2019"
+typeoutTextValues: '"", "India"'
+typeoutFallback: "India"
+heroButtons:
+ - {link: "https://www.townscript.com/e/dodi19/booking", text: "Buy tickets"}
+ - {link: "https://devopsdaysindia.org/assets/DevopsDaysIndia_Sponsorship_Prospectus.pdf", text: "Become a sponsor"} 
+
+# About Block
+aboutTitle: "About DevopsDays India"
+aboutBlock:
+ - {title: "Conference", image: "conference.jpg", text: "DevopsDays India is a global event complementing other DevopsDays events across the world. Awesome speakers and lots of fun!" }
+ - {title: "Workshops", image: "workshop.jpg", text: "Full-day of workshops, hands-on experience, hacking and debugging. Come and tame your favourite technology!" }
+
+# Statistic Block
+statisticBlockImage: "statistic.jpg"
+statisticBlock:
+ - {count: "330", specialCharacter: "+", info: "attendees", detail: "from 75 companies"}
+ - {count: "16", specialCharacter: "+", info: "hours", detail: "of pure Devops technologies"}
+ - {count: "15", specialCharacter: "+", info: "speakers", detail: "from country and beyond"}
+ - {count: "45", specialCharacter: "+", info: "attendees", detail: "female attendees"}
+
+# Latest News Block
+latestNewsTitle: "Latest news"
+
+# Rockstar Speakers Block
+rockstarSpeakersImage: "rockstar-speakers.jpg"
+rockstarSpeakersCount: 4
+rockstarSpeakersTitle: "Rockstar speakers"
+rockstarSpeakersButtonText: "See all speakers"
+
+# Location Block
+locationBlockTitle: "Location"
+eventLocationName: "RADISSON BLU BENGALURU"
+eventLocationLink: "https://goo.gl/maps/DWhhsQPq6cWrCkFW6"
+eventStreetAddress: "SY NO 90, 4, SARJAPUR OUTER RING ROAD"
+eventAddressLocality: "Marathahalli"
+eventAddressLocalityRegion: "Bengaluru"
+eventPostalCode: "560037"
+eventAddressCountry: "India"
+eventStartTime: "2019-09-13T09:00"
+eventDoorTime: "08:30"
+eventEndTime: "2019-09-14T18:00"
+eventPlaceCoordinates: "12.950399, 77.89885"
+mapCenterCoordinates: "12.950399, 77.89885"
+mapMobileCenterCoordinates: "12.950399, 77.89885"
+
+# Tweets Feed Block
+tweetsFeedImage: "twitter-feed.jpg"
+tweetsFeedTitle: "What's Up?"
+twitterHashTag: "DevopsDaysIN"
+twitterFeed: "http://xxx/tweetledee/favoritesjson.php?c=10&cache_interval=8000"
+
+# Partners Block
+partnersTitle: "Sponsors"
+partnersC4sponsorsButton: "Become a sponsor"
+
+# Tickets Block
+ticketsTitle: "Price Table"
+ticketsInfo: "Tickets grant access to all conference sections, coffee breaks, lunch and party. Accommodation is NOT included in the ticket price."
+ticketsOffers:
+ -
+  name: "Regular Conference Ticket"
+  price: "2542"
+  priceCurrency: "INR"
+  buyButtonLink: "https://www.townscript.com/e/dodi19/booking"
+  buyButtonText: "Buy Now"
+  additionalInfo: "Includes Swags, lunch and 2 times tea/coffee on both days; Drinks and Dinner on 13th"
+  validFrom: "2019-08-01T10:00"
+  validThrough: "2019-09-12T23:59"
+ -
+  name: "Workshop - Kubernetes 201"
+  price: "3814"
+  priceCurrency: "INR"
+  featured: false
+  buyButtonLink: "https://www.townscript.com/e/dodi19/booking"
+  buyButtonText: "Buy Now"
+  additionalInfo: "Workshop will be conducted on 12th Sept morning"
+  validFrom: "2019-08-01T10:00"
+  validThrough: "2019-09-11T23:59"
+  disabled: false
+ -
+  name: "Workshop - Service Mesh"
+  price: "3814"
+  priceCurrency: "INR"
+  buyButtonLink: "https://www.townscript.com/e/dodi19/booking"
+  buyButtonText: "Buy Now"
+  additionalInfo: "Workshop will be conducted on 12th Sept afternoon"
+  validFrom: "2019-08-01T10:00"
+  validThrough: "2019-09-11T23:59"
+  soldOut: false
+  soldOutText: "Sold Out"
+ -
+  name: "Workshops 1 & 2"
+  price: "5932"
+  priceCurrency: "INR"
+  buyButtonLink: "https://www.townscript.com/e/dodi19/booking"
+  buyButtonText: "Buy Now"
+  additionalInfo: "Workshop will be conducted on 12th of Sept"
+  validFrom: "2019-08-01T10:00"
+  validThrough: "2019-09-11T23:59"
+  soldOut: false
+  soldOutText: "Sold Out"
+
+# Footer
+socialLinks:
+ - {link: "https://twitter.com/DevOpsDaysIN", icon: "twitter"}
+ - {link: "https://www.facebook.com/devopsdaysin/", icon: "facebook"}
+footerBlocks:
+ -
+  title: "Links"
+  links:
+   - {link: "https://www.townscript.com/e/dodi19", text: "Buy tickets"}
+   - {link: "https://devopsdaysindia.org", text: "DevopsDays India 2019"}
+ -
+  title: "Contacts"
+  links:
+   - {link: "mailto:organizers-bengaluru-2019@devopsdays.org", text: "organizers-bengaluru-2019@devopsdays.org"}
+ -
+  title: "FAQ"
+  links:
+   - {permalink: "/cod/", text: "Code of Conduct"}
+
+# Blog
+blogTitle: "Latest news"
+blogCommentsEnabled: true
+discusShortName: "devopsdays"
+
+# Speakers List Block
+showSessions: true
+
+# Team Block
+teamBlockTitle: "About Organizers"
+aboutUs: "Devopsdays India is a global event complementing other Devopsdays events across the world."

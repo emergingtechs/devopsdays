@@ -1,6 +1,7 @@
 <!-- Begin Speakers List 2-->
 <section id="speakers">
     <div class="content-wrapper">
+        {% if site.showSpeakers %}
         <div class="col-lg-10 col-lg-offset-1 appear-animation-trigger">
             {% for speaker in site.data.speakers %}
             <div class="effect-wrapper col-md-4 col-sm-6 col-xs-12 appear-animation">
@@ -37,7 +38,8 @@
             </div>
             {% endfor %}
         </div>
-        <a href="{{ site.c4pUrl }}" class="bottom-section-link btn btn-primary waves-effect waves-button waves-light waves-float" target="_blank">Become a speaker</a>         
+        {% endif %}
+        <a href="{{ site.c4pUrl }}" class="bottom-section-link btn btn-primary waves-effect waves-button waves-light waves-float" target="_blank">Become a speaker</a>
     </div>
 </section>
 <!-- End Speakers List 2 -->

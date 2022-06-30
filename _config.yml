@@ -194,3 +194,4 @@ showSpeakers: false
 showSponsors: false
 showSchedule: false
 showLocation: false
+showTickets: false

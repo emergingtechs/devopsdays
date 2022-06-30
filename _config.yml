@@ -15,7 +15,6 @@ email: "organizers-2022@devopsdaysindia.org"
 description: "DevopsDays India is a global event complementing other DevopsDays events across the world."
 baseurl: "/"
 url: "https://devopsdaysindia.org"
-permalink: "/blog/:title"
 googleAnalyticsTrackingId: ""
 googleAnalyticsSiteUrl: "devopsdaysindia.org"
 googleMapApiKey: "AIzaSyBgvlmcBMUJrQ4NXxwIWdvJgKdmAHMlfcQ"
@@ -44,10 +43,6 @@ c4sponsorsUrl: "/assets/DevopsDaysIndia_Sponsorship_Prospectus.pdf"
 navigationLinks:
  - {permalink: "/", text: "Home"}
  - {permalink: "/team/", text: "Team"}
-bottomNavigationLinks:
- - {link: "https://devopsdaysindia.org/assets/DevopsDaysIndia_Sponsorship_Prospectus.pdf", text: "Become a sponsor"} 
-rightNavigationButtons:
- - {link: "https://devopsdaysindia.org/assets/DevopsDaysIndia_Sponsorship_Prospectus.pdf", text: "Become a sponsor"} 
 
 # Hero Block
 heroImage: "hero.jpg"
@@ -168,11 +163,6 @@ footerBlocks:
   title: "FAQ"
   links:
    - {permalink: "/cod/", text: "Code of Conduct"}
-
-# Blog
-blogTitle: "Latest news"
-blogCommentsEnabled: true
-discusShortName: "devopsdays"
 
 # Speakers List Block
 showSessions: true

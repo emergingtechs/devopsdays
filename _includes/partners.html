@@ -1,4 +1,5 @@
 <!-- Begin Partners Section -->
+{% if site.showSponsors %}
 <section id="partners" class="partners">
     <div class="content-wrapper">
         <div class="col-lg-10 col-lg-offset-1">
@@ -17,7 +18,8 @@
             {% endfor %}
             <a href="{{ site.c4sponsorsUrl | prepend: site.baseurl }}" class="btn btn-primary waves-effect waves-button waves-light waves-float">{{ site.partnersC4sponsorsButton }}</a>
         </div>
-    </div> 
+    </div>
 </section>
+{% endif %}
 <!-- End Partners Section -->
 

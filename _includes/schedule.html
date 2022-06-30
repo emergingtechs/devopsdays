@@ -1,6 +1,7 @@
 <!-- Begin Schedule Section -->
 <section id="schedule" class="schedule" align="center">
     <div class="content-wrapper">
+        {% if site.showSchedule %}
         {% for day in site.data.schedule %}
         <div class="schedule-table col-lg-8 col-md-10 col-md-offset-1">
             <h4 class="schedule-table-heading">{{ day.dateReadable }}</h4>
@@ -78,6 +79,9 @@
             {% endfor %}
         </div>
         {% endfor %}
+        {% else %}
+        <div class="h2"> Coming Soon </div>
+        {% endif %}
     </div>
 </section>
 <!-- End Schedule Section -->

@@ -1,16 +1,16 @@
 # Plugins
-gems:
+plugins:
 - jekyll-sitemap
 safe: false
 
 # Build Settings
 markdown: kramdown
 permalink: pretty
-exclude: ['/automation/', 'README.md', 'LICENSE.txt', 'CNAME']
+exclude: ['/automation/', 'README.md', 'LICENSE.txt', 'CNAME', '/archive']
 
 
 # Site Settings
-title: "DevopsDays India 2019"
+title: "DevopsDays India 2022"
 email: "ORGANIZERS-BENGALURU-2019@DEVOPSDAYS.ORG"
 description: "DevopsDays India is a global event complementing other DevopsDays events across the world."
 baseurl: "/"
@@ -22,7 +22,7 @@ googleMapApiKey: "AIzaSyBgvlmcBMUJrQ4NXxwIWdvJgKdmAHMlfcQ"
 
 # Organizer Info
 organizerName: "emergingtechs"
-organizerAlternateName: "DevopsDays India 2019"
+organizerAlternateName: "DevopsDays India 2022"
 organizerDescription: "DevopsDays India is a global event complementing other DevopsDays events across the world."
 organizerEmail: "ORGANIZERS-BENGALURU-2019@DEVOPSDAYS.ORG"
 organizerLogo: "/img/seo/organizer-logo.png"
@@ -36,7 +36,7 @@ socialImageSrcTwitter: "/img/seo/organizer-logo.png"
 socialImageSrcFacebook: "/img/seo/organizer-logo.png"
 
 # Documents
-c4pUrl: "https://www.papercall.io/dodi19"
+c4pUrl: "https://docs.google.com/forms/d/e/1FAIpQLSccCh84Z_Ckt6Y5_2gERkN9cnGtVyGxhIxpx7cbuGjXH1swLg/viewform"
 c4sponsorsUrl: "/assets/DevopsDaysIndia_Sponsorship_Prospectus.pdf"
 
 
@@ -54,13 +54,12 @@ rightNavigationButtons:
 
 # Hero Block
 heroImage: "hero.jpg"
-heroTitle: "DevopsDays <typeout> 2019"
-eventDate: "September 13-14, 2019"
+heroTitle: "DevopsDays <typeout> 2022"
+eventDate: "November 18-19, 2022"
 typeoutTextValues: '"", "India"'
 typeoutFallback: "India"
 heroButtons:
- - {link: "https://www.townscript.com/e/dodi19/booking", text: "Buy tickets"}
- - {link: "https://devopsdaysindia.org/assets/DevopsDaysIndia_Sponsorship_Prospectus.pdf", text: "Become a sponsor"} 
+ - {link: "https://docs.google.com/forms/d/e/1FAIpQLSccCh84Z_Ckt6Y5_2gERkN9cnGtVyGxhIxpx7cbuGjXH1swLg/viewform", text: "Become a speaker"}
 
 # About Block
 aboutTitle: "About DevopsDays India"
@@ -167,7 +166,7 @@ footerBlocks:
   title: "Links"
   links:
    - {link: "https://www.townscript.com/e/dodi19", text: "Buy tickets"}
-   - {link: "https://devopsdaysindia.org", text: "DevopsDays India 2019"}
+   - {link: "https://devopsdaysindia.org", text: "DevopsDays India 2022"}
  -
   title: "Contacts"
   links:
@@ -188,3 +187,10 @@ showSessions: true
 # Team Block
 teamBlockTitle: "About Organizers"
 aboutUs: "Devopsdays India is a global event complementing other Devopsdays events across the world."
+
+#Toggles
+showSpeakers: false
+showSponsors: false
+showSchedule: false
+showLocation: false
+showTickets: false

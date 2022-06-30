@@ -1,6 +1,6 @@
 <!-- Begin Tickets 2 Section -->
+{% if site.showTickets %}
 <section id="tickets" class="tickets-2">
-	{% if site.showTickets %}
 	<div class="content-wrapper">
 		<div class="col-lg-8 col-md-10 col-lg-offset-2 col-md-offset-1">
 			<h1><b>{{ site.ticketsTitle }}</b></h1>
@@ -42,6 +42,6 @@
             <span class="tickets-info">{{ site.ticketsInfo }}</span>
 		</div>
 	</div>
-	{% endif %}
 </section>
+{% endif %}
 <!-- End Tickets 2 Section -->

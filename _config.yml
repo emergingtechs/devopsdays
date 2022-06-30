@@ -57,6 +57,7 @@ typeoutTextValues: '"", "India"'
 typeoutFallback: "India"
 heroButtons:
  - {link: "https://docs.google.com/forms/d/e/1FAIpQLSccCh84Z_Ckt6Y5_2gERkN9cnGtVyGxhIxpx7cbuGjXH1swLg/viewform", text: "Become a speaker"}
+ - {link: "https://devopsdaysindia.org/assets/DevopsDaysIndia_Sponsorship_Prospectus.pdf", text: "Become a sponsor"}
 
 # About Block
 aboutTitle: "About DevopsDays India"

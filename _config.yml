@@ -11,7 +11,7 @@ exclude: ['/automation/', 'README.md', 'LICENSE.txt', 'CNAME', '/archive']
 
 # Site Settings
 title: "DevopsDays India 2022"
-email: "ORGANIZERS-BENGALURU-2019@DEVOPSDAYS.ORG"
+email: "organizers-2022@devopsdaysindia.org"
 description: "DevopsDays India is a global event complementing other DevopsDays events across the world."
 baseurl: "/"
 url: "https://devopsdaysindia.org"
@@ -24,7 +24,7 @@ googleMapApiKey: "AIzaSyBgvlmcBMUJrQ4NXxwIWdvJgKdmAHMlfcQ"
 organizerName: "emergingtechs"
 organizerAlternateName: "DevopsDays India 2022"
 organizerDescription: "DevopsDays India is a global event complementing other DevopsDays events across the world."
-organizerEmail: "ORGANIZERS-BENGALURU-2019@DEVOPSDAYS.ORG"
+organizerEmail: "organizers-2022@devopsdaysindia.org"
 organizerLogo: "/img/seo/organizer-logo.png"
 organizerLink: "devopsdaysindia.org"
 
@@ -161,14 +161,9 @@ socialLinks:
  - {link: "https://www.facebook.com/devopsdaysin/", icon: "facebook"}
 footerBlocks:
  -
-  title: "Links"
-  links:
-   - {link: "https://www.townscript.com/e/dodi19", text: "Buy tickets"}
-   - {link: "https://devopsdaysindia.org", text: "DevopsDays India 2022"}
- -
   title: "Contacts"
   links:
-   - {link: "mailto:organizers-bengaluru-2019@devopsdays.org", text: "organizers-bengaluru-2019@devopsdays.org"}
+   - {link: "mailto:organizers-2022@devopsdaysindia.org", text: "organizers-2022@devopsdaysindia.org"}
  -
   title: "FAQ"
   links:

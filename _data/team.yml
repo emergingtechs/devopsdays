@@ -41,4 +41,16 @@
     - {abbr: "DDI", title: "Devops Days India"}
   social:
     - {name: "twitter", link: "https://twitter.com/leenasn"}
+
+-
+  id: 4
+  name: "Saiyam"
+  surname: "Pathak"
+  thumbnailUrl: saiyam.jpeg
+  team: true
+  ribbon:
+    - {abbr: "DDI", title: "Devops Days India"}
+  social:
+    - {name: "twitter", link: "https://twitter.com/saiyampathak"}
+    - {name: "linkedin", link: "https://www.linkedin.com/in/saiyampathak/"}
    

@@ -1,6 +1,7 @@
 # Plugins
 plugins:
 - jekyll-sitemap
+- jekyll-twitter-plugin
 safe: false
 
 # Build Settings

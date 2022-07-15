@@ -10,8 +10,6 @@
                 {% for button in site.heroButtons %}
                 <a href="{% if button.permalink != null %} {{ button.permalink | prepend: site.baseurl }} {% else %} {{ button.link }} {% endif %}" class="btn btn-primary waves-effect waves-button waves-light waves-float" {% if button.link != null %}target="_blank"{% endif %}>{{ button.text }}</a>
                 {% endfor %}
-
-                <script id="mcjs">!function(c,h,i,m,p){m=c.createElement(h),p=c.getElementsByTagName(h)[0],m.async=1,m.src=i,p.parentNode.insertBefore(m,p)}(document,"script","https://chimpstatic.com/mcjs-connected/js/users/d553b1986f3d1667c7afeec46/5f070e67d253b698427ab53e7.js");</script>
             </div>
         </div>
         <a href="#about" class="explore">

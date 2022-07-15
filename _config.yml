@@ -44,6 +44,7 @@ c4sponsorsUrl: "/assets/DevopsDaysIndia_Sponsorship_Prospectus.pdf"
 navigationLinks:
  - {permalink: "/", text: "Home"}
  - {permalink: "/team/", text: "Team"}
+ - {permalink: "/cod/", text: "Code Of Conduct"}
 
 # Hero Block
 heroImage: "hero.jpg"

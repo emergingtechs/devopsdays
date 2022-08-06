@@ -64,3 +64,15 @@
   social:
     - {name: "twitter", link: "https://twitter.com/_scarletfire_"}
     - {name: "linkedin", link: "https://www.linkedin.com/in/ashwinimanoj/"}
+
+-
+  id: 6
+  name: "Prateek"
+  surname: "Pandey"
+  thumbnailUrl: prateek.jpeg
+  team: true
+  ribbon:
+    - {abbr: "DDI", title: "Devops Days India"}
+  social:
+    - {name: "twitter", link: "https://twitter.com/imPrateek14"}
+    - {name: "linkedin", link: "https://www.linkedin.com/in/prateekpandey14/"}

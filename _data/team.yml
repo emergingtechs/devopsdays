@@ -20,17 +20,6 @@
   social:
     - {name: "twitter", link: "https://twitter.com/_praveenshukla"}
     - {name: "linkedin", link: "https://www.linkedin.com/in/praveen-shukla-66b52b76/"}
-- 
-  id: 2
-  name: "Deepak"
-  surname: "Panth"
-  thumbnailUrl: deepak_panth.jpg
-  team: true
-  ribbon:
-    - {abbr: "DDI", title: "Devops Days India"}
-  social: 
-    - {name: "twitter", link: "https://twitter.com/panthdeepak"}
-    - {name: "linkedin", link: "https://www.linkedin.com/in/panthdeepak/"}
 -
   id: 3
   name: "Leena"

@@ -57,11 +57,10 @@ heroButtons:
  - {link: "https://devopsdaysindia.org/assets/DevopsDaysIndia_Sponsorship_Prospectus.pdf", text: "Become a sponsor"}
 
 # About Block
-aboutTitle: "About DevopsDays India"
 aboutBlock:
- - {title: "Conference", image: "conference.jpg", text: "DevopsDays India is a global event complementing other DevopsDays events across the world. Awesome speakers and lots of fun!" }
- - {title: "Workshops", image: "workshop.jpg", text: "Full-day of workshops, hands-on experience, hacking and debugging. Come and tame your favourite technology!" }
-
+ - {title: "About DevopsDays India", image: "conference.png", text: "DevopsDays India is a technical event run by volunteers from 
+ India as part of the worldwide DevOpsDays series covering topics such as software development, IT infrastructure 
+ operations, and the intersection between them." }
 # Statistic Block
 statisticBlockImage: "statistic.jpg"
 statisticBlock:

@@ -6,7 +6,7 @@
                 {% assign animationDelay = 0 %}
                 {% for about in site.aboutBlock %}
                 {% assign colWidth = 12 | divided_by: forloop.length %}
-                <div class="col-md-{{ colWidth }} col-xs-6">
+                <div class="col-md-{{ colWidth }}">
                     <div class="animated hiding" data-animation="fadeInDown" data-delay="{{ animationDelay }}">
                         <img src="{{ site.baseurl }}/img/about-section/{{ about.image }}" height="auto" width="auto" alt="{{ about.title }}">
                         <h4><b>{{ about.title }}</b></h4>

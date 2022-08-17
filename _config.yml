@@ -174,7 +174,7 @@ aboutUs: "Devopsdays India is a global event complementing other Devopsdays even
 
 #Toggles
 showSpeakers: false
-showSponsors: false
+showSponsors: true
 showSchedule: false
 showLocation: false
 showTickets: false

@@ -1,0 +1,7 @@
+- group: "Silver sponsors"
+  elements:
+    - { name: "Last9", description: "Last9 provides visibility into the Rube Goldberg of microservices",
+        link: "https://last9.io/", imageUrl: "last9.svg", width: "400" }
+    - { name: "Postman", description: "Postman is the leading collaboration platform for API-development, 
+    used by more than 20 million developers and 500,000 companies worldwide.",
+        link: "https://last9.io/", imageUrl: "postman.svg", width: "400" }

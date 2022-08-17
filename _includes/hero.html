@@ -8,7 +8,11 @@
                 <h1><b>{{ heroText[0] }}<span id="typeout-text" class="hidden-xs"></span><span class="typeout-fallback">{{ site.typeoutFallback }}</span>{{ heroText[1] }}</h1></b>
                 <p><b>{{ site.eventDate }}</b></p>
                 {% for button in site.heroButtons %}
+                {% if button.text contains 'speaker' %}
+                <a class="btn waves-effect waves-button waves-light waves-float disabled" {% if button.link != null %}target="_blank"{% endif %}>CFP Closed</a>
+                {% else %}
                 <a href="{% if button.permalink != null %} {{ button.permalink | prepend: site.baseurl }} {% else %} {{ button.link }} {% endif %}" class="btn btn-primary waves-effect waves-button waves-light waves-float" {% if button.link != null %}target="_blank"{% endif %}>{{ button.text }}</a>
+                {% endif %}
                 {% endfor %}
             </div>
         </div>

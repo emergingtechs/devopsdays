@@ -71,3 +71,10 @@
         transform: translateY(-16px);
     }
 }
+
+.disabled {
+      border: 1px solid #999999;
+      background-color: #cccccc;
+      pointer-events: none;
+      color: black;
+}

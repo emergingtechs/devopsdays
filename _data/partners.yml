@@ -5,6 +5,8 @@
     - { name: "Postman", description: "Postman is the leading collaboration platform for API-development, 
     used by more than 20 million developers and 500,000 companies worldwide.",
         link: "https://www.postman.com/", imageUrl: "postman.svg", width: "400" }
+    - { name: "Solo", description: "The Service Mesh and API Platform for Kubernetes, Zero-Trust, Microservices",
+        link: "https://www.solo.io/", imageUrl: "solo.png", width: "400" }
 - group: "Diversity Sponsors"
   elements:
     - { name: "Sema", description: "Sema Codebase Solutions offers comprehensive reports that evaluate the

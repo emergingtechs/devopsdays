@@ -59,7 +59,7 @@ heroButtons:
 
 # About Block
 aboutBlock:
- - {title: "About DevopsDays India", image: "conference.png", text: "DevopsDays India is a technical event run by volunteers from 
+ - {title: "About DevopsDays India", text: "DevopsDays India is a technical event run by volunteers from 
  India as part of the worldwide DevOpsDays series covering topics such as software development, IT infrastructure 
  operations, and the intersection between them." }
 # Statistic Block

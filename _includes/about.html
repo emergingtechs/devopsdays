@@ -8,7 +8,6 @@
                 {% assign colWidth = 12 | divided_by: forloop.length %}
                 <div class="col-md-{{ colWidth }}">
                     <div class="animated hiding" data-animation="fadeInDown" data-delay="{{ animationDelay }}">
-                        <img src="{{ site.baseurl }}/img/about-section/{{ about.image }}" height="auto" width="auto" alt="{{ about.title }}">
                         <h4><b>{{ about.title }}</b></h4>
                         <p style="font-size: 20px">{{ about.text }}</p>
                     </div>

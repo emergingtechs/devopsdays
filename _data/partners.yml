@@ -1,28 +1,28 @@
 - group: "Gold sponsors"
   elements:
     - { name: "Sumo Logic", description: "Quickly detect application and security incidents",
-        link: "https://www.sumologic.com/", imageUrl: "sumo-logic.svg", width: "400" }
+        link: "https://www.sumologic.com/", imageUrl: "sumo-logic.svg", width: "100%" }
     - { name: "UST", description: "Transforming the world’s best companies through the power of technology",
-        link: "https://www.ust.com/", imageUrl: "ust.jpg", width: "400" }
+        link: "https://www.ust.com/", imageUrl: "ust.jpg", width: "70%" }
     - { name: "InfraCloud", description: "Reimagine Infrastructure with Cloud Native",
-        link: "https://www.infracloud.io/", imageUrl: "infracloud.png", width: "400" }
+        link: "https://www.infracloud.io/", imageUrl: "infracloud.png", width: "120%" }
 - group: "Silver sponsors"
   elements:
     - { name: "Last9", description: "Last9 provides visibility into the Rube Goldberg of microservices",
-        link: "https://last9.io/", imageUrl: "last9.svg", width: "400" }
+        link: "https://last9.io/", imageUrl: "last9.svg", width: "100%" }
     - { name: "Postman", description: "Postman is the leading collaboration platform for API-development, 
     used by more than 20 million developers and 500,000 companies worldwide.",
-        link: "https://www.postman.com/", imageUrl: "postman.svg", width: "400" }
+        link: "https://www.postman.com/", imageUrl: "postman.svg", width: "100%" }
     - { name: "Solo", description: "The Service Mesh and API Platform for Kubernetes, Zero-Trust, Microservices",
-        link: "https://www.solo.io/", imageUrl: "solo.png", width: "400" }
+        link: "https://www.solo.io/", imageUrl: "solo.svg", width: "100%" }
     - { name: "Devtron", description: "An open-source release orchestration & CI/CD platform for Kubernetes",
-        link: "https://devtron.ai/", imageUrl: "devtron.png", width: "400" }
+        link: "https://devtron.ai/", imageUrl: "devtron.png", width: "110%" }
 - group: "Diversity Sponsors"
   elements:
     - { name: "Sema", description: "Sema Codebase Solutions offers comprehensive reports that evaluate the
     quality of code, code security, and third party IP risk.",
-        link: "https://www.semasoftware.com/", imageUrl: "sema.png", width: "400" }
+        link: "https://www.semasoftware.com/", imageUrl: "sema.png", width: "60%" }
 - group: "Community Sponsors"
   elements:
     - { name: "Hasgeek", description: "A welcoming space for practitioners to talk and share experiences.",
-        link: "https://hasgeek.com/", imageUrl: "hasgeek.jpeg", width: "400" }
+        link: "https://hasgeek.com/", imageUrl: "hasgeek.jpeg", width: "65%" }

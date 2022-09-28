@@ -3,6 +3,9 @@
     {% include navigation.html %}
     <div class="content-wrapper">
         <div class="jumbotron">
+            <div>
+                <img style="width: 7%" src="{{ site.baseurl }}/img/sprites/logo.svg">
+            </div>
             <div class="animated hiding" data-animation="fadeInDown" data-delay="500">
                 {% assign heroText = site.heroTitle | split:"<typeout>" %}
                 <h1><b>{{ heroText[0] }}<span id="typeout-text" class="hidden-xs"></span><span class="typeout-fallback">{{ site.typeoutFallback }}</span>{{ heroText[1] }}</h1></b>

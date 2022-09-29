@@ -7,6 +7,10 @@
         height: 64px;
         fill: #fff;
     }
+    .center {
+            display: flex;
+            justify-content: center;
+    }
 }
 .tweets {
     max-width: 850px;

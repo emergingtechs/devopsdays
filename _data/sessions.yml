@@ -1,0 +1,156 @@
+-
+  id: 0
+  title: Registration
+  service: ""
+  subtype: ""
+  description: ""
+-
+  id: 1
+  title: Kick Off
+  service: ""
+  subtype: ""
+  description: ""
+-
+  id: 2
+  title: Keynote - 1
+  service: ""
+  subtype: "keynote"
+  description: ""
+-
+  id: 3
+  title: Tea break
+  service: ""
+  subtype: ""
+  description: ""
+-
+  id: 4
+  title: Securing the Kubernetes Supply Chain
+  service: ""
+  subtype: ""
+  description: ""
+-
+  id: 5
+  title: Empowering Developers with Deployments - DevTron
+  service: ""
+  subtype: ""
+  description: ""
+-
+  id: 6
+  title: Sponsor's talk
+  service: ""
+  subtype: ""
+  description: ""
+-
+  id: 7
+  title: Lunch
+  service: ""
+  subtype: ""
+  description: ""
+-
+  id: 8
+  title: Product management in SRE
+  service: ""
+  subtype: ""
+  description: ""
+-
+  id: 9
+  title: Open Spaces
+  service: ""
+  subtype: ""
+  description: ""
+-
+  id: 10
+  title: GitHub Administration with Terraform
+  service: ""
+  subtype: ""
+  description: ""
+-
+  id: 11
+  title: Tea break
+  service: ""
+  subtype: ""
+  description: ""
+-
+  id: 12
+  title: Why we chose a columnar database to build an open-source observability tool?
+  service: ""
+  subtype: ""
+  description: ""
+-
+  id: 13
+  title: Lightning talks
+  service: ""
+  subtype: ""
+  description: ""
+-
+  id: 100
+  title: Keynote - 2
+  service: ""
+  subtype: ""
+  description: ""
+-
+  id: 101
+  title: Tea break
+  service: ""
+  subtype: ""
+  description: ""
+-
+  id: 102
+  title: Extending Pod Security Admission
+  service: ""
+  subtype: ""
+  description: ""
+-
+  id: 103
+  title: Container Networking Deep Dive
+  service: ""
+  subtype: ""
+  description: ""
+-
+  id: 104
+  title: Sponsor's talk
+  service: ""
+  subtype: ""
+  description: ""
+-
+  id: 105
+  title: Lunch
+  service: ""
+  subtype: ""
+  description: ""
+-
+  id: 106
+  title: Enforcing Security Best Practices using CI
+  service: ""
+  subtype: ""
+  description: ""
+-
+  id: 107
+  title: Open Spaces
+  service: ""
+  subtype: ""
+  description: ""
+-
+  id: 108
+  title: Introduction to Distributed Tracing
+  service: ""
+  subtype: ""
+  description: ""
+-
+  id: 109
+  title: Tea break
+  service: ""
+  subtype: ""
+  description: ""
+-
+  id: 110
+  title: Security
+  service: ""
+  subtype: ""
+  description: ""
+-
+  id: 111
+  title: Lightning talks
+  service: ""
+  subtype: ""
+  description: ""

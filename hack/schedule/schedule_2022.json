@@ -1,0 +1,162 @@
+{
+	"day_1": [
+		{
+			"startTime": "08:00",
+			"endTime": "09:00",
+			"talk_topic": "Registration",
+			"speaker": ""
+		},
+		{
+			"startTime": "09:00",
+			"endTime": "09:15",
+			"talk_topic": "Kick Off",
+			"speaker": ""
+		},
+		{
+			"startTime": "09:30",
+			"endTime": "10:20",
+			"talk_topic": "Keynote - 1",
+			"speaker": "Janakiram"
+		},
+		{
+			"startTime": "10:20",
+			"endTime": "10:50",
+			"talk_topic": "Tea break",
+			"speaker": ""
+		},
+		{
+			"startTime": "10:50",
+			"endTime": "11:30",
+			"talk_topic": "Securing the Kubernetes Supply Chain",
+			"speaker": "Jim Bugwadia|Swapnil Babladkar"
+		},
+		{
+			"startTime": "11:30",
+			"endTime": "12:10",
+			"talk_topic": "Empowering Developers with Deployments - DevTron",
+			"speaker": "Shivani"
+		},
+		{
+			"startTime": "12:10",
+			"endTime": "12:40",
+			"talk_topic": "Sponsor's talk",
+			"speaker": ""
+		},
+		{
+			"startTime": "12:40",
+			"endTime": "02:00",
+			"talk_topic": "Lunch",
+			"speaker": ""
+		},
+		{
+			"startTime": "02:00",
+			"endTime": "02:40",
+			"talk_topic": "Product management in SRE",
+			"speaker": "JayaGanesh Kalyanasundaram"
+		},
+		{
+			"startTime": "02:40",
+			"endTime": "03:20",
+			"talk_topic": "Open Spaces",
+			"speaker": ""
+		},
+		{
+			"startTime": "03:20",
+			"endTime": "04:00",
+			"talk_topic": "GitHub Administration with Terraform",
+			"speaker": "Pooja Dhoot"
+		},
+		{
+			"startTime": "04:00",
+			"endTime": "04:20",
+			"talk_topic": "Tea break",
+			"speaker": ""
+		},
+		{
+			"startTime": "04:20",
+			"endTime": "05:00",
+			"talk_topic": "Why we chose a columnar database to build an open-source observability tool?",
+			"speaker": "Ankit Nayan"
+		},
+		{
+			"startTime": "05:00",
+			"endTime": "05:30",
+			"talk_topic": "Lightning talks",
+			"speaker": ""
+		}
+	],
+	"day_2": [
+		{
+			"startTime": "09:30",
+			"endTime": "10:20",
+			"talk_topic": "Keynote - 2",
+			"speaker": ""
+		},
+		{
+			"startTime": "10:20",
+			"endTime": "10:50",
+			"talk_topic": "Tea break",
+			"speaker": ""
+		},
+		{
+			"startTime": "10:50",
+			"endTime": "11:30",
+			"talk_topic": "Extending Pod Security Admission",
+			"speaker": "Anushka Mittal|Kumar Mallikarjuna"
+		},
+		{
+			"startTime": "11:30",
+			"endTime": "12:10",
+			"talk_topic": "Container Networking Deep Dive",
+			"speaker": "Arihant Hirawat"
+		},
+		{
+			"startTime": "12:10",
+			"endTime": "12:40",
+			"talk_topic": "Sponsor's talk",
+			"speaker": ""
+		},
+		{
+			"startTime": "12:40",
+			"endTime": "02:00",
+			"talk_topic": "Lunch",
+			"speaker": ""
+		},
+		{
+			"startTime": "02:00",
+			"endTime": "02:40",
+			"talk_topic": "Enforcing Security Best Practices using CI",
+			"speaker": "Nancy Chauhan|Aseem Shrey"
+		},
+		{
+			"startTime": "02:40",
+			"endTime": "03:20",
+			"talk_topic": "Open Spaces",
+			"speaker": ""
+		},
+		{
+			"startTime": "03:20",
+			"endTime": "04:00",
+			"talk_topic": "Introduction to Distributed Tracing",
+			"speaker": "Suraj Nath"
+		},
+		{
+			"startTime": "04:00",
+			"endTime": "04:20",
+			"talk_topic": "Tea break",
+			"speaker": ""
+		},
+		{
+			"startTime": "04:20",
+			"endTime": "05:00",
+			"talk_topic": "Security",
+			"speaker": "Nishant Mittal"
+		},
+		{
+			"startTime": "05:00",
+			"endTime": "05:30",
+			"talk_topic": "Lightning talks",
+			"speaker": ""
+		}
+	]
+}

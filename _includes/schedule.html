@@ -37,8 +37,8 @@
                         {% assign slotIndex = forloop.index0 %}
                         {% if slot != 404 %}
                             {% for session in site.data.sessions %}
-                                {% if slot == session.id and session.service == null %}
-                                <div id="session-{{ session.id }}" class="slot col-md-{{ slotColWidth }} col-xs-12 flexbox-item-height" data-slot-detail="{{ day.tracks[slotIndex].title }}" data-toggle="modal" data-target="#sessionDetail-{{ session.id }}">
+                                {% if slot == session.id and (session.service == null or session.service == "") %}
+                                <div id="session-{{ session.id }}" class="slot col-md-{{ slotColWidth }} col-xs-12 flexbox-item-height" data-slot-detail="{{ day.tracks[slotIndex].title }}" data-target="#sessionDetail-{{ session.id }}">
                                     <div class="color-line" style="background: {{ day.tracks[slotIndex].color }}"></div>
                                     <div class="slot-content" style="border-right-color: {{ day.tracks[slotIndex].color }}">
                                         <h5 class="slot-title" itemprop="name">{{ session.title }}</h5>
@@ -47,7 +47,13 @@
                                             {% for speaker in site.data.speakers %}
                                                 {% for session_speaker in session.speakers %}
                                                     {% if session_speaker == speaker.id %}
-                                                    <li itemprop="performer"><div class="speaker-img flow-img img-circle" style="background-image: url({{ site.baseurl | append: '/img/people/' | append: speaker.thumbnailUrl }})"></div>
+                                                    {% assign imageUrl = speaker.thumbnailUrl | default: "default_user.svg" %}
+                                                    {% assign imgHeight = speaker.imgHeight | default: "100%" %}
+                                                    {% assign imgWidth = speaker.imgWidth | default: "100%" %}
+                                                    <li itemprop="performer">
+                                                    <div class="speaker-img flow-img img-circle">
+                                                        <img class="full-img" style="height: {{imgHeight}}; width: {{imgWidth}};" src="{{ site.baseurl | append: '/img/people/' | append: imageUrl }}">
+                                                    </div>
                                                     <p class="speaker-name">{{ speaker.name }} {{ speaker.surname }}
                                                         <span class="speaker-position">{{ speaker.company }}</span>
                                                     </p>

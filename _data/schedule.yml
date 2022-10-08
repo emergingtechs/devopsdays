@@ -11,35 +11,31 @@
       endTime: "09:15"
       sessionIds:
         - 1
-    - startTime: "09:30"
-      endTime: "10:20"
+    - startTime: "09:15"
+      endTime: "10:05"
       sessionIds:
         - 2
-    - startTime: "10:20"
-      endTime: "10:50"
+    - startTime: "10:05"
+      endTime: "10:35"
       sessionIds:
         - 3
-    - startTime: "10:50"
-      endTime: "11:30"
+    - startTime: "10:35"
+      endTime: "11:15"
       sessionIds:
         - 4
-    - startTime: "11:30"
-      endTime: "12:10"
-      sessionIds:
-        - 5
-    - startTime: "12:10"
-      endTime: "12:40"
-      sessionIds:
-        - 6
-    - startTime: "12:40"
-      endTime: "14:00"
-      sessionIds:
-        - 7
-    - startTime: "14:00"
-      endTime: "14:40"
+    - startTime: "11:15"
+      endTime: "11:55"
       sessionIds:
         - 8
-    - startTime: "14:40"
+    - startTime: "11:55"
+      endTime: "12:25"
+      sessionIds:
+        - 6
+    - startTime: "12:25"
+      endTime: "13:45"
+      sessionIds:
+        - 7
+    - startTime: "13:45"
       endTime: "15:20"
       sessionIds:
         - 9

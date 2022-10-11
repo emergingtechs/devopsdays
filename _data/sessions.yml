@@ -11,7 +11,7 @@
   description: ""
   speakers: []
 - id: 2
-  title: Keynote - MLOps from the perspective of a DevOps Engineer
+  title: Keynote: MLOps - Extending DevOps to Machine Learning
   service: ""
   subtype: keynote
   description: ""
@@ -156,7 +156,7 @@
   description: ""
   speakers: []
 - id: 110
-  title: Security
+  title: Understanding (in)secure DevOps with an attacker’s mindset
   service: ""
   subtype: ""
   description: ""

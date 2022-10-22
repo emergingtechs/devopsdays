@@ -1,6 +1,8 @@
-source "http://rubygems.org"
+source "https://rubygems.org"
 
-gem 'github-pages'
+ruby ">= 3.1.2"
+
+gem 'github-pages', group: :jekyll_plugins
 gem 'compass'
 gem 'sass-media_query_combiner'
 gem 'autoprefixer-rails'

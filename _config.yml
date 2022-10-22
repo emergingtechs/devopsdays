@@ -14,7 +14,7 @@ exclude: ['/automation/', 'README.md', 'LICENSE.txt', 'CNAME', '/archive']
 title: "DevopsDays India 2022"
 email: "organizers-2022@devopsdaysindia.org"
 description: "DevopsDays India is a global event complementing other DevopsDays events across the world."
-baseurl: "/"
+baseurl: ""
 url: "https://devopsdaysindia.org"
 googleAnalyticsTrackingId: ""
 googleAnalyticsSiteUrl: "devopsdaysindia.org"
@@ -58,9 +58,8 @@ heroButtons:
 
 # About Block
 aboutBlock:
- - {title: "About DevopsDays India", text: "DevopsDays India is a technical event run by volunteers from 
- India as part of the worldwide DevOpsDays series covering topics such as software development, IT infrastructure 
- operations, and the intersection between them." }
+ - {title: "About DevopsDays India", text: "DevopsDays India is a technical event run by volunteers from India as part of the worldwide DevOpsDays series covering topics such as software development, IT infrastructure  operations, and the intersection between them." }
+
 # Statistic Block
 statisticBlockImage: "statistic.jpg"
 statisticBlock:

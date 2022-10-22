@@ -1,6 +1,10 @@
+.DS_Store
 _site/
 .sass-cache/
 .jekyll-cache/
 .jekyll-metadata
 .idea/
 .tweet-cache/
+.bundle/
+vendor/
+

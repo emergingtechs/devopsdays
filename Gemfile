@@ -1,7 +1,5 @@
 source "https://rubygems.org"
 
-ruby ">= 3.1.2"
-
 gem 'github-pages', group: :jekyll_plugins
 gem 'compass'
 gem 'sass-media_query_combiner'

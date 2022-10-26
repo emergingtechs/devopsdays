@@ -90,11 +90,12 @@
   description: ""
   speakers: []
 - id: 100
-  title: Keynote
+  title: Understanding (in)secure DevOps with an attacker’s mindset
   service: ""
   subtype: ""
   description: ""
-  speakers: []
+  speakers:
+  - 14
 - id: 101
   title: Tea break
   service: ""
@@ -143,12 +144,11 @@
   description: ""
   speakers: []
 - id: 108
-  title: Introduction to Distributed Tracing
+  title: Open Spaces
   service: ""
   subtype: ""
   description: ""
-  speakers:
-    - 13
+  speakers: []
 - id: 109
   title: Tea break
   service: ""
@@ -156,12 +156,13 @@
   description: ""
   speakers: []
 - id: 110
-  title: Understanding (in)secure DevOps with an attacker’s mindset
+  title: Introduction to Distributed Tracing
   service: ""
   subtype: ""
   description: ""
   speakers:
-    - 14
+  - 13
+
 - id: 111
   title: Lightning talks
   service: ""

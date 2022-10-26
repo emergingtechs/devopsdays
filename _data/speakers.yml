@@ -1,19 +1,19 @@
 - id: 1
   name: Janakiram
-  surname: ""
-  company: ""
+  surname: "MSV"
+  company: "Janakiram & Associates"
   title: ""
   bio: ""
-  thumbnailUrl: default_user.svg
+  thumbnailUrl: janakiram.jpeg
   rockstar: ""
   social: []
 - id: 2
-  name: Jim
-  surname: Bugwadia
-  company: ""
-  title: ""
+  name: Parikshit
+  surname: Samant
+  company: "Niramata"
+  title: "Principal Engineer"
   bio: ""
-  thumbnailUrl: jim.jpeg
+  thumbnailUrl: .jpeg
   rockstar: ""
   social: []
 - id: 3
@@ -22,7 +22,7 @@
   company: ""
   title: ""
   bio: ""
-  thumbnailUrl: default_user.svg
+  thumbnailUrl: swapnil.jpeg
   rockstar: ""
   social: []
 - id: 4

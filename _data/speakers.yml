@@ -10,17 +10,17 @@
 - id: 2
   name: Parikshit
   surname: Samant
-  company: "Niramata"
+  company: "Nirmata"
   title: "Principal Engineer"
   bio: ""
-  thumbnailUrl: .jpeg
+  thumbnailUrl: parikshit_samant.jpeg
   rockstar: ""
   social: []
 - id: 3
   name: Swapnil
   surname: Babladkar
-  company: ""
-  title: ""
+  company: "Nirmata"
+  title: "Customer Success Engineer"
   bio: ""
   thumbnailUrl: swapnil.jpeg
   rockstar: ""
@@ -37,8 +37,8 @@
 - id: 5
   name: JayaGanesh
   surname: Kalyanasundaram
-  company: ""
-  title: ""
+  company: "Google"
+  title: "Tech Lead"
   bio: ""
   thumbnailUrl: jaya_ganesh.jpg
   rockstar: ""
@@ -46,8 +46,8 @@
 - id: 6
   name: Pooja
   surname: Dhoot
-  company: ""
-  title: ""
+  company: "InfraCloud Technologies"
+  title: "Senior Site Reliability Engineer"
   bio: ""
   thumbnailUrl: pooja.jpg
   rockstar: ""
@@ -55,8 +55,8 @@
 - id: 7
   name: Ankit
   surname: Nayan
-  company: ""
-  title: ""
+  company: "SigNoz"
+  title: "Co-founder & CTO"
   bio: ""
   thumbnailUrl: ankit.jpeg
   rockstar: ""
@@ -64,8 +64,8 @@
 - id: 8
   name: Anushka
   surname: Mittal
-  company: ""
-  title: ""
+  company: "CNCF"
+  title: "Intern"
   bio: ""
   thumbnailUrl: anushka.jpeg
   rockstar: ""
@@ -73,17 +73,17 @@
 - id: 9
   name: Kumar
   surname: Mallikarjuna
-  company: ""
-  title: ""
+  company: "Niramata"
+  title: "Software Engineer"
   bio: ""
-  thumbnailUrl: default_user.svg
+  thumbnailUrl: kumar.jpeg
   rockstar: ""
   social: []
 - id: 10
   name: Arihant
   surname: Hirawat
-  company: ""
-  title: ""
+  company: "GaussB Labs"
+  title: "Software Engineer"
   bio: ""
   thumbnailUrl: arihant.jpg
   rockstar: ""
@@ -92,8 +92,8 @@
 - id: 11
   name: Nancy
   surname: Chauhan
-  company: ""
-  title: ""
+  company: "Gitpod "
+  title: "Developer Relations Engineer"
   bio: ""
   thumbnailUrl: nancy.jpg
   rockstar: ""
@@ -101,8 +101,8 @@
 - id: 12
   name: Aseem
   surname: Shrey
-  company: ""
-  title: ""
+  company: "Rippling"
+  title: "Security Engineer"
   bio: ""
   thumbnailUrl: aseem.jpg
   rockstar: ""
@@ -110,8 +110,8 @@
 - id: 13
   name: Suraj
   surname: Nath
-  company: ""
-  title: ""
+  company: "Grafana Labs"
+  title: "Software Engineer"
   bio: ""
   thumbnailUrl: suraj_nath.jpeg
   rockstar: ""
@@ -119,8 +119,8 @@
 - id: 14
   name: Nishant
   surname: Mittal
-  company: ""
-  title: ""
+  company: "PingSafe"
+  title: "Founder & CTO"
   bio: ""
   thumbnailUrl: nishant_mittal.jpg
   rockstar: ""

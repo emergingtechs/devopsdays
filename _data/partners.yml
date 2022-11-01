@@ -26,3 +26,6 @@
   elements:
     - { name: "Hasgeek", description: "A welcoming space for practitioners to talk and share experiences.",
         link: "https://hasgeek.com/", imageUrl: "hasgeek.jpeg", width: "65%" }
+    - { name: "Kubesimplify", description: "On a mission to
+teach cloud native to everyone.",
+        link: "https://kubesimplify.com/", imageUrl: "kubesimplify.png", width: "100%" }

@@ -89,9 +89,13 @@
       sessionIds:
         - 106
     - startTime: "14:40"
-      endTime: "16:20"
+      endTime: "16:00"
       sessionIds:
         - 107
+    - startTime: "16:00"
+      endTime: "16:20"
+      sessionIds:
+        - 109
     - startTime: "16:20"
       endTime: "17:00"
       sessionIds:

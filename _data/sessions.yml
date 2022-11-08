@@ -24,13 +24,13 @@
   description: ""
   speakers: []
 - id: 4
-  title: Securing the Kubernetes Supply Chain
+  title: Extending Pod Security Admission
   service: ""
   subtype: ""
   description: ""
   speakers:
-    - 2
-    - 3
+    - 8
+    - 9
 - id: 5
   title: Empowering Developers with Deployments
   service: ""
@@ -103,13 +103,13 @@
   description: ""
   speakers: []
 - id: 102
-  title: Extending Pod Security Admission
+  title: Securing the Kubernetes Supply Chain
   service: ""
   subtype: ""
   description: ""
   speakers:
-    - 8
-    - 9
+    - 2
+    - 3
 - id: 103
   title: Container Networking Deep Dive
   service: ""

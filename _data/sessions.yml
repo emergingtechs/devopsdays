@@ -27,7 +27,7 @@
   title: Securing the Kubernetes Supply Chain
   service: ""
   subtype: ""
-  description: ""
+  description: "Learn how to automate the signing and verification of container images using cloud native tools like Sigstore and Kyverno to secure your Kubernetes pipelines."
   speakers:
     - 2
     - 3
@@ -35,7 +35,7 @@
   title: Empowering Developers with Deployments
   service: ""
   subtype: ""
-  description: ""
+  description: "A unified platform is a secret to achieve robustness, resilience, and agility. In this talk, the speaker will share their journey of building an open-source unified platform that empowers developers with monitoring, debugging, logging, and giving control to deploy their code over Kubernetes in just a few clicks."
   speakers:
     - 4
 - id: 6
@@ -54,7 +54,7 @@
   title: Product management in SRE
   service: ""
   subtype: ""
-  description: ""
+  description: "In this talk I'll talk about the influence of Product Management in SRE and the future of SRE. We've come a long way from Ops to DevOps to SRE, what will the next step in this path?"
   speakers:
     - 5
 - id: 9
@@ -67,7 +67,7 @@
   title: GitHub Administration with Terraform
   service: ""
   subtype: ""
-  description: ""
+  description: "It's rare to find someone from cloud-native or DevOps or SRE space, who hasn’t heard of Terraform and its capabilities. Today, we will go through one of the ways you can use this tool to make your life easy around Github. The one basic skill that everyone in the IT industry starts to learn first is using Git and moreover Github. Sometimes people use them interchangeably. In any big organization, GitHub is the single source of truth where resides the entire code for all the teams. Organizing that huge code is a challenge and automating it is a demanding need. Onboarding new users, creating teams, managing their permissions and creating new repositories every now and then becomes a BAU task. This all can be automated by a single tool TERRAFORM, which has been a popular choice being cloud agnostic in the IaaC field. Using the GitHub provider of Terraform can make it possible. Create new repositories, new teams, add users, archive a repository, and add or remove webhooks from repositories all these types of mundane but critical tasks we can automate using terraform. We will walk together to learn how we can create a self-service Infrastructure for Github."
   speakers:
     - 6
 - id: 11
@@ -80,7 +80,10 @@
   title: Why we chose a columnar database to build an open-source observability tool?
   service: ""
   subtype: ""
-  description: ""
+  description: "80% of the queries on logs are aggregation queries in Uber.
+Running on-demand aggregates on your data-rich events with the power to slice and dice the data based on hypothesis creates the backbone of an observability system.
+
+In the talk, I will present challenges in observability data management and how a distributed columnar database fits the needs."
   speakers:
     - 7
 - id: 13
@@ -93,7 +96,8 @@
   title: Understanding (in)secure DevOps with an attacker’s mindset
   service: ""
   subtype: ""
-  description: ""
+  description: "There has been 12,286% rise in Bug bounty reports related to Cloud Misconfigurations (HackerOne Report 2021).
+This can be solved by implementing a rich context graph across our CI/CD pipeline, which maps the exact relationships and dependencies of infrastructure across the entirety of the product lifecycle - starting from infrastructure creation (IaC) all the way to applications running in the cloud."
   speakers:
   - 14
 - id: 101
@@ -106,7 +110,7 @@
   title: Extending Pod Security Admission
   service: ""
   subtype: ""
-  description: ""
+  description: "Kubernetes security is challenging! Pod Security Policy (PSP) is now replaced by Pod Security Admission (PSA) to help provide secure defaults. While PSP allowed granular controls, PSA operates at the namespace level. Let's discuss how you can configure security constraints for specific pods or controls using PSA and Kyverno."
   speakers:
     - 8
     - 9
@@ -121,7 +125,7 @@
   title: Sponsor's talk
   service: ""
   subtype: ""
-  description: ""
+  description: "Dive deeper into the underlying container networking, including its constituent elements like bridges, veth pairs, routing etc. to understand the various ways in which container runtimes and container orchestration platforms implement container networking."
   speakers: []
 - id: 105
   title: Lunch
@@ -133,7 +137,10 @@
   title: Enforcing Security Best Practices using CI
   service: ""
   subtype: ""
-  description: ""
+  description: "High-performing teams usually ship faster, better, secure and often! Organizations irrespective of their level, focusing on stability and continuous delivery ( CD ), will deploy frequently.
+Hundreds of continuous integration ( CI ) build run for every organization on a typical day. This means your code and system is more prone to bugs, accidental data exposure, third party vulnerabilities and hence open doors for attackers.
+
+Hence to ensure that we are shipping quality and secure code, we should integrate security checking in our CI. This talk will be about enforcing security best practices using CI"
   speakers:
     - 11
     - 12
@@ -159,7 +166,7 @@
   title: Introduction to Distributed Tracing
   service: ""
   subtype: ""
-  description: ""
+  description: "Distributed Tracing is the core part of the modern observability stack. In this talk, I will introduce the audience to Distributed Tracing and what it is. How does it work? And how they can instrument applications and set up open source distributed tracing databases."
   speakers:
   - 13
 

@@ -172,7 +172,7 @@ teamBlockTitle: "About Organizers"
 aboutUs: "Devopsdays India is a global event complementing other Devopsdays events across the world."
 
 #Toggles
-showSpeakers: false
+showSpeakers: true
 showSponsors: true
 showSchedule: true
 showLocation: true

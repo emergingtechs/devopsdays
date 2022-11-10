@@ -32,7 +32,7 @@
   title: ""
   bio: ""
   thumbnailUrl: default_user.svg
-  rockstar: ""
+  # rockstar: ""
   social: []
 - id: 5
   name: JayaGanesh

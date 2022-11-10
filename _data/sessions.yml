@@ -24,13 +24,13 @@
   description: ""
   speakers: []
 - id: 4
-  title: Securing the Kubernetes Supply Chain
+  title: Extending Pod Security Admission
   service: ""
   subtype: ""
   description: "Learn how to automate the signing and verification of container images using cloud native tools like Sigstore and Kyverno to secure your Kubernetes pipelines."
   speakers:
-    - 2
-    - 3
+    - 8
+    - 9
 - id: 5
   title: Empowering Developers with Deployments
   service: ""
@@ -107,13 +107,13 @@ This can be solved by implementing a rich context graph across our CI/CD pipelin
   description: ""
   speakers: []
 - id: 102
-  title: Extending Pod Security Admission
+  title: Securing the Kubernetes Supply Chain
   service: ""
   subtype: ""
   description: "Kubernetes security is challenging! Pod Security Policy (PSP) is now replaced by Pod Security Admission (PSA) to help provide secure defaults. While PSP allowed granular controls, PSA operates at the namespace level. Let's discuss how you can configure security constraints for specific pods or controls using PSA and Kyverno."
   speakers:
-    - 8
-    - 9
+    - 2
+    - 3
 - id: 103
   title: Container Networking Deep Dive
   service: ""

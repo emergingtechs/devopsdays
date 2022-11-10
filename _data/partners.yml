@@ -1,3 +1,7 @@
+- group: "Platinum sponsors"
+  elements:
+    - { name: "Site24*7", description: "Monitoring Availability and End User Experience Made Simple",
+        link: "https://www.site24x7.com/", imageUrl: "site247.png", width: "120%" }
 - group: "Gold sponsors"
   elements:
     - { name: "Sumo Logic", description: "Quickly detect application and security incidents",
@@ -6,26 +10,31 @@
         link: "https://www.ust.com/", imageUrl: "ust.jpg", width: "70%" }
     - { name: "InfraCloud", description: "Reimagine Infrastructure with Cloud Native",
         link: "https://www.infracloud.io/", imageUrl: "infracloud.png", width: "120%" }
+    - { name: "Gojek", description: "We have 20+ products serving millions of customers across Transport & Logistics, Food & Shopping, Payments, Daily needs, Business, News & Entertainment.",
+        link: "https://www.gojek.io/", imageUrl: "gojek.png", width: "100%" }
 - group: "Silver sponsors"
   elements:
     - { name: "Last9", description: "Last9 provides visibility into the Rube Goldberg of microservices",
         link: "https://last9.io/", imageUrl: "last9.svg", width: "100%" }
-    - { name: "Postman", description: "Postman is the leading collaboration platform for API-development, 
-    used by more than 20 million developers and 500,000 companies worldwide.",
+    - { name: "Postman", description: "Postman is the leading collaboration platform for API-development, used by more than 20 million developers and 500,000 companies worldwide.",
         link: "https://www.postman.com/", imageUrl: "postman.svg", width: "100%" }
     - { name: "Solo", description: "The Service Mesh and API Platform for Kubernetes, Zero-Trust, Microservices",
         link: "https://www.solo.io/", imageUrl: "solo.svg", width: "100%" }
     - { name: "Devtron", description: "An open-source release orchestration & CI/CD platform for Kubernetes",
         link: "https://devtron.ai/", imageUrl: "devtron.png", width: "110%" }
+    - { name: "Infrspec", description: "Cloud Native Infrastructure Simplified",
+        link: "https://infraspec.dev/", imageUrl: "infraspec.png", width: "50%" }
 - group: "Diversity Sponsors"
   elements:
-    - { name: "Sema", description: "Sema Codebase Solutions offers comprehensive reports that evaluate the
-    quality of code, code security, and third party IP risk.",
+    - { name: "Sema", description: "Sema Codebase Solutions offers comprehensive reports that evaluate the quality of code, code security, and third party IP risk.",
         link: "https://www.semasoftware.com/", imageUrl: "sema.png", width: "60%" }
 - group: "Community Sponsors"
   elements:
     - { name: "Hasgeek", description: "A welcoming space for practitioners to talk and share experiences.",
-        link: "https://hasgeek.com/", imageUrl: "hasgeek.jpeg", width: "65%" }
-    - { name: "Kubesimplify", description: "On a mission to
-teach cloud native to everyone.",
-        link: "https://kubesimplify.com/", imageUrl: "kubesimplify.png", width: "100%" }
+        link: "https://hasgeek.com/", imageUrl: "hasgeek.jpeg", width: "75%" }
+    - { name: "Kubesimplify", description: "On a mission toteach cloud native to everyone.",
+        link: "https://kubesimplify.com/", imageUrl: "kubesimplify.png", width: "55%" }
+    - { name: "Kube Events", description: "",
+        link: "https://kube.events/ ", imageUrl: "kube-careers.png", width: "100%" }
+    - { name: "Kube Careers", description: "Hand-picked Kubernetes jobs",
+        link: "https://kube.careers/", imageUrl: "kube-events.png", width: "100%" }

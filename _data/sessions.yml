@@ -169,9 +169,14 @@ Hence to ensure that we are shipping quality and secure code, we should integrat
   description: "Distributed Tracing is the core part of the modern observability stack. In this talk, I will introduce the audience to Distributed Tracing and what it is. How does it work? And how they can instrument applications and set up open source distributed tracing databases."
   speakers:
   - 13
-
 - id: 111
   title: Lightning talks
+  service: ""
+  subtype: ""
+  description: ""
+  speakers: []
+- id: 112
+  title: Conference Party 🥳
   service: ""
   subtype: ""
   description: ""

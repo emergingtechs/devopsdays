@@ -55,6 +55,10 @@
       endTime: "17:30"
       sessionIds:
         - 13
+    - startTime: "18:00"
+      endTime: "19:30"
+      sessionIds:
+        - 112
 - date: "2022-11-19"
   dateReadable: "November 19"
   tracks:

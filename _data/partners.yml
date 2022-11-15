@@ -10,8 +10,6 @@
         link: "https://www.ust.com/", imageUrl: "ust.jpg", width: "70%" }
     - { name: "InfraCloud", description: "Reimagine Infrastructure with Cloud Native",
         link: "https://www.infracloud.io/", imageUrl: "infracloud.png", width: "120%" }
-    - { name: "Gojek", description: "We have 20+ products serving millions of customers across Transport & Logistics, Food & Shopping, Payments, Daily needs, Business, News & Entertainment.",
-        link: "https://www.gojek.io/", imageUrl: "gojek.png", width: "100%" }
 - group: "Silver sponsors"
   elements:
     - { name: "Last9", description: "Last9 provides visibility into the Rube Goldberg of microservices",
@@ -28,6 +26,14 @@
   elements:
     - { name: "Sema", description: "Sema Codebase Solutions offers comprehensive reports that evaluate the quality of code, code security, and third party IP risk.",
         link: "https://www.semasoftware.com/", imageUrl: "sema.png", width: "60%" }
+- group: "Swag and Recording Sponsors"
+  elements:
+    - { name: "KodeKloud", description: "Become a devops expert through our learn-by-doing platform",
+        link: "https://kodekloud.com/", imageUrl: "kodekloud.png", width: "160%" }
+- group: "Party Sponsors"
+  elements:
+    - { name: "FluxNinja", description: "Flow control and reliability management platform for modern cloud applications.",
+        link: "https://www.fluxninja.com/", imageUrl: "fluxninja.png", width: "160%" }
 - group: "Community Sponsors"
   elements:
     - { name: "Hasgeek", description: "A welcoming space for practitioners to talk and share experiences.",

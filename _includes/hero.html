@@ -1,29 +1,17 @@
 <!-- Begin Hero Section -->
-<section id="top-section-hero" class="top-section-hero top-section image-section" style="background-image: url('{{ site.baseurl }}/img/sections-background/{{ site.heroImage }}');">
-    {% include navigation.html %}
+<section id="top-section-hero" class="top-section-hero top-section image-section"
+    style="background-image: url('{{ site.baseurl }}/img/sections-background/{{ site.heroImage }}');">
     <div class="content-wrapper">
-        <div class="jumbotron">
-            <div>
-                <img style="width: 7%" src="{{ site.baseurl }}/img/sprites/logo.svg">
-            </div>
+        <div class="jumbotron" style="margin-left:40px;margin-right: 40px;">
+            <meta http-equiv="Refresh" content="5; url='https://devopsdays.org/bengaluru'" />
             <div class="animated hiding" data-animation="fadeInDown" data-delay="500">
-                {% assign heroText = site.heroTitle | split:"<typeout>" %}
-                <h1><b>{{ heroText[0] }}<span id="typeout-text" class="hidden-xs"></span><span class="typeout-fallback">{{ site.typeoutFallback }}</span>{{ heroText[1] }}</h1></b>
-                <p><b>{{ site.eventDate }}</b></p>
-                {% for button in site.heroButtons %}
-                {% if button.text contains 'speaker' %}
-                <a class="btn waves-effect waves-button waves-light waves-float disabled" {% if button.link != null %}target="_blank"{% endif %}>CFP Closed</a>
-                {% else %}
-                <a href="{% if button.permalink != null %} {{ button.permalink | prepend: site.baseurl }} {% else %} {{ button.link }} {% endif %}" class="btn btn-primary waves-effect waves-button waves-light waves-float" {% if button.link != null %}target="_blank"{% endif %}>{{ button.text }}</a>
-                {% endif %}
-                {% endfor %}
+                <meta http-equiv="Refresh" content="30; url='https://devopsdays.org/bengaluru'" />
+                <h1><b>We are returning as DevOpsDays Bengaluru for the 2023 edition!</b></h1>
+                <h4><b>Join us at <a href="https://devopsdays.org/bengaluru">devopsdays.org/bengaluru!</a></b></h4>
+                <p style="margin-top: 20px; font-weight: 300;"><i>(You will be automatically redirected in some time)</i></p>
+
             </div>
         </div>
-        <a href="#about" class="explore">
-            <svg class="icon icon-arrow-down" viewBox="0 0 32 32">
-                <use xlink:href="{{ site.baseurl }}/img/sprites/sprites.svg#icon-arrow-down"></use>
-            </svg>
-        </a>
     </div>
 </section>
 <!-- End Hero Section -->
